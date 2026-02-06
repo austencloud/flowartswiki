@@ -1,0 +1,8 @@
+# Shell scripts must have LF endings (run on Linux VPS)
+*.sh text eol=lf
+
+# PHP needs LF too
+*.php text eol=lf
+
+# Everything else: auto
+* text=auto

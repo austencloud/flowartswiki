@@ -1,0 +1,137 @@
+/*
+ * Flow Arts Wiki - Citizen Skin Overrides
+ *
+ * Overrides the default Star Citizen blue theme with a scholarly,
+ * encyclopedic palette. Dark mode default with warm accents.
+ */
+
+/* ---------------------------------------------------------------
+ * Color palette
+ * --------------------------------------------------------------- */
+:root {
+	/* Primary: deep teal — scholarly, not gaming */
+	--color-primary: #1a6b5a;
+	--color-primary--hover: #1f7d6a;
+	--color-primary--active: #15594b;
+
+	/* Accent: warm gold — evokes fire arts */
+	--color-accent: #c9a84c;
+
+	/* Links */
+	--color-link: #5ab89a;
+	--color-link--visited: #8ab89a;
+	--color-link--hover: #7dd4b5;
+	--color-link-new: #c9a84c;
+	--color-link-new--hover: #dbbe6a;
+}
+
+/* ---------------------------------------------------------------
+ * Dark mode (default)
+ * --------------------------------------------------------------- */
+.skin-citizen-dark {
+	--color-surface-0: #141420;
+	--color-surface-1: #1a1a2e;
+	--color-surface-2: #22223a;
+	--color-surface-3: #2a2a44;
+	--color-surface-4: #33334e;
+
+	--color-base: #e0ddd5;
+	--color-base--subtle: #a8a49c;
+	--color-base--emphasized: #f0ede5;
+}
+
+/* ---------------------------------------------------------------
+ * Light mode
+ * --------------------------------------------------------------- */
+.skin-citizen-light {
+	--color-surface-0: #faf8f5;
+	--color-surface-1: #f2efe9;
+	--color-surface-2: #eae6de;
+	--color-surface-3: #ddd9d0;
+	--color-surface-4: #d0ccc2;
+
+	--color-base: #2a2a2a;
+	--color-base--subtle: #555550;
+	--color-base--emphasized: #1a1a1a;
+}
+
+/* ---------------------------------------------------------------
+ * Typography: serif headings, sans-serif body
+ * --------------------------------------------------------------- */
+.citizen-body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+		Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.mw-page-title-main,
+.citizen-section-heading .mw-headline,
+.mw-heading h1,
+.mw-heading h2,
+.mw-heading h3,
+.mw-heading h4,
+.mw-heading h5,
+.mw-heading h6,
+#firstHeading {
+	font-family: Georgia, "Times New Roman", "Noto Serif", serif;
+	font-weight: 600;
+	letter-spacing: -0.01em;
+}
+
+#firstHeading {
+	font-size: 2rem;
+}
+
+/* ---------------------------------------------------------------
+ * Clean surfaces — no frosted glass
+ * --------------------------------------------------------------- */
+.citizen-header,
+.citizen-drawer,
+.citizen-toc {
+	backdrop-filter: none;
+	-webkit-backdrop-filter: none;
+}
+
+/* ---------------------------------------------------------------
+ * Sidebar / navigation tweaks
+ * --------------------------------------------------------------- */
+.citizen-drawer__card {
+	border-radius: 8px;
+}
+
+.citizen-header__logo img {
+	max-height: 28px;
+}
+
+/* ---------------------------------------------------------------
+ * Content area
+ * --------------------------------------------------------------- */
+.mw-body-content {
+	line-height: 1.7;
+	font-size: 15px;
+}
+
+/* Infobox styling */
+.infobox {
+	border: 1px solid var(--color-surface-3);
+	background: var(--color-surface-1);
+	border-radius: 6px;
+	padding: 12px;
+}
+
+/* Category links at bottom */
+.mw-normal-catlinks {
+	border-top: 1px solid var(--color-surface-3);
+	padding-top: 12px;
+	margin-top: 24px;
+}
+
+/* ---------------------------------------------------------------
+ * Table of contents
+ * --------------------------------------------------------------- */
+.citizen-toc a {
+	color: var(--color-base--subtle);
+}
+
+.citizen-toc a:hover {
+	color: var(--color-link);
+}

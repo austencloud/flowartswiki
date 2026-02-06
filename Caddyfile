@@ -1,0 +1,32 @@
+flowartswiki.org {
+	encode gzip
+
+	header {
+		X-Content-Type-Options nosniff
+		X-Frame-Options DENY
+		Referrer-Policy strict-origin-when-cross-origin
+		Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; frame-ancestors 'none'"
+		-Server
+	}
+
+	# Short URLs: /wiki/Article_Name → /index.php/Article_Name
+	handle /wiki/* {
+		uri strip_prefix /wiki
+		rewrite * /index.php{uri}
+		reverse_proxy mediawiki:80
+	}
+
+	# Block access to internal MediaWiki paths
+	@blocked path /cache/* /includes/* /maintenance/* /vendor/*
+	respond @blocked 403
+
+	# Everything else → MediaWiki
+	reverse_proxy mediawiki:80
+
+	log {
+		output file /data/access.log {
+			roll_size 10mb
+			roll_keep 5
+		}
+	}
+}

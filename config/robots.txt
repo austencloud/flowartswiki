@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /wiki/
+Disallow: /w/
+Disallow: /index.php
+Disallow: /api.php
+Disallow: /rest.php
+
+Sitemap: https://flowartswiki.org/sitemap.xml
