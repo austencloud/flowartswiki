@@ -80,4 +80,13 @@ echo "  Pruning local backups older than $RETAIN_DAYS days..."
 find "$BACKUP_DIR" -name "*.gz" -mtime +$RETAIN_DAYS -delete 2>/dev/null || true
 
 TOTAL_SIZE=$(du -sh "$BACKUP_DIR" | cut -f1)
+
+# ---------------------------------------------------------------
+# 5. LinkKeeper health report (if container is running)
+# ---------------------------------------------------------------
+if docker compose ps linkkeeper --status running -q 2>/dev/null | grep -q .; then
+    echo "  LinkKeeper status:"
+    docker compose exec -T linkkeeper python linkkeeper.py status 2>/dev/null | sed 's/^/    /' || true
+fi
+
 echo "[$(date)] Backup complete. Total local backup size: $TOTAL_SIZE"

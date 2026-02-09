@@ -1,0 +1,20 @@
+# LinkKeeper cron schedule
+# All times UTC
+
+# Process queue: every 5 minutes
+*/5 * * * * cd /app && python linkkeeper.py process-queue >> /var/log/linkkeeper/process-queue.log 2>&1
+
+# Health checks: every 4 hours
+0 */4 * * * cd /app && python linkkeeper.py check-links >> /var/log/linkkeeper/check-links.log 2>&1
+
+# Archive submission: every 6 hours
+30 */6 * * * cd /app && python linkkeeper.py submit-archive >> /var/log/linkkeeper/submit-archive.log 2>&1
+
+# WARC snapshots: Sunday 2:30 AM
+30 2 * * 0 cd /app && python linkkeeper.py snapshot-critical >> /var/log/linkkeeper/snapshot-critical.log 2>&1
+
+# Remediate dead links: Monday 5:00 AM
+0 5 * * 1 cd /app && python linkkeeper.py remediate-dead >> /var/log/linkkeeper/remediate-dead.log 2>&1
+
+# Full sync from externallinks: 1st of month, 1:00 AM
+0 1 1 * * cd /app && python linkkeeper.py sync-externallinks >> /var/log/linkkeeper/sync-externallinks.log 2>&1

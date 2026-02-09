@@ -35,10 +35,34 @@ services:
       - citizen-skin:/var/www/html/skins/Citizen
       - ./config/robots.txt:/var/www/html/robots.txt:ro
       - ./config/favicon.svg:/var/www/html/favicon.svg:ro
+      - ./extensions/LinkHealth:/var/www/html/extensions/LinkHealth:ro
     networks:
       - internal
     expose:
       - "80"
+
+  linkkeeper:
+    build: ./scripts/linkkeeper
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST: db
+      DB_NAME: ${DB_NAME}
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+      IA_ACCESS_KEY: ${IA_ACCESS_KEY:-}
+      IA_SECRET_KEY: ${IA_SECRET_KEY:-}
+      R2_ENDPOINT: ${R2_ENDPOINT:-}
+      R2_ACCESS_KEY: ${R2_ACCESS_KEY:-}
+      R2_SECRET_KEY: ${R2_SECRET_KEY:-}
+      R2_BUCKET: ${R2_BUCKET:-flowartswiki-backups}
+      WIKI_BOT_USER: ${WIKI_BOT_USER:-}
+      WIKI_BOT_PASSWORD: ${WIKI_BOT_PASSWORD:-}
+      WIKI_API: http://mediawiki/api.php
+    networks:
+      - internal
 
   caddy:
     image: caddy:2

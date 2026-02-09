@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": ["Flow Arts Wiki"]
+	},
+	"linkhealth-desc": "Tracks external link health and archive status for link preservation.",
+	"linkhealth": "Link Health",
+	"linkhealth-summary": "External link health dashboard. Shows archive status, dead links, and domain statistics.",
+	"linkhealth-total": "Total tracked URLs",
+	"linkhealth-dead": "Dead links",
+	"linkhealth-archived": "Archived (Internet Archive)",
+	"linkhealth-snapshotted": "Local WARC snapshots (R2)",
+	"linkhealth-remediated": "Remediated",
+	"linkhealth-queued": "Queued for processing",
+	"linkhealth-domains": "Unique domains",
+	"linkhealth-dead-links-title": "Dead Links",
+	"linkhealth-domain-health-title": "Domain Health",
+	"linkhealth-no-dead-links": "No dead links detected.",
+	"linkhealth-url": "URL",
+	"linkhealth-status": "HTTP Status",
+	"linkhealth-dead-since": "Dead Since",
+	"linkhealth-failures": "Failures",
+	"linkhealth-archive": "Archive",
+	"linkhealth-domain": "Domain",
+	"linkhealth-count": "Links",
+	"linkhealth-healthy": "Healthy",
+	"linkhealth-view-archive": "View"
+}

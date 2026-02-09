@@ -1,0 +1,25 @@
+{
+	"name": "LinkHealth",
+	"version": "1.0.0",
+	"author": "Flow Arts Wiki",
+	"url": "https://flowarts.wiki",
+	"descriptionmsg": "linkhealth-desc",
+	"license-name": "MIT",
+	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.42.0"
+	},
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\LinkHealth\\": "includes/"
+	},
+	"Hooks": {
+		"PageSaveComplete": "MediaWiki\\Extension\\LinkHealth\\LinkHealthHooks::onPageSaveComplete"
+	},
+	"SpecialPages": {
+		"LinkHealth": "MediaWiki\\Extension\\LinkHealth\\SpecialLinkHealth"
+	},
+	"MessagesDirs": {
+		"LinkHealth": [ "i18n" ]
+	},
+	"manifest_version": 2
+}
