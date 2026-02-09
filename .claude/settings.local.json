@@ -1,0 +1,49 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\Docker Desktop.exe\")",
+      "Bash(sc query:*)",
+      "Bash(wsl --status:*)",
+      "Bash(sc qc:*)",
+      "Bash(sc config:*)",
+      "Bash(docker compose:*)",
+      "Bash(docker compose exec mediawiki php:*)",
+      "Bash(set +o onecmd; node:*)",
+      "Bash(bash scripts:*)",
+      "mcp__chrome-devtools__list_pages",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__chrome-devtools__click",
+      "mcp__chrome-devtools__select_page",
+      "mcp__chrome-devtools__wait_for",
+      "mcp__chrome-devtools__evaluate_script",
+      "mcp__chrome-devtools__fill",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__close_page",
+      "mcp__chrome-devtools__emulate",
+      "mcp__chrome-devtools__resize_page",
+      "mcp__chrome-devtools__list_console_messages",
+      "Skill(commit)",
+      "Skill(ai-bust)",
+      "Skill(fb)",
+      "Skill(done)",
+      "Skill(submitfb)",
+      "Skill(prioritizefb)",
+      "Skill(release)",
+      "Skill(changelog)",
+      "mcp__tka-domain__get_term_definition",
+      "mcp__tka-domain__get_alphabet_info",
+      "mcp__tka-domain__list_available_letters",
+      "mcp__tka-domain__get_position_info",
+      "Bash(do grep -c \"$url\" content/drafts/research-sources.md)",
+      "Bash(done)",
+      "Bash(set:*)",
+      "Bash(do grep -q '#REDIRECT' \"$f\")"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "chrome-devtools"
+  ]
+}
