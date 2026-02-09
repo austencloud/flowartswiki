@@ -1,0 +1,27 @@
+{{AI generated}}
+A '''spiral wrap''' is a [[poi]] technique where the poi tether wraps around the arm (or another body part) in a spiral pattern, ascending or descending along the limb. As the wrap progresses, the effective tether length shortens and the poi's orbit shrinks.
+
+== Description ==
+
+The performer allows the poi to orbit their arm while gradually moving the poi up or down the arm. Each revolution adds another wrap of the tether around the limb. The decreasing tether length causes the poi to speed up (conservation of angular momentum) and orbit in a tighter circle.
+
+To unwrap, the performer reverses the direction, allowing the tether to unwind and the orbit to expand back to full size.
+
+== Variations ==
+
+* '''Arm wrap''': The most common form, wrapping up or down the forearm
+* '''Leg wrap''': Wrapping around the thigh or calf
+* '''Body wrap''': Wrapping around the torso
+* '''Multi-wrap''': Wrapping both poi simultaneously on different limbs
+
+== See also ==
+
+* [[Wrap (flow arts)]]
+* [[Poi]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

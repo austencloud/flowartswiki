@@ -1,0 +1,40 @@
+{{AI generated}}
+'''Juggling''' is the physical skill of keeping objects in motion through repeated throwing and catching. It is one of the oldest performing arts, with evidence dating back to ancient Egypt.
+
+== Relationship to flow arts ==
+
+Juggling and [[flow arts]] share historical roots and overlapping communities, though they are generally considered distinct disciplines. Key differences:
+
+* '''Juggling''' emphasizes toss-and-catch patterns with multiple objects in the air simultaneously
+* '''Flow arts''' emphasizes continuous manipulation of one or two props, often with an emphasis on body movement and dance
+
+Several props exist in both traditions:
+
+{| class="wikitable"
+! Prop !! Juggling context !! Flow arts context
+|-
+| [[Clubs (flow arts)|Clubs]] || 3+ club cascade/shower patterns || Isolation, hybrid spinning, contact
+|-
+| [[Contact juggling|Contact balls]] || Body rolls, palm spins, isolations || Isolations, tracing, multi-ball
+|-
+| [[Devil sticks]] || Manipulation with hand sticks || Free-form flow, contact variants
+|-
+| [[Rope dart]] || Historical weapon arts || Spinning, wraps, body movement
+|}
+
+== Organizations ==
+
+* [[International Jugglers' Association]] (IJA) - founded 1947
+
+== See also ==
+
+* [[Flow arts]]
+* [[Contact juggling]]
+* [[Clubs (flow arts)]]
+* [[Toss (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

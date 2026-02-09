@@ -1,0 +1,25 @@
+{{AI generated}}
+'''Prop Logic''' is a [[flow arts]] educational project by [[Charlie Cushing]], focused on teaching poi theory and technique through a structured curriculum. Prop Logic offers online courses and in-person workshops covering fundamental through advanced poi concepts.<ref name="proplogic">{{cite web |url=https://www.instagram.com/proplogic/ |title=Prop Logic |via=Instagram}}</ref>
+
+== Approach ==
+
+Prop Logic's teaching methodology integrates multiple theoretical frameworks including:
+
+* [[9-Square Theory]] (developed by Cushing)
+* [[QFT Notation]] (co-developed by Cushing)
+* The [[Continuous Assembly Patterns|8-Step CAP]] recipe (co-developed by Cushing)
+
+The curriculum emphasizes understanding the underlying structure of poi movement rather than learning tricks in isolation.
+
+== See also ==
+
+* [[Charlie Cushing]]
+* [[9-Square Theory]]
+* [[QFT Notation]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts organizations]]

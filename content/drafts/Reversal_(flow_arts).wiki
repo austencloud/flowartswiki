@@ -1,0 +1,46 @@
+{{AI generated}}
+'''Reversal''' in [[flow arts]] is a direction change during spinning. When a hand or prop changes its rotational direction, the moment of change is a reversal. Reversals are the fundamental mechanism that enables transitions between patterns and are central to [[Transition Theory]] and the [[Continuous Assembly Patterns|C-CAP]] technique.
+
+== Types ==
+
+Different frameworks identify different types of reversals based on what reverses:
+
+=== In Transition Theory ===
+
+[[Transition Theory]] (by [[Noel Yee]] and [[Jordan Campbell]]) describes reversals as components of four transition types:<ref name="drex-transition">{{cite web |url=https://drexfactor.com/weirdscience/2010/09/29/soft_hard_and_mixed_transition_theory |title=Soft, Hard, and Mixed Transition Theory |publisher=DrexFactor |date=2010-09-29}}</ref>
+
+* '''Hand reversal only''' (mixed type 1 transition): The hand reverses direction while the prop continues. This converts arcs into loops and vice versa. It is the mechanism behind the [[Continuous Assembly Patterns|C-CAP]].
+* '''Prop reversal only''' (mixed type 2 transition): The prop reverses direction while the hand continues.
+* '''Both reverse''' (hard transition): Hand and prop both reverse direction simultaneously, creating a mirror image of the pattern.
+* '''Neither reverses''' (soft transition): No reversal occurs; the pattern continues in its current direction.
+
+=== In The Kinetic Alphabet ===
+
+[[The Kinetic Alphabet]] (TKA) identifies three reversal types, indicated by colored dots on the left edge of a pictograph:
+
+{| class="wikitable"
+|-
+! TKA reversal type !! What reverses !! Effect !! Transition Theory equivalent
+|-
+| Hand reversal || Hand changes direction, prop continues || Switches pro to anti or vice versa || Mixed type 1
+|-
+| Prop reversal || Prop changes direction, hand continues || Switches pro to anti or vice versa || Mixed type 2
+|-
+| Full reversal || Both hand and prop retrace || Maintains current pro/anti state || Hard transition
+|}
+
+== Role in CAPs ==
+
+The hand reversal is the defining gesture of the [[Continuous Assembly Patterns|C-CAP]]. Every half circle, the hand reverses direction while the prop maintains its spin. This mixed reversal alternates between [[Extension (flow arts)|extension]] (arc) and [[antispin]] petal (loop), creating the composite kidney-bean or heart-shaped path characteristic of CAPs.<ref name="drex-transition" />
+
+== See also ==
+
+* [[Transition Theory]]
+* [[Continuous Assembly Patterns]]
+* [[Timing and direction]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

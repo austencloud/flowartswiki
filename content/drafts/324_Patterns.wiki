@@ -1,0 +1,48 @@
+{{AI generated}}
+'''324 Patterns''' is a classification framework for [[poi]] movement created by [[Lorq Nichols]]. It organizes patterns by multiplying 27 arm paths by 12 shapes across 3 [[Plane (flow arts)|planes]], producing 324 distinct patterns.<ref name="324">{{cite web |url=http://spinscience.xyz/324-patterns/ |title=324 Patterns |publisher=Spin Science}}</ref>
+
+== Structure ==
+
+=== 27 arm paths ===
+
+The 27 arm paths derive from Nichols' arm path theory:
+
+* 3 axes (vertical, horizontal, depth)
+* 3 planes ([[Plane (flow arts)|wall, wheel, floor]])
+* 3 positions per axis
+
+This produces 9 arm positions, which combine into 27 arm path transitions.
+
+=== 12 shapes ===
+
+Four minimal-beat shapes, each performed in three planes:
+
+* [[Extension (flow arts)|Extension]]
+* [[Isolation (flow arts)|Isolation]]
+* 2VA (2-beat vertical antispin)
+* 2HA (2-beat horizontal antispin)
+
+4 shapes x 3 planes = 12 shapes.
+
+=== Total ===
+
+27 arm paths x 12 shapes = 324 patterns.
+
+== Related frameworks ==
+
+Nichols also created the [[Shape Matrix|144 Atomic Hybrids]] catalog (12 shapes x 9 arm paths), with the principle that knowing a quarter of a pattern reveals the whole pattern.<ref name="144">{{cite web |url=https://sirlorq.wordpress.com/144ultimatepattern/ |title=144 Atomic Hybrids |publisher=Sir Lorq}}</ref>
+
+== See also ==
+
+* [[Lorq Nichols]]
+* [[Plane (flow arts)]]
+* [[Extension (flow arts)]]
+* [[Isolation (flow arts)]]
+* [[Driving style]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

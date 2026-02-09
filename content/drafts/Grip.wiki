@@ -1,0 +1,47 @@
+{{AI generated}}
+In [[flow arts]], '''grip''' refers to the way a performer holds a prop. Different grips change the range of available movements, the feel of the prop, and the visual effect of the performance.
+
+== Common grip types ==
+
+=== Poi grips ===
+
+* '''Handle grip''': Holding a molded handle or knob at the end of the tether. The most common grip for beginners.
+* '''Loop grip''': Fingers through a fabric or cord loop. Allows the poi to swing freely around the hand.
+* '''Knob/ball grip''': Holding a small ball between the fingers. Common on practice poi.
+* '''Palm grip''': Tether runs across the palm, held by closing the hand. Used for some contact and wrap techniques.
+* '''Finger loop''': Tether looped around one or two fingers. Allows quick releases for [[Toss (flow arts)|tosses]].
+
+=== Staff grips ===
+
+* '''Center grip''': Holding the staff at its midpoint. Standard grip for two-handed spinning.
+* '''Off-center grip''': Holding away from center, creating unequal lengths on either side.
+* '''End grip''': Holding near one end, used for single-handed staff or when transitioning to contact.
+* '''Overhand/underhand''': Orientation of the palm relative to the staff.
+
+=== Fan grips ===
+
+* '''Standard grip''': Fingers wrapped around the fan handle
+* '''Finger grip''': Fan held between specific fingers for tech work
+
+== Grip and technique ==
+
+Grip choice directly affects what techniques are available:
+
+* '''Wraps''' require a grip that allows the tether to wrap and unwrap freely
+* '''Tosses''' require a grip that allows clean release and catch
+* '''Contact''' techniques often require releasing the grip entirely
+* '''Isolations''' may require a loose grip that allows the prop to rotate in the hand
+
+== See also ==
+
+* [[Flow arts]]
+* [[Poi]]
+* [[Staff (flow arts)]]
+* [[Wrap (flow arts)]]
+* [[Toss (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

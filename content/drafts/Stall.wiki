@@ -1,0 +1,25 @@
+{{AI generated}}
+A '''stall''' in [[flow arts]] is a momentary stop in prop movement. The prop briefly pauses at a specific point in its path before continuing or changing direction. Stalls are used as transition points, expressive pauses, and the basis for techniques like [[Plane (flow arts)|plane]] shifting.
+
+Stalls can be performed at any point in the prop's circular path but are most commonly executed at the cardinal points (top, bottom, left, right) where the visual effect is clearest.
+
+== Applications ==
+
+* '''Plane shifting''': Stalls provide a natural zero-velocity moment for switching between [[Plane (flow arts)|planes]] (wall to wheel, etc.).<ref name="hop-terminology">{{cite web |url=https://www.homeofpoi.com/us/lessons/teach/POI/Poi-terminology/Poi-terminology |title=Poi Terminology |publisher=Home of Poi}}</ref>
+* '''Direction changes''': A stall at the endpoint of a swing enables clean [[Reversal (flow arts)|reversals]].
+* '''Expressive pauses''': Stalls add rhythmic variation and visual punctuation to spinning sequences.
+
+In [[The Kinetic Alphabet]] (TKA), stall behavior relates to static and float rotation types, where the prop holds position rather than continuing to rotate.
+
+== See also ==
+
+* [[Pendulum]]
+* [[Reversal (flow arts)]]
+* [[Float (flow arts)]]
+* [[Plane (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

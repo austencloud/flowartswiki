@@ -1,0 +1,53 @@
+{{AI generated}}
+{{Infobox framework
+| name = QFT Notation
+| creators = [[Charlie Cushing]]
+| scope = Written shorthand for poi movement
+}}
+
+'''QFT Notation''' ('''Quantized Field Theory Notation''') is a written shorthand system for recording [[poi]] movements, developed by [[Charlie Cushing]]. It breaks continuous poi motion into 8 discrete positions and provides a formula for describing any poi pattern precisely.<ref name="drex-qft">{{cite web |url=https://drexfactor.com/weirdscience/2011/05/18/beginners_guide_poi_qft_notation |title=Beginner's Guide to QFT Notation |publisher=DrexFactor |date=2011-05-18}}</ref>
+
+== System ==
+
+QFT divides the poi's circular path into 8 positions numbered 1 through 8 clockwise, starting from the upper-right (1 = approximately 1:30 on a clock face).
+
+For each increment of movement, the notation tracks:
+
+* Poi departure and arrival positions (1-8)
+* Poi direction at each point
+* Hand departure and arrival positions
+* Hand path radius (measured in poi-length units)
+
+=== Full formula ===
+
+The complete QFT formula for one beat of movement is:
+
+<code>a,b(h(+/-x+/-y+/-z)h'){Class}a',b'</code>
+
+Where:
+* '''a, b''' = poi departure positions
+* '''h, h'''' = hand departure and arrival positions
+* '''+/-x+/-y+/-z''' = direction components
+* '''{Class}''' = pattern classification
+* '''a', b'''' = poi arrival positions
+
+== Scope ==
+
+QFT can describe any poi pattern, including static spins, [[Extension (flow arts)|extensions]], [[Flower (flow arts)|flowers]], [[Isolation (flow arts)|isolations]], cateyes, triquetras, and [[Continuous Assembly Patterns|CAPs]]. It is technically complete but highly specialized, requiring training to read or write fluently.
+
+== Comparison with other notation ==
+
+QFT and [[The Kinetic Alphabet]] (TKA) both encode precise prop movement. The key difference is output format: QFT produces formulas (<code>a,b(h(+/-x+/-y+/-z)h'){Class}a',b'</code>), while TKA produces speakable words (e.g., "CAKE"). Both can describe the same movements; they differ in readability and communication method.
+
+== See also ==
+
+* [[Charlie Cushing]]
+* [[9-Square Theory]]
+* [[The Kinetic Alphabet]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

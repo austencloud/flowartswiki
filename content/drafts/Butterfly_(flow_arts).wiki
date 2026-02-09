@@ -1,0 +1,18 @@
+{{AI generated}}
+The '''butterfly''' is a [[poi]] pattern in [[flow arts]] where both poi spin on the same side of the body in [[same time|together timing]]. The two poi trace parallel circles that visually resemble the wings of a butterfly.
+
+The butterfly is a foundational pattern that introduces spinners to same-side, [[same time|together-time]] spinning. It is closely related to the [[buzzsaw]], which uses [[split time]] instead.
+
+== See also ==
+
+* [[Buzzsaw]]
+* [[Poi]]
+* [[Same time]]
+* [[Timing and direction]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Poi technique]]

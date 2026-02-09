@@ -1,0 +1,87 @@
+{{AI generated}}
+'''Timing and direction''' are the two fundamental variables used to describe the relationship between two spinning objects in [[flow arts]]. Together they form the foundational layer of most flow arts theory frameworks, including the [[Vulcan Tech Gospel]] (VTG), [[The Kinetic Alphabet]] (TKA), and [[Lorq Nichols]]' classification systems.
+
+Any time a performer spins two props simultaneously, those props have a phase relationship (timing) and a relative rotational relationship (direction). These two variables combine to produce four fundamental categories that recur across virtually all two-prop spinning theory.
+
+== Timing ==
+
+'''Timing''' describes the phase relationship between two props. It is measured by comparing the position of each prop in its circular path at any given moment.
+
+* '''Together''' (also called '''same time'''): Both props pass through the same point in their circular path at the same moment. In VTG, the reference point is the '''downbeat''', the lowest point (south) of the circle.<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+* '''Split''' (also called '''split time'''): Props are 180 degrees out of phase. When one prop is at the bottom of its circle, the other is at the top.<ref name="vtg-explained" />
+
+== Direction ==
+
+'''Direction''' describes whether two props rotate the same way or opposite ways.
+
+* '''Same''' (also called '''same direction'''): Both props spinning in the same rotational direction (both clockwise or both counterclockwise).
+* '''Opposite''' (also called '''opposite direction'''): Props spinning in opposite rotational directions (one clockwise, one counterclockwise).<ref name="vtg-explained" />
+
+== The four categories ==
+
+Combining the two timing options with the two direction options produces four fundamental categories:
+
+{| class="wikitable"
+|-
+! VTG abbreviation !! Full name !! Timing !! Direction
+|-
+| '''SS''' || Split-Same || Split (180° out of phase) || Same direction
+|-
+| '''TS''' || Together-Same || Together (in sync) || Same direction
+|-
+| '''SO''' || Split-Opposite || Split (180° out of phase) || Opposite directions
+|-
+| '''TO''' || Together-Opposite || Together (in sync) || Opposite directions
+|}
+
+In VTG notation, timing is always listed first, direction second.<ref name="vtg-explained" /><ref name="fai-timing">{{cite web |url=https://flowartsinstitute.com/tutsday-timing-direction/ |title=TuTsday: Timing & Direction |publisher=Flow Arts Institute}}</ref>
+
+These four categories are exhaustive for two-prop spinning at equal speed. Every two-prop pattern falls into one of these four states at any given moment (though a pattern may transition between states over time).
+
+== Reference systems ==
+
+Different frameworks anchor their timing and direction measurements to different reference points:
+
+* '''Ground-referenced''' (VTG): The downbeat (the lowest point of the circular path, facing the ground) serves as the anchor. Timing and direction describe what an observer sees from outside the pattern.<ref name="vtg-explained" />
+* '''Center-referenced''' ([[The Kinetic Alphabet|TKA]]): Orientations are defined relative to the performer's center point rather than the ground. Positions like "in" (toward center) and "out" (away from center) are measured from the body's midline.
+
+Both systems describe the same physical movements but from different vantage points. A pattern classified as split-same (SS) in VTG encodes the same timing and direction information in TKA, expressed through the specific letter variation selected.
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! Concept !! [[Vulcan Tech Gospel|VTG]] !! [[The Kinetic Alphabet|TKA]] !! [[QFT Notation|QFT]]
+|-
+| Together timing || "Together" (tog) || Encoded per variation (beta positions) || Hand positions at equal phase
+|-
+| Split timing || "Split" || Encoded per variation (alpha positions) || Hand positions at opposite phase
+|-
+| Same direction || "Same" || Both props pro or both anti || Same-signed direction values
+|-
+| Opposite direction || "Opposite" || One pro, one anti (or mixed) || Opposite-signed direction values
+|-
+| The four categories || SS, TS, SO, TO || Preserved in variation data || Derivable from notation
+|}
+
+In TKA, the concept of timing maps to the '''position''' system: alpha positions correspond to split timing (props on opposite sides of the grid), while beta positions correspond to together timing (props on the same side).<ref name="tka-info">The Kinetic Alphabet uses positions (alpha, beta, gamma, etc.) to encode the spatial relationship between two hands, which implicitly captures timing and direction data.</ref>
+
+== Prop agnosticism ==
+
+Timing and direction are universal properties of any two rotating objects. The concepts apply equally to [[poi]], [[double staff]], [[fire fans]], [[hoops]], [[clubs]], [[buugeng]], and any other paired spinning prop. This universality is why timing and direction form the foundation of multiple independent theory frameworks.<ref name="vtg-explained" />
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Transition Theory]]
+* [[Prospin]]
+* [[Antispin]]
+* [[Split time]]
+* [[Same time]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

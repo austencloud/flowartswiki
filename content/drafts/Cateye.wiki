@@ -1,0 +1,19 @@
+{{AI generated}}
+'''Cateye''' is a [[flow arts]] movement pattern where the prop tip traces an elongated, oval-shaped path. It falls mechanically between [[Extension (flow arts)|extension]] and [[antispin]], combining elements of both.
+
+In the [[Trigonometric model (poi)|trigonometric model]], the canonical cateye uses parameters h=0.5, p=1, d=-1, producing the antispin unit-circle pattern.<ref name="drex-math">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref>
+
+In [[Lorq Nichols]]' [[driving style]] taxonomy, cateye is one of eight driving styles, classified separately from both extension and antispin.<ref name="lorq-driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref>
+
+== See also ==
+
+* [[Extension (flow arts)]]
+* [[Antispin]]
+* [[Driving style]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

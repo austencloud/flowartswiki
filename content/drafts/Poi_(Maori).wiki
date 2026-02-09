@@ -1,0 +1,29 @@
+{{AI generated}}
+'''Poi''' in its original context refers to a traditional performance art of the Maori people of Aotearoa (New Zealand). The word "poi" means "ball" in the Maori language. Maori poi consists of a weight (traditionally made from harakeke/flax) on a string, swung in rhythmic patterns as accompaniment to waiata (song).
+
+== Traditional practice ==
+
+Maori poi was traditionally performed primarily by women as part of cultural ceremonies and storytelling. The movements accompany specific waiata and have cultural significance beyond the physical movement. Short poi (poi toa) and long poi (poi tere/poi raka) are two traditional forms with different movement vocabularies.
+
+The rhythmic patterns of Maori poi are tied to the lyrics and meaning of the accompanying song, making it a combined art of movement, rhythm, and narrative.
+
+== Influence on modern flow arts ==
+
+Modern [[poi]] spinning draws its name and fundamental concept (weighted object on a string) from Maori poi. However, the contemporary [[flow arts]] practice of poi spinning has diverged significantly from the traditional art:
+
+* Traditional Maori poi emphasizes rhythm, song, and cultural meaning
+* Modern poi spinning emphasizes visual patterns, technical complexity, and individual expression
+* The technical vocabulary (such as [[Vulcan Tech Gospel]], [[The Kinetic Alphabet]]) was developed entirely within the modern context
+
+This cultural relationship is a point of discussion within the flow arts community, with some practitioners emphasizing the importance of acknowledging Maori origins.
+
+== See also ==
+
+* [[Poi]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

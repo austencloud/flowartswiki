@@ -1,0 +1,49 @@
+{{AI generated}}
+'''LED props''' are [[flow arts]] implements fitted with light-emitting diodes (LEDs) for visual performance in low-light conditions. LED technology has expanded the visual possibilities of flow arts and made nighttime performance more accessible than [[fire spinning]].
+
+== Types ==
+
+Most flow arts props have LED variants:
+
+* '''LED [[poi]]''': Balls or pods containing LEDs on leashes. Range from simple single-color to programmable pixel poi that display images and patterns.
+* '''LED [[Staff (flow arts)|staff]]''': Staffs with internal LED strips. Some models are programmable.
+* '''LED [[Hoops|hoops]]''': Hoops with embedded LEDs, either single-color or programmable.
+* '''LED [[Fire fans|fans]]''': Fans with LED edges or embedded pixel strips.
+* '''LED [[Clubs (flow arts)|clubs]]''': Clubs with internal lights.
+
+== Technology ==
+
+=== Simple LED ===
+
+Basic LED props use one or a few LEDs with preset modes (solid, strobe, color-fade). These are inexpensive and durable, commonly used for practice.
+
+=== Pixel / programmable ===
+
+Advanced LED props contain strips of individually addressable LEDs that can display images, text, and complex color patterns. When spun, persistence of vision (POV) creates the illusion of a complete image in the air. Pixel poi can display photographs, geometric patterns, and animations.
+
+Notable manufacturers of pixel props include Flowtoys (with their Capsule and Flow wand lines) and various custom builders.
+
+=== Glow ===
+
+Some performers use chemical glow sticks, UV-reactive materials, or EL wire as simpler alternatives to LED technology. [[Glowstringing]], an early form of LED/glow performance, predates much of the modern flow arts LED scene.
+
+== Advantages over fire ==
+
+* No fuel, no burns, no fire safety requirements
+* Can be practiced indoors
+* Longer performance duration
+* Visual effects not possible with fire (colors, patterns, images)
+* Suitable for all-ages events
+
+== See also ==
+
+* [[Fire spinning]]
+* [[Flow arts]]
+* [[Poi]]
+* [[Glowstringing]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

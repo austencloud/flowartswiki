@@ -1,0 +1,41 @@
+{{AI generated}}
+'''Charlie Cushing''' (also known as '''charlicopter''') is an American flow arts theorist and prop designer. He created [[9-Square Theory]], [[QFT Notation]], and the [[Continuous Assembly Patterns#8-Step CAP|8-Step CAP]]. He is the founder of LanternSmith and Managing Director of Prop Logic LLC. He developed and popularized the Oxbow Meteor (puppyhammer), which is manufactured by flowtoys as part of their modular Pop'n Flow system.<ref name="oxbow">{{cite web |url=https://flowtoys.com/popn-flow-oxbow-full-vision |title=Oxbow Meteor (Pop'n Flow) |publisher=flowtoys}}</ref>
+
+== Contributions ==
+
+=== 9-Square Theory ===
+
+{{main|9-Square Theory}}
+
+A spatial framework that quantizes the space around the spinner's body into a grid. The 9-Square grid enables finding transitions between movements via grid positions, switching between box mode and diamond mode via soft transitions, and creating algorithms for changing [[timing and direction]] through [[Continuous Assembly Patterns|CAPs]] and polyrhythm [[Hybrid (flow arts)|hybrids]]. Cushing presented the theory in a 10-part video series totaling approximately 1.5 hours.<ref name="9sq-spinmore">{{cite web |url=https://www.spinmorepoi.com/charlie-9-square-theory-1/ |title=Charlie's 9-Square Theory #1 |publisher=Spin More Poi}}</ref><ref name="9sq-drex">{{cite web |url=https://www.drexfactor.com/category/tags/9_square_theory |title=9-Square Theory |publisher=DrexFactor}}</ref>
+
+=== QFT Notation ===
+
+{{main|QFT Notation}}
+
+A written shorthand system for recording [[poi]] movements. QFT breaks continuous motion into 8 discrete positions numbered 1-8 clockwise and tracks poi departure/arrival positions, direction, hand positions, and hand path radius. The full formula is: <code>a,b(h(+/-x+/-y+/-z)h'){Class}a',b'</code>.<ref name="qft">{{cite web |url=https://drexfactor.com/weirdscience/2011/05/18/beginners_guide_poi_qft_notation |title=Beginner's Guide to QFT Notation |publisher=DrexFactor |date=2011-05-18}}</ref>
+
+=== 8-Step CAP ===
+
+Cushing's innovation for solving the problem of timing transitions when assembling patterns into cyclic sequences. The principle is "two steps forward, one step back": Pattern A travels 3/4 of a circle in one direction, Pattern B travels 1/2 in the opposite direction. The distance mismatch cycles through both timing variations across all four cardinal directions, producing 8 segments total.<ref name="8step-hop">{{cite web |url=https://www.homeofpoi.com/us/community/forums/topics/934076/8-step-CAPs |title=8-Step CAPs |publisher=Home of Poi Forums}}</ref><ref name="8step-drex">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2016%2F09%2F27%2Ftutorial_double_staff_8_step_cap_recipe |title=Tutorial: Double Staff 8-Step CAP Recipe |publisher=DrexFactor |date=2016-09-27}}</ref>
+
+=== Oxbow Meteor ===
+
+Cushing developed and popularized the Oxbow Meteor (also called puppyhammer), a prop that combines elements of [[poi]], meteor, and rope dart. It is manufactured by flowtoys as the "Pop'n Flow Oxbow Full Vision," part of their modular prop system.<ref name="oxbow" />
+
+== See also ==
+
+* [[9-Square Theory]]
+* [[QFT Notation]]
+* [[Continuous Assembly Patterns]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://www.instagram.com/charlie.plays.oxbow/ @charlie.plays.oxbow on Instagram]
+* [https://flowtoys.com/popn-flow-oxbow-full-vision Oxbow Meteor at flowtoys]
+
+[[Category:Flow arts practitioners]]

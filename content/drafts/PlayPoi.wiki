@@ -1,0 +1,22 @@
+{{AI generated}}
+'''PlayPoi''' is an online platform for learning [[poi]] spinning, founded by [[Nick Woolsey]]. It hosts structured tutorial progressions covering [[Flower (flow arts)|flowers]], [[Continuous Assembly Patterns|CAPs]], [[antispin]] patterns, and other poi techniques.<ref name="playpoi">{{cite web |url=https://playpoi.com/about-playpoi/links/ |title=About PlayPoi |publisher=PlayPoi}}</ref>
+
+PlayPoi popularized the alternative expansion "Capped Antispin Patterns" for [[Continuous Assembly Patterns|CAP]] and made the technique accessible to intermediate spinners.<ref name="playpoi-caps">{{cite web |url=https://playpoi.com/learn/learning-caps-capped-antispin-patterns/ |title=Learning CAPs (Capped Antispin Patterns) |publisher=PlayPoi}}</ref>
+
+The site also offers an advanced poi course through Udemy.<ref name="playpoi-advanced">{{cite web |url=https://playpoi.com/advanced-poi/ |title=Advanced Poi |publisher=PlayPoi}}</ref>
+
+== See also ==
+
+* [[Nick Woolsey]]
+* [[Continuous Assembly Patterns]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://playpoi.com/ PlayPoi]
+
+[[Category:Flow arts organizations]]

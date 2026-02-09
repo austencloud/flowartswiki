@@ -1,0 +1,25 @@
+{{AI generated}}
+The '''weave''' is one of the most fundamental [[poi]] patterns in [[flow arts]]. It involves alternating the poi on either side of the body in a continuous figure-eight-like motion. The poi cross in front of (or behind) the performer's body on each pass.
+
+The weave is typically one of the first patterns learned after basic same-side spinning and serves as a gateway to more complex techniques involving [[timing and direction]] changes, [[Plane (flow arts)|plane]] shifts, and body movement.
+
+== Variants ==
+
+* '''3-beat weave''': The standard weave with three beats (one crossing, two on each side). The most common form.
+* '''5-beat weave''': Extended version with five beats per cycle.
+* '''2-beat weave''': Compressed version with rapid crossings.
+* '''Reverse weave''': Performed with the poi spinning in the opposite direction.
+* '''Behind-the-back weave''': Crossing behind the body instead of in front.
+
+== See also ==
+
+* [[Poi]]
+* [[Butterfly (flow arts)]]
+* [[Timing and direction]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Poi technique]]

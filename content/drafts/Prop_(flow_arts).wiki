@@ -1,0 +1,52 @@
+{{AI generated}}
+In [[flow arts]], a '''prop''' is any physical object manipulated by a performer as part of their practice or performance. Props range from simple (a ball on a string) to complex (programmable LED systems).
+
+== Categories ==
+
+Flow arts props can be categorized by their manipulation type:
+
+{| class="wikitable"
+! Category !! Description !! Examples
+|-
+| '''Tethered''' || Prop connected to the hand by a string, chain, or cord || [[Poi]], [[rope dart]], [[meteor]]
+|-
+| '''Rigid''' || Solid prop held directly or balanced || [[Staff (flow arts)|Staff]], [[Hoops|hoops]], [[Fan (flow arts)|fans]], [[Clubs (flow arts)|clubs]]
+|-
+| '''Contact''' || Props manipulated through body contact without gripping || [[Contact juggling]], [[contact roll]]
+|-
+| '''Levitation''' || Props that appear to float independently of the body || [[Levitation wand]]
+|-
+| '''Hybrid''' || Props combining multiple manipulation types || [[Dragon staff]] (rigid + contact), [[buugeng]] (rigid + visual illusion)
+|}
+
+== Materials ==
+
+Props are built for different performance contexts:
+
+* '''Practice''': Durable, visible, safe for indoor use. Often silicone, plastic, or fabric.
+* '''Fire''': Metal frames with [[wicking|kevlar wicks]]. See [[fire spinning]].
+* '''LED/glow''': Built-in lights for nighttime performance. See [[LED props]].
+* '''Performance''': Optimized for visual impact, balance, and handling.
+
+== Customization ==
+
+Many flow arts practitioners customize or build their own props. Common modifications include:
+
+* Adjusting weight and balance
+* Changing tether length (for poi and rope dart)
+* Adding grips or handles
+* Modifying LED programming
+* Building custom fire wicks
+
+== See also ==
+
+* [[Flow arts]]
+* [[LED props]]
+* [[Fire spinning]]
+* [[Grip]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

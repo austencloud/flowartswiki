@@ -1,0 +1,31 @@
+{{AI generated}}
+The '''9 Flower Families''' is a classification system developed by [[Lorq Nichols]] that organizes all [[Flower (flow arts)|flower]] patterns (petal shapes traced by poi tips) into nine categories. Each family represents a distinct type of petal shape based on the relationship between hand movement and prop rotation.
+
+== The nine families ==
+
+The families are determined by the combination of:
+
+* '''Rotation type''': [[Prospin]] or [[antispin]]
+* '''Turn count''': How many prop rotations per hand rotation
+* '''Hand path shape''': The path the hand traces
+
+Each family produces a characteristic visual pattern. Within each family, variations can differ in size, orientation, and [[Timing and direction|timing]], but the basic petal shape remains consistent.
+
+== Relationship to other systems ==
+
+The 9 Flower Families provide a visual/intuitive counterpart to the mathematical descriptions found in the [[Trigonometric model (poi)]]. Where the trig model describes flowers through equations, the 9 Families describe them through visual categories.
+
+In [[The Kinetic Alphabet]], flowers emerge from specific combinations of hand path type, rotation direction, and [[Turn count|turn count]], aligning with the family categories.
+
+== See also ==
+
+* [[Flower (flow arts)]]
+* [[Lorq Nichols]]
+* [[Driving style]]
+* [[Trigonometric model (poi)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

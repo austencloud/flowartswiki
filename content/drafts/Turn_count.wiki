@@ -1,0 +1,42 @@
+{{AI generated}}
+'''Turn count''' (also '''turn number''' or '''number of turns''') refers to the number of complete rotations a prop makes relative to the hand during one beat of movement in [[flow arts]]. Turn count is a key parameter in several notation systems.
+
+== Description ==
+
+During one beat of movement (one cycle of the hand path), the prop may complete zero, one, two, three, or more full rotations. The turn count determines the visual complexity of the resulting pattern:
+
+{| class="wikitable"
+! Turns !! Prospin result !! Antispin result
+|-
+| 0 || [[Isolation (flow arts)|Isolation]] (prop appears stationary) || N/A (not physically meaningful at 0 turns anti)
+|-
+| 1 || Simple circle, no petals || 2-petal [[Flower (flow arts)|flower]]
+|-
+| 2 || 1-petal flower (loop) || 3-petal flower (triquetra)
+|-
+| 3 || 2-petal flower || 4-petal flower (quad)
+|}
+
+== In notation systems ==
+
+* '''[[The Kinetic Alphabet]]''': Turn count is displayed on the TKA glyph. Level 1 uses only 0 turns. Level 2 introduces whole turns (0-3). Level 3 adds half turns and float.
+* '''[[Trigonometric model (poi)|Trigonometric model]]''': Turn count corresponds to the absolute value of the ''d'' parameter (prop frequency relative to hand frequency).
+* '''[[Vulcan Tech Gospel]]''': Turn count is implicit in the pattern type (e.g., a triquetra is always 3-petal antispin, implying 2 turns antispin).
+
+== Half turns ==
+
+Some systems also recognize half turns (0.5, 1.5, 2.5), where the prop completes a partial rotation during the beat. Half turns produce asymmetric patterns.
+
+== See also ==
+
+* [[Flower (flow arts)]]
+* [[Prospin]]
+* [[Antispin]]
+* [[The Kinetic Alphabet]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

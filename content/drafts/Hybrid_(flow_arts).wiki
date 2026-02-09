@@ -1,0 +1,63 @@
+{{AI generated}}
+'''Hybrid''' in [[flow arts]] refers to a pattern where the two hands perform different movements simultaneously. The asymmetry is '''spatial''': at any given moment, the left hand is doing one thing and the right hand is doing another.
+
+This contrasts with [[Continuous Assembly Patterns]] (CAPs), where the asymmetry is '''temporal''': both hands perform the same movement, but different patterns are assembled sequentially over time.<ref name="drex-hybrid-theory">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/915407/1/Drex-s-hybrid-theory |title=Drex's Hybrid Theory |publisher=Home of Poi Forums}}</ref>
+
+== Description ==
+
+In a hybrid pattern, each hand independently performs a different [[Flower (flow arts)|flower]], [[Isolation (flow arts)|isolation]], [[Extension (flow arts)|extension]], or other movement type. For example, one hand might trace a four-petal [[antispin]] flower while the other traces an [[Extension (flow arts)|extension]]. The two patterns share a [[timing and direction]] relationship but differ in shape or rotation type.
+
+Hybrids are sometimes described as "parallel information treatment" (two things at once), while CAPs are "serial information treatment" (two things in sequence).<ref name="drex-hybrid-theory" />
+
+== Classification ==
+
+[[DrexFactor|Ben Drexler]] proposed a [[timing and direction]]-based approach to classifying hybrids, dividing them into:<ref name="drex-classify">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2013%2F01%2F27%2Ftiming_and_direction_based_approach_classifying_hybrids |title=A Timing and Direction Based Approach to Classifying Hybrids |publisher=DrexFactor |date=2013-01-27}}</ref>
+
+* '''Monorhythm hybrids''': Both hands spin at the same speed but trace different patterns.
+* '''Polyrhythm hybrids''': Hands spin at different speeds, creating more complex phase relationships.
+
+Hybrids can also be classified by whether they maintain consistent timing and direction throughout the cycle or shift between categories.
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! How hybrids are described
+|-
+| [[Vulcan Tech Gospel|VTG]] || Hybrids are classified by their timing/direction category (SS, TS, SO, TO). The spatial asymmetry between hands exists within these categories.<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+|-
+| [[The Kinetic Alphabet|TKA]] || Each letter already specifies what both hands do. A letter where the two hands have different rotation types (one pro, one anti) produces a hybrid pattern. TKA encodes hybrids natively.
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || Hybrid is one of eight [[driving style|driving styles]]. The [[Shape Matrix]] is specifically designed to catalog hybrids by cross-referencing left-hand and right-hand flower patterns.<ref name="shape-matrix">{{cite web |url=http://spinscience.xyz/2016/03/05/shape-matrix-went-poi-chat-viral/ |title=Shape Matrix Went Poi Chat Viral |publisher=Spin Science |date=2016-03-05}}</ref>
+|}
+
+== Relationship to CAPs ==
+
+The distinction between hybrids and [[Continuous Assembly Patterns|CAPs]] is fundamental:<ref name="drex-composites">{{cite web |url=https://drexfactor.com/weirdscience/2011/11/28/drexs_tech_poi_blog_214_composites_vs_caps |title=Drex's Tech Poi Blog #214: Composites vs CAPs |publisher=DrexFactor |date=2011-11-28}}</ref>
+
+{| class="wikitable"
+|-
+! !! Hybrid !! CAP
+|-
+| '''Asymmetry type''' || Spatial (different patterns per hand) || Temporal (different patterns over time)
+|-
+| '''What varies''' || Left hand vs right hand || First half vs second half of cycle
+|-
+| '''Information treatment''' || Parallel || Serial
+|}
+
+Both involve combining unlike movements, but in different dimensions.
+
+== See also ==
+
+* [[Continuous Assembly Patterns]]
+* [[Shape Matrix]]
+* [[Driving style]]
+* [[Timing and direction]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

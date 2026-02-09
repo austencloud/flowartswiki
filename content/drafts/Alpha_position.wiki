@@ -1,0 +1,21 @@
+{{AI generated}}
+In [[The Kinetic Alphabet]] (TKA), '''alpha''' is one of the named [[Position (TKA)|positions]] describing where both hands are located on the [[Grid (TKA)|grid]]. Alpha positions generally correspond to hand configurations seen in [[split time]] patterns.
+
+When both hands are in alpha positions, their spatial arrangement creates the geometry associated with split-time movement. The specific alpha variant (alpha1, alpha3, alpha5, etc.) indicates the exact grid points each hand occupies.
+
+== Relationship to VTG timing ==
+
+In the [[Vulcan Tech Gospel]], split time means the two poi are 180 degrees out of phase. TKA's alpha positions encode the spatial equivalent of this phase relationship: the hands are positioned such that the resulting pattern naturally produces a split-time visual.
+
+== See also ==
+
+* [[Position (TKA)]]
+* [[Beta position]]
+* [[Split time]]
+* [[The Kinetic Alphabet]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

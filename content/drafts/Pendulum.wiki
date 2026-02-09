@@ -1,0 +1,20 @@
+{{AI generated}}
+'''Pendulum''' in [[flow arts]] refers to an incomplete circular motion where the prop swings back and forth rather than completing a full revolution. The prop traces an arc (typically less than 180 degrees) and reverses direction, creating a swinging motion.
+
+In [[Lorq Nichols]]' [[driving style]] taxonomy, pendulum is one of eight driving styles. It is fundamentally different from the full-revolution patterns of [[Isolation (flow arts)|isolation]], [[antispin]], and [[Extension (flow arts)|extension]] because the prop never completes a full circle.<ref name="lorq-driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref>
+
+Pendulum motion can be combined with [[Continuous Assembly Patterns|CAPs]]. [[Ben Drexler|DrexFactor]] documented pendulum vs. CAP transitions and the use of pendulum motion within CAP sequences.<ref name="drex-pendulum">{{cite web |url=https://drexfactor.com/weirdscience/2010/07/09/video_tech_blog_101_pendulum_vs_cap_transitions |title=Video Tech Blog #101: Pendulum vs CAP Transitions |publisher=DrexFactor |date=2010-07-09}}</ref>
+
+In [[The Kinetic Alphabet]] (TKA), pendulum motion is not directly encoded as a rotation type. TKA's grid system describes full-beat movements between grid positions.
+
+== See also ==
+
+* [[Driving style]]
+* [[Continuous Assembly Patterns]]
+* [[Stall]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

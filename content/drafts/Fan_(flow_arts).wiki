@@ -1,0 +1,38 @@
+{{AI generated}}
+'''Fans''' are a [[flow arts]] prop consisting of rigid or semi-rigid fan-shaped implements manipulated through spins, isolations, and body movements. Flow arts fans are distinct from traditional folding fans, being designed specifically for spinning performance.
+
+== Types ==
+
+* '''Tech fans''': Rigid metal or composite fans designed for technical spinning. Often feature a grip notch or finger slot.
+* '''Folding fans''': Traditional-style fans adapted for flow. Can be opened and closed during performance.
+* '''[[Fire fans]]''': Metal fans with kevlar wicks along the edges for fire performance.
+* '''LED fans''': Fans with embedded LEDs for glow performance.
+* '''Silk fans''': Fans with fabric panels for visual effect, common in belly dance crossover.
+
+== Techniques ==
+
+Fan spinning borrows vocabulary from [[poi]] and [[Staff (flow arts)|staff]] while adding fan-specific moves:
+
+* '''Stacking''': Holding both fans together so they appear as one
+* '''Fishtails''': Rapid alternating wrist flips
+* '''Flowers''': [[Flower (flow arts)|Petal patterns]] traced by the fan edges
+* '''Isolations''': [[Isolation (flow arts)|Isolations]] where the fan appears to float
+* '''Contact''': Rolling the fan across the arms and body
+* '''Tossing''': Aerial releases and catches
+
+== Notation ==
+
+Fan movement can be described using the same theoretical frameworks developed for poi, though with modifications to account for the fan's flat shape and the visual significance of which face is showing. The [[Vulcan Tech Gospel]] has been adapted for fans as "Fan VTG."
+
+== See also ==
+
+* [[Fire fans]]
+* [[Flow arts]]
+* [[LED props]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

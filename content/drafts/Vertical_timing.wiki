@@ -1,0 +1,26 @@
+{{AI generated}}
+'''Vertical timing''' refers to the relative vertical position of two props at the point where they pass through the same horizontal line. In dual-prop [[flow arts]], vertical timing describes whether the props are at the same height (top-top or bottom-bottom) or at different heights (one up, one down) at the moment of crossing.
+
+== In the Vulcan Tech Gospel ==
+
+The [[Vulcan Tech Gospel]] (VTG) uses vertical timing as one of the key parameters for describing [[poi]] states. The VTG's "split" and "together" timing categories directly correspond to vertical timing:
+
+* '''Together''' ([[Same time]]): Both poi reach the top (or bottom) of their circles at the same moment
+* '''Split''' ([[Split time]]): One poi is at the top while the other is at the bottom
+
+== In The Kinetic Alphabet ==
+
+In [[The Kinetic Alphabet]] (TKA), vertical timing is represented by the VTG glyph that can appear on pictographs. The position system (alpha, beta, gamma, etc.) encodes the spatial relationship of the two props, which includes vertical timing information.
+
+== See also ==
+
+* [[Timing and direction]]
+* [[Same time]]
+* [[Split time]]
+* [[Vulcan Tech Gospel]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

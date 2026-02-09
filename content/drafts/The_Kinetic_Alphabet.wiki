@@ -1,0 +1,225 @@
+{{AI generated}}
+{{Infobox framework
+| name = The Kinetic Alphabet
+| abbreviation = TKA
+| creators = Austen Cloud
+| scope = Two-handed prop manipulation (prop-agnostic)
+| documents = TKA reference materials, TKA Scribe (web app)
+}}
+
+'''The Kinetic Alphabet''' ('''TKA''') is a notation system for [[flow arts]] that encodes two-handed [[prop manipulation]] into letters. Each letter represents one beat of motion, specifying the positions and movements of both hands and props on a spatial grid. Letters combine into words, words into sentences, making TKA the only flow arts notation system that produces speakable, writable language.
+
+TKA is prop-agnostic: the same notation applies to [[poi]], [[double staff]], [[fire fans]], [[clubs]], and any other paired spinning prop.
+
+== Overview ==
+
+TKA represents each beat of spinning as a '''pictograph''' showing:
+
+* Two props (blue and red) at specific grid positions
+* Motion arrows showing how each hand moves
+* Start and end positions and orientations
+
+The system builds from a spatial grid, a set of hand path types, and a set of prop rotation types. These combine to define 47 letters (A through V, W through Z, Greek letters, and variants), each describing a specific combination of hand movements.
+
+== The grid ==
+
+TKA uses a grid of up to 9 points arranged around the performer's center:
+
+* '''Cardinal points''' (4): North, East, South, West
+* '''Intercardinal points''' (4): Northeast, Southeast, Southwest, Northwest
+* '''Center''' (1): The performer's center (Level 5)
+
+The grid operates in three modes:
+
+* '''Diamond mode''': Uses the four cardinal points. The default mode.
+* '''Box mode''': Uses the four intercardinal points.
+* '''Skewed mode''': Uses one cardinal and one intercardinal point (Level 4).
+
+This grid system parallels [[9-Square Theory]]'s spatial quantization. Both divide the space around the performer into discrete positions, though TKA uses compass directions while 9-Square uses a numbered grid.
+
+== Positions ==
+
+'''Positions''' describe the spatial relationship between the two hands on the grid:
+
+{| class="wikitable"
+|-
+! Position !! Angle between hands !! Level
+|-
+| '''Alpha''' || 180° (hands at opposite points) || 1+
+|-
+| '''Beta''' || 0° (hands at the same point) || 1+
+|-
+| '''Gamma''' || 90° (right angle) || 1+
+|-
+| '''Zeta''' || ~135° (obtuse angle) || 4+
+|-
+| '''Eta''' || ~45° (acute angle) || 4+
+|-
+| '''Tau''' || One hand at center || 5+
+|-
+| '''Terra''' || Both hands at center || 5+
+|}
+
+Positions encode [[timing and direction]] information: alpha positions correspond to [[split time]] (props on opposite sides), beta positions correspond to [[same time]] (props on the same side). This preserves the [[Vulcan Tech Gospel|VTG]] timing/direction classification within TKA's data model.
+
+== Hand paths ==
+
+Four types of hand movement:
+
+{| class="wikitable"
+|-
+! Hand path !! Description !! Path shape
+|-
+| '''Static''' || Hand stays at its current grid point || No movement
+|-
+| '''Shift''' || Hand arcs along the grid perimeter to an adjacent point || Curved arc
+|-
+| '''Dash''' || Hand moves in a straight line to the diametrically opposite point (180°) || Straight line
+|-
+| '''Hash''' || Hand moves in a straight line to or from the center point (Level 5) || Straight line
+|}
+
+The distinction between shift (curved) and dash (straight) is important because the prop rotation types (pro, anti, float) only apply to shifts. On straight-line paths, there is no curve to rotate relative to.
+
+== Prop rotation types ==
+
+Three types of prop behavior during hand movement:
+
+{| class="wikitable"
+|-
+! Rotation type !! Behavior !! Community equivalent
+|-
+| '''Pro''' || Prop rotates with the hand's arc direction || [[Prospin]] / inspin
+|-
+| '''Anti''' || Prop rotates against the hand's arc direction || [[Antispin]]
+|-
+| '''Float''' || Prop holds its absolute spatial angle (no rotation) || [[Float (flow arts)|Float]] / translation
+|}
+
+Pro and anti apply only to shifts (curved hand paths). [[Float (flow arts)|Float]] also applies only to shifts. On dashes (straight paths), the prop either rotates clockwise, counterclockwise, or not at all, without the pro/anti/float distinction.
+
+=== Turns ===
+
+'''Turns''' measure additional prop rotation beyond the base behavior. One turn equals 180 degrees of additional rotation. The turn count determines pattern complexity:
+
+* '''0 turns pro''' = [[Isolation (flow arts)|isolation]] (prop appears stationary)
+* '''1 turn anti''' = basic [[antispin]] petal
+* Higher turns produce more complex [[Flower (flow arts)|flower]] patterns
+
+== Letter types ==
+
+TKA defines six types of letters based on the combination of hand paths:
+
+{| class="wikitable"
+|-
+! Type !! Name !! Hand paths !! Letter count !! Letters
+|-
+| 1 || Dual-Shift || Both hands shift || 22 || A through V
+|-
+| 2 || Shift || One hand shifts, one static || 8 || W, X, Y, Z, and four Greek
+|-
+| 3 || Cross-Shift || One hand shifts, one dashes || 8 || Type 2 letters with "-" suffix
+|-
+| 4 || Dash || One hand dashes, one static || 3 || Three Greek letters
+|-
+| 5 || Dual-Dash || Both hands dash || 3 || Type 4 letters with "-" suffix
+|-
+| 6 || Static || Both hands stationary || 3 || Three Greek lowercase letters
+|}
+
+Each letter has multiple '''variations''' based on starting/ending positions, rotation directions, and grid locations.
+
+== LOOPs ==
+
+'''LOOPs''' are circular sequences that return to their starting position through transformations applied to a base word. Six transformation types exist:
+
+* '''Rotated''': Positions continue rotating in the same direction
+* '''Mirrored''': Left-right swap across vertical axis
+* '''Flipped''': Top-bottom swap across horizontal axis
+* '''Swapped''': Blue and red hand roles swap
+* '''Inverted''': Pro and anti motions swap
+* '''Rewound''': Second half plays in reverse
+
+These transformations can be combined (e.g., "mirrored + inverted"). The transformation guarantees that the sequence closes into a cycle, meaning a spinner only needs to learn half (or a quarter) of the pattern and apply the transformation to complete it.
+
+LOOPs share conceptual territory with [[Continuous Assembly Patterns]] (CAPs), as both describe cyclic, continuous spinning patterns. However, LOOPs use algebraic transformations to guarantee closure, while CAPs rely on empirical discovery or mathematical prediction.
+
+== Levels ==
+
+TKA is organized into progressive difficulty levels:
+
+{| class="wikitable"
+|-
+! Level !! Description !! Key additions
+|-
+| 1 || Beginner || 0 turns only, diamond grid
+|-
+| 2 || Intermediate || Whole turns (0, 1, 2, 3)
+|-
+| 3 || Advanced || Half turns and float
+|-
+| 4 || Skewed grid || Mixed cardinal/intercardinal positions (zeta, eta)
+|-
+| 5 || Centric grid || Center point, hash hand paths (tau, terra)
+|-
+| 6 || Conjoined grids || Two grids sharing a junction point
+|-
+| 7 || Interradials || 8 orientations (2D complete)
+|-
+| 8 || Atomics || 3D patterns across multiple [[Plane (flow arts)|planes]]
+|-
+| 9 || Rubik's cube || 3D complete
+|}
+
+== Reversals ==
+
+TKA identifies three types of directional changes at transitions between beats:
+
+* '''Hand reversal''': Hand reverses direction, prop continues. Switches pro to anti or vice versa.
+* '''Prop reversal''': Hand continues, prop reverses direction.
+* '''Full reversal''': Both hand and prop retrace. Maintains the current pro/anti state.
+
+These correspond to the transition types in [[Transition Theory]]: hand reversals map to mixed (type 1) transitions, prop reversals to mixed (type 2), and full reversals to hard transitions.
+
+== Relationship to other frameworks ==
+
+{| class="wikitable"
+|-
+! Framework !! Relationship
+|-
+| [[Vulcan Tech Gospel|VTG]] || TKA preserves VTG's timing/direction classification in its position and variation data. Alpha = split, beta = together. Both are prop-agnostic. VTG is ground-referenced; TKA is center-referenced.
+|-
+| [[Continuous Assembly Patterns|CAPs]] || TKA's LOOPs and CAPs both describe cyclic continuous patterns. Some specific CAPs and LOOPs produce identical physical movement. CAPs come from analysis; LOOPs from generation via transformation algebra.
+|-
+| [[9-Square Theory]] || Both quantize space into a grid. TKA's diamond/box/skewed modes parallel 9-Square's spatial positions.
+|-
+| [[QFT Notation]] || Both encode precise prop movement. QFT uses a formula: <code>a,b(h(+/-x+/-y+/-z)h'){Class}a',b'</code>. TKA uses letters that spell words.
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || TKA's rotation types (pro, anti, float) map to Lorq's [[driving style|driving styles]]. TKA's grid modes map to Lorq's 3 Planes system at higher levels.
+|}
+
+=== What TKA produces that other systems do not ===
+
+TKA is the only flow arts notation system whose output functions as language. A TKA sequence is a word (e.g., "CAKE") that can be spoken, written on paper, texted to another spinner, or drawn by hand. Other systems produce formulas, charts, categories, or visual tools, but not speakable words.
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Continuous Assembly Patterns]]
+* [[9-Square Theory]]
+* [[QFT Notation]]
+* [[Timing and direction]]
+* [[Prospin]]
+* [[Antispin]]
+* [[Float (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://www.thekineticalphabet.com/ The Kinetic Alphabet official site]
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

@@ -1,0 +1,29 @@
+{{AI generated}}
+The '''Vulcan Lofts''' was a historic live/work space in Oakland, California, housing over 50 art studios with visual artists, circus performers, and musicians. It became the birthplace of much of modern [[flow arts]] theory during the late 2000s and early 2010s.<ref name="tech-spinning">{{cite web |url=https://drexfactor.com/weirdscience/2016/05/15/tech_spinning_flow_arts |title=Tech Spinning in the Flow Arts |publisher=DrexFactor |date=2016-05-15}}</ref>
+
+== Flow arts theory ==
+
+The Vulcan Lofts was the primary development site for the [[Vulcan Tech Gospel]] (VTG), [[Transition Theory]], and related frameworks. Key residents and visitors who contributed to flow arts theory included:
+
+* '''[[Noel Yee]]''': Primary compiler of VTG. Background in science education. Co-founder of the [[Flow Arts Institute]], [[FireDrums]], Kinetic Fire, and the Vulcan Crew.<ref name="noel-about">{{cite web |url=https://noelyee.com/about-me/ |title=About Me |publisher=Noel Yee}}</ref>
+* '''[[Jordan Campbell]]''': Co-created [[Transition Theory]] with Noel Yee in 2010.<ref name="transition-theory">{{cite web |url=https://noelyee.com/transition-theory-with-noel-yee/ |title=Transition Theory with Noel Yee |publisher=Noel Yee}}</ref>
+* '''[[David Cantor|David "Tankboy" Cantor]]''': Co-authored VTG Volume 2. Taught tech poi at the Vulcan.
+* '''[[Brian Thompson]]''': Taught club spinning hybrids. Co-developed the 24-Hybrid sequence.
+* '''[[Lorq Nichols]]''': Visited the Vulcan in Spring 2010, studying under Thompson, Cantor, and Yee. Subsequently created the [[Book of P.H.A.T.]] and [[Tech Tiles]] visualization system.<ref name="lorq-about">{{cite web |url=https://sirlorq.wordpress.com/about-2/ |title=About |publisher=Sir Lorq}}</ref>
+
+== Legacy ==
+
+The theoretical work developed at the Vulcan Lofts forms the foundation of modern technical spinning education. The [[Vulcan Tech Gospel]], [[Transition Theory]], and the [[Book of P.H.A.T.]] all originated from the collaborative environment of the space.
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Noel Yee]]
+* [[Lorq Nichols]]
+* [[Transition Theory]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts organizations]]

@@ -1,0 +1,19 @@
+{{AI generated}}
+A '''fountain''' in [[flow arts]] is a vertical ascending/descending pattern where the [[poi]] travel upward on one side of the body and downward on the other (or vice versa), creating a continuous cycling motion.
+
+[[Antispin]] fountains are a popular variation where the poi trace [[Flower (flow arts)|flower]] petals while cycling vertically.<ref name="playpoi-fountain">{{cite web |url=https://playpoi.com/learn/anti-spin-fountain/ |title=Anti-spin Fountain |publisher=PlayPoi}}</ref><ref name="playpoi-4x4">{{cite web |url=https://playpoi.com/learn/4x4-antispin-fountain-yes/ |title=4x4 Antispin Fountain |publisher=PlayPoi}}</ref>
+
+Fountains can be combined with [[Continuous Assembly Patterns|CAPs]] and body turns.<ref name="drex-turning">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2009%2F10%2F06%2Fpoi_tutorial_turning_caps_fountains_triquetras_and_reels |title=Poi Tutorial: Turning with CAPs, Fountains, Triquetras, and Reels |publisher=DrexFactor |date=2009-10-06}}</ref>
+
+== See also ==
+
+* [[Antispin]]
+* [[Flower (flow arts)]]
+* [[Continuous Assembly Patterns]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Poi technique]]

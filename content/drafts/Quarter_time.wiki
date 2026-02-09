@@ -1,0 +1,32 @@
+{{AI generated}}
+'''Quarter time''' is a [[timing and direction]] relationship in dual-prop [[flow arts]] where the two props are 90 degrees out of phase. This places them halfway between [[same time]] (0 degrees offset) and [[split time]] (180 degrees offset).
+
+== Description ==
+
+In quarter time, one prop leads the other by one quarter of a full rotation. When one prop is at the top of its circle, the other is at the side. This creates an asymmetric visual rhythm distinct from the more common same time and split time relationships.
+
+== In notation systems ==
+
+Quarter time is less commonly formalized in notation systems than same time or split time:
+
+{| class="wikitable"
+! System !! Treatment of quarter time
+|-
+| [[Vulcan Tech Gospel]] || Not a primary category. VTG focuses on same/split/opposite as the core timing relationships.
+|-
+| [[The Kinetic Alphabet]] || Quarter-time relationships can emerge depending on variation selection but are not a primary organizational category.
+|-
+| [[QFT Notation]] || Can be described through explicit phase notation.
+|}
+
+== See also ==
+
+* [[Timing and direction]]
+* [[Same time]]
+* [[Split time]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

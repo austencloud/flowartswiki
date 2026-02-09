@@ -1,0 +1,44 @@
+{{AI generated}}
+The '''poi community''' is the global network of [[poi]] practitioners, teachers, and theorists who share knowledge, develop technique, and gather for practice and performance. The community spans from casual practitioners to professional performers and researchers developing formal notation systems.
+
+== Online communities ==
+
+=== Forums ===
+
+* '''[[Home of Poi]]''': One of the earliest online poi communities. Active in the 2000s, the forums hosted discussions that led to key theoretical developments including early [[Continuous Assembly Patterns|CAP]] concepts.
+* '''Reddit r/poi''': Active subreddit for poi discussion, video sharing, and technique questions.
+
+=== Social media ===
+
+* '''Instagram''': Primary platform for sharing poi videos as of the 2020s. Hashtags like #poi, #flowarts, #poispinning connect the community.
+* '''Facebook groups''': Various regional and topic-specific groups (e.g., "Poi Chat" for general discussion, "Poi Tech Nerds" for theory).
+* '''YouTube''': Long-form tutorials and performances. [[Ben Drexler|DrexFactor]] maintains one of the largest poi tutorial libraries.
+
+== In-person community ==
+
+* '''[[Flow jam]]s''': Regular local meetups for practice
+* '''Festivals''': [[FireDrums]], regional burns, dedicated flow festivals
+* '''Workshops''': In-person instruction from traveling teachers
+* '''Retreats''': Multi-day intensive learning events
+
+== Education ==
+
+Several practitioners have built educational platforms:
+
+* '''[[PlayPoi]]''': Founded by [[Nick Woolsey]], offering structured online courses
+* '''[[Prop Logic]]''': Founded by [[Charlie Cushing]], teaching theory-based poi
+* '''DrexFactor''': [[Ben Drexler]]'s blog with 500+ technical articles
+* '''[[Flow Arts Institute]]''': Co-founded by [[Noel Yee]]
+
+== See also ==
+
+* [[Poi]]
+* [[Flow arts]]
+* [[Home of Poi]]
+* [[Flow jam]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

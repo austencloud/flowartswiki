@@ -1,0 +1,7 @@
+<noinclude>
+This template marks articles that were AI-generated and have not yet been vetted by a human editor.
+
+Usage: Place <code><nowiki>{{AI generated}}</nowiki></code> at the top of any AI-drafted article. Remove it after human review.
+</noinclude><includeonly><div style="background-color: #2a2a3a; border: 1px solid #555; border-radius: 6px; padding: 12px 16px; margin-bottom: 16px; font-size: 0.9em; color: #ccc;">
+'''This article was drafted by AI''' based on the citations listed below. It has not yet been vetted by a human editor for accuracy. If you spot errors or can verify claims, please [[Special:Contact|submit feedback]] or edit directly.
+</div></includeonly>

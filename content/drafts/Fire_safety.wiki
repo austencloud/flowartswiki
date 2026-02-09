@@ -1,0 +1,79 @@
+{{AI generated}}
+'''Fire safety''' in [[flow arts]] refers to the practices, equipment, and protocols used to minimize risk during [[fire spinning]] performance and practice.
+
+== Fuels ==
+
+Different fuels have different properties relevant to fire spinning:
+
+{| class="wikitable"
+! Fuel !! Flash point !! Burn characteristics !! Notes
+|-
+| '''White gas''' (naphtha/Coleman fuel) || -43 C || Bright flame, fast burn, low smoke || Most common fire spinning fuel. Highly volatile.
+|-
+| '''Ultra-pure lamp oil''' || 61+ C || Moderate flame, slower burn, minimal smoke || Higher flash point makes fueling safer. Preferred by many performers.
+|-
+| '''Kerosene''' || 38-72 C || Yellow/orange flame, long burn, smoky || Longer burn time but messier. Not preferred for most uses.
+|-
+| '''Isopropyl alcohol''' || 12 C || Blue flame (nearly invisible), fast burn || Used for body burning. Burns at lower temperature. Difficult to see.
+|}
+
+'''Fuels to avoid:''' Gasoline (extremely volatile, toxic), ethanol/drinking alcohol (blue flame hard to see, burns unevenly), lighter fluid (unpredictable).
+
+== Safety equipment ==
+
+Minimum safety equipment for a fire spinning session:
+
+* '''Fire blanket''' or '''wet towel''': For smothering flames on a person
+* '''Fire extinguisher''': Rated for the fuel type being used
+* '''First aid kit''': Including burn treatment supplies
+* '''Spin-off towel''': A damp towel used to remove excess fuel from wicks before lighting
+* '''Fuel dump bucket''': A container for submerging wicks to fuel them, with a sealable lid
+
+== Safety roles ==
+
+* '''Safety person''' (also "safety" or "spotter"): A designated sober person equipped with a wet towel or fire blanket who watches the performer and is prepared to act if something catches fire. Every fire spinning session should have at least one safety.
+* '''Fuel attendant''': The person managing the fueling station. Should be separate from the performer and safety if possible.
+
+== Safety protocols ==
+
+=== Before spinning ===
+
+* Check the area for flammable materials (dry grass, low branches, synthetic fabrics)
+* Ensure adequate distance from spectators and structures
+* Fuel wicks away from the spinning area
+* Spin off excess fuel into a spin-off towel or bucket before lighting
+* Wear appropriate clothing: natural fibers (cotton, wool), avoid synthetics that can melt
+* Tie back loose hair
+* Remove dangling jewelry or accessories
+
+=== During spinning ===
+
+* Safety person maintains line-of-sight to the performer at all times
+* If wicks drip burning fuel, move away from the drops
+* If clothing or hair catches fire: stop, drop, and the safety person applies the wet towel or blanket
+* Communication signals between performer and safety should be established in advance
+
+=== After spinning ===
+
+* Extinguish wicks by suffocating with a damp towel (do not blow or wave)
+* Allow wicks to cool before handling or storing
+* Secure fuel containers
+* Inspect wicks for wear and damage
+
+== Environment ==
+
+* '''Indoor fire spinning''' requires high ceilings, non-flammable surroundings, good ventilation, and often venue permission or permits
+* '''Outdoor fire spinning''' should account for wind (affects flame direction and fuel spray), dry conditions, and local fire regulations
+* Many public parks and venues require permits for fire performance
+
+== See also ==
+
+* [[Fire spinning]]
+* [[Flow arts]]
+* [[Flow jam]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

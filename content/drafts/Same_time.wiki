@@ -1,0 +1,18 @@
+{{AI generated}}
+'''Same time''' (also called '''together time''' or '''tog''') is a [[timing and direction]] state in [[flow arts]] where two props pass through the same point in their circular path at the same moment. Both props are in phase. It is one of the two fundamental timing states, the other being [[split time]].<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref><ref name="fai-timing">{{cite web |url=https://flowartsinstitute.com/tutsday-timing-direction/ |title=TuTsday: Timing & Direction |publisher=Flow Arts Institute}}</ref>
+
+In the [[Vulcan Tech Gospel]] (VTG), together time appears in two of the four categories: '''TS''' (together-same) and '''TO''' (together-opposite). The reference point for "together" is the '''downbeat''', the lowest point (south) of the circular path.
+
+In [[The Kinetic Alphabet]] (TKA), together timing corresponds to '''beta positions''', where the two hands are at the same point on the grid.
+
+== See also ==
+
+* [[Split time]]
+* [[Timing and direction]]
+* [[Vulcan Tech Gospel]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

@@ -1,0 +1,18 @@
+{{AI generated}}
+'''David Cantor''' (known as '''David "Tankboy" Cantor''') is an American [[flow arts]] practitioner who co-authored the [[Vulcan Tech Gospel]] Volume 2 with [[Noel Yee]]. He taught tech [[poi]] at the [[Vulcan Lofts]] in Oakland, California.
+
+Cantor defined VTG as "a treatise on technical prop manipulation, that seeks to explain the entirety of sets of technique using a predetermined set of constants and variables."<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+
+He also contributed to the [[Book of P.H.A.T.]] by [[Lorq Nichols]].<ref name="phat">{{cite web |url=https://sirlorq.wordpress.com/tech-tiles/ |title=Vulcan Tech Gospel Book of P.H.A.T. Volume 1 |publisher=Sir Lorq}}</ref>
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Vulcan Lofts]]
+* [[Noel Yee]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts practitioners]]

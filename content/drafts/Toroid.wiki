@@ -1,0 +1,33 @@
+{{AI generated}}
+In [[flow arts]] theory, a '''toroid''' (or '''torus''') describes the three-dimensional shape traced by a [[poi]] head when the spinner's hand moves in a circle while the poi simultaneously traces its own circle. The resulting path forms a donut-shaped surface in space.
+
+== Mathematical description ==
+
+A toroid in poi spinning can be described using the [[Trigonometric model (poi)|trigonometric model]]. When both the hand path and the poi path are circular, the poi tip traces a path on the surface of a torus. The specific pattern on the torus depends on the ratio of the hand's angular velocity to the poi's angular velocity.
+
+Key parameters:
+
+* '''Major radius (R)''': The distance from the center of the hand path to the center of rotation (arm length)
+* '''Minor radius (r)''': The length of the poi (tether + head)
+* '''Frequency ratio''': The ratio of poi rotation speed to hand rotation speed. Integer ratios produce repeating patterns ([[Flower (flow arts)|flowers]]); irrational ratios produce space-filling paths.
+
+== Relationship to flowers ==
+
+The petal patterns known as [[Flower (flow arts)|flowers]] are 2D projections of toroidal paths. When viewed from a single [[Plane (flow arts)|plane]], the 3D toroidal path appears as a flower pattern with a specific number of petals determined by the frequency ratio and the rotation direction ([[prospin]] vs [[antispin]]).
+
+== Three-dimensional spinning ==
+
+When a spinner moves through multiple [[Plane (flow arts)|planes]] (wall, wheel, floor), the poi head traces different cross-sections of the toroid. This is related to the concept of "plane bending" and "3D spinning" discussed in advanced poi theory. [[Ben Drexler]] has written about toroidal geometry in the context of poi mathematics.<ref name="drex-toroid">{{cite web |url=https://www.drexfactor.com |title=DrexFactor Poi |publisher=Ben Drexler}}</ref>
+
+== See also ==
+
+* [[Trigonometric model (poi)]]
+* [[Flower (flow arts)]]
+* [[Plane (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

@@ -1,0 +1,26 @@
+{{AI generated}}
+'''Thread the needle''' is a [[flow arts]] technique in which a prop (typically [[poi]]) passes through a gap created by the performer's arms or between the arm and body. The move gets its name from the visual similarity to threading a needle.
+
+== Description ==
+
+The performer creates an opening (usually by extending one arm and creating a window between the arm and torso, or between both arms) and passes the poi through this gap. The move can be performed from various positions and incorporated into longer sequences.
+
+== Variations ==
+
+* '''Arm thread''': Poi passes through the gap between the arm and the body
+* '''Over-under thread''': Poi passes over one arm and under the other
+* '''Cross-body thread''': Poi passes through a gap created by crossed arms
+* '''Moving thread''': Threading while transitioning between patterns
+
+== See also ==
+
+* [[Weave]]
+* [[Wrap (flow arts)]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Poi technique]]

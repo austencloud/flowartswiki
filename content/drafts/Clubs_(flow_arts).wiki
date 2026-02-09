@@ -1,0 +1,16 @@
+{{AI generated}}
+'''Clubs''' in [[flow arts]] are juggling clubs adapted for spinning manipulation. They can be performed singly, in pairs, or in sets of three or more (combining spinning with toss juggling).
+
+Club spinning shares theoretical overlap with other two-prop disciplines. [[Brian Thompson]] taught club spinning [[Hybrid (flow arts)|hybrids]] at the [[Vulcan Lofts]] and co-developed the 24-Hybrid sequence. The [[Vulcan Tech Gospel|VTG]] app supports clubs as a prop type.<ref name="vtg-android">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.VTGv3&hl=en |title=VTG - Flow Arts Resource |publisher=Google Play}}</ref>
+
+== See also ==
+
+* [[Flow arts]]
+* [[Poi]]
+* [[Brian Thompson]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

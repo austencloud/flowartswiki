@@ -1,0 +1,33 @@
+{{AI generated}}
+In [[flow arts]] theory, a '''shift''' refers to a hand movement that follows a curved (circular) path around the body's center. The term is used primarily in [[The Kinetic Alphabet]] (TKA) to describe one of the two fundamental hand path types, the other being a [[Dash (flow arts)|dash]] (linear hand movement).
+
+== In The Kinetic Alphabet ==
+
+In TKA, a shift is a hand movement where the hand travels along a curved arc. When both hands perform shifts, the resulting letter types are:
+
+* '''Type 1 (Dual-Shift)''': Both hands shift (curved paths). Letters A through F.
+* '''Type 2 (Shift)''': One hand shifts while the other remains static. Letters G through L.
+* '''Type 3 (Cross-Shift)''': One hand shifts while the other dashes. Letters M through R.
+
+The shift path traces an arc between two grid points on the TKA diamond or box grid. The direction of the shift (clockwise or counterclockwise around the center) is one of the parameters that defines a specific variation.
+
+== Relationship to other concepts ==
+
+The shift hand path in TKA corresponds to what other systems describe differently:
+
+* In general [[flow arts]] vocabulary, a shift describes any movement where the hand orbits the body center
+* This is the default hand path for most common poi patterns like [[weave]]s and [[butterfly (flow arts)|butterflies]]
+* The [[Vulcan Tech Gospel]] does not use "shift" terminology but describes the same hand movements through its timing/direction framework
+
+== See also ==
+
+* [[Dash (flow arts)]]
+* [[The Kinetic Alphabet]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

@@ -1,0 +1,16 @@
+{{AI generated}}
+'''Zaltymbunk''' is a [[poi]] theorist who developed a [[Trigonometric model (poi)|trigonometric model]] for describing poi movement using parametric equations. The model uses three parameters (''h'' for hypmix, ''p'' for prop frequency, and ''d'' for direction) to describe the path traced by a poi head in two-dimensional space.<ref name="zalt-model">{{cite web |url=https://www.reddit.com/r/poi/comments/6rt1jv/a_mathematical_model_for_2d_patterns/ |title=A mathematical model for 2D patterns |author=Zaltymbunk |publisher=Reddit r/poi |date=2017-08-04}}</ref>
+
+The model extends to three-prop interactions and has been used to derive the number of distinct two-dimensional poi patterns at various levels of complexity. [[Ben Drexler]] has further developed the mathematical framework, applying graph theory to classify patterns and transitions.<ref name="drex-graph">{{cite web |url=https://www.drexfactor.com/weirdscience/trigonometric-model-of-poi |title=Trigonometric Model of Poi |publisher=DrexFactor}}</ref>
+
+== See also ==
+
+* [[Trigonometric model (poi)]]
+* [[Ben Drexler]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts practitioners]]

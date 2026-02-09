@@ -1,0 +1,25 @@
+{{AI generated}}
+In [[flow arts]] theory, '''atomic''' refers to a movement pattern where the two hands operate independently in different spatial domains: one hand traces a large circle while the other traces a smaller circle within or near it. The term is used in [[Lorq Nichols|Lorq Nichols']] [[Driving style|driving style]] taxonomy.
+
+== Description ==
+
+Atomic patterns involve asymmetric hand paths, where one poi traces a large orbit and the other traces a smaller orbit inside or adjacent to it. This creates a visual effect reminiscent of an electron orbiting a nucleus (hence the name).
+
+The hands may be operating in the same [[Plane (flow arts)|plane]] or in different planes. The key characteristic is the difference in the radius of the two hand circles.
+
+== As a driving style ==
+
+In the [[Driving style|driving style]] framework developed by [[Lorq Nichols]] and Insignia, atomic is one of eight categories of [[poi]] movement. It is distinguished from [[Isolation (flow arts)|isolation]] (where the prop is stationary and the hand orbits) and from [[Extension (flow arts)|extension]] (where hand and prop travel together).
+
+== See also ==
+
+* [[Driving style]]
+* [[Hybrid (flow arts)]]
+* [[Lorq Nichols]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

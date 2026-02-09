@@ -1,0 +1,74 @@
+{{AI generated}}
+'''Plane''' in [[flow arts]] refers to the flat surface on which a prop traces its circular path. Every spinning prop moves through a two-dimensional plane in three-dimensional space. The orientation of this plane relative to the performer's body is one of the fundamental variables in flow arts technique and theory.
+
+== The three primary planes ==
+
+Three planes are universally recognized in the flow arts community, defined by their relationship to the performer's body:<ref name="lorq-3planes">{{cite web |url=http://spinscience.xyz/3planes/ |title=3 Planes |publisher=Spin Science}}</ref>
+
+{| class="wikitable"
+|-
+! Plane !! Other names !! Body relationship !! Axes
+|-
+| '''Wall plane''' || Front plane, vertical plane || Parallel to a wall the performer faces; divides the body into front and back || Vertical (Y) + horizontal (X)
+|-
+| '''Wheel plane''' || Sagittal plane || Perpendicular to the performer's chest; divides the body into left and right || Vertical (Y) + depth (Z)
+|-
+| '''Floor plane''' || Horizontal plane, overhead plane || Parallel to the floor; divides the body into top and bottom || Horizontal (X) + depth (Z)
+|}
+
+=== Wall plane ===
+
+The most common spinning plane for beginners. The prop traces circles parallel to a wall in front of (or behind) the performer. Most basic [[poi]] patterns, [[antispin]] flowers, and [[Continuous Assembly Patterns|CAPs]] are taught in wall plane first.
+
+=== Wheel plane ===
+
+The prop traces circles beside the performer's body, like a wheel rolling alongside them. Wheel plane spinning is common in [[staff]] manipulation and appears in poi techniques like buzzsaw patterns.
+
+=== Floor plane ===
+
+The prop traces circles parallel to the floor, typically above the performer's head or at waist height. Floor plane patterns are sometimes cited as an easier entry point for learning [[Continuous Assembly Patterns|CAPs]] and [[Flower (flow arts)|flowers]].<ref name="playpoi-horizontal">{{cite web |url=https://playpoi.com/learn/horizontal-flowers-and-caps/ |title=Horizontal Flowers and CAPs |publisher=PlayPoi}}</ref>
+
+== Intermediate planes ==
+
+Props can also spin in planes that are not perfectly aligned with any of the three primary planes. These intermediate or '''angled planes''' are common in advanced spinning and in transitions between primary planes.
+
+'''Plane-bending''' refers to transitioning between planes during a pattern. In CAPs, plane-bending uses zero points (moments where the prop changes direction) as natural switching moments between wall plane and wheel plane.<ref name="drex-plane-bending">{{cite web |url=https://drexfactor.com/weirdscience/2009/10/13/plane_bending_caps |title=Plane-Bending with CAPs |publisher=DrexFactor |date=2009-10-13}}</ref>
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! How planes are handled
+|-
+| [[Vulcan Tech Gospel|VTG]] || VTG's core timing/direction/pattern framework operates within a single plane. Plane is treated as an additional variable applied on top of the four-category system.<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+|-
+| [[The Kinetic Alphabet|TKA]] || TKA operates in two dimensions through Level 7. Three-dimensional plane concepts are addressed in Level 8 (atomics) and Level 9 (Rubik's cube), which extend the grid into 3D space.
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || Lorq's '''3 Planes''' system (Wall/Wheel/Floor) explicitly classifies all movement by plane. The [[324 Patterns|324 Patterns framework]] multiplies 27 arm paths by 12 shapes across 3 planes.<ref name="lorq-3planes" /><ref name="lorq-324">{{cite web |url=http://spinscience.xyz/324-patterns/ |title=324 Patterns |publisher=Spin Science}}</ref>
+|-
+| [[9-Square Theory]] || The 9-Square grid operates within a single plane. [[Charlie Cushing]]'s system quantizes the space within that plane into grid positions.<ref name="drex-9sq">{{cite web |url=https://drexfactor.com/weirdscience/2010/04/22/video_tech_blog_83_bth_vs_cap_9_square_transitions |title=Video Tech Blog #83: BTH vs CAP with 9-Square Transitions |publisher=DrexFactor |date=2010-04-22}}</ref>
+|}
+
+== Planes and body movement ==
+
+The choice of plane interacts with the performer's body orientation:
+
+* '''Turning''' (spinning the body) causes the effective plane to rotate. A wall-plane pattern becomes a wheel-plane pattern when the performer turns 90 degrees.
+* '''Body rolls''' and '''leans''' can tilt the effective plane into intermediate angles.
+* '''Poi-fu''' and advanced footwork integrate plane changes with full-body movement.
+
+[[DrexFactor|Ben Drexler]] documented the interaction between CAPs and body turns, noting that turning with CAPs, fountains, triquetras, and reels involves managing plane shifts as the body rotates.<ref name="drex-turning">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2009%2F10%2F06%2Fpoi_tutorial_turning_caps_fountains_triquetras_and_reels |title=Poi Tutorial: Turning with CAPs, Fountains, Triquetras, and Reels |publisher=DrexFactor |date=2009-10-06}}</ref>
+
+== See also ==
+
+* [[Timing and direction]]
+* [[9-Square Theory]]
+* [[324 Patterns]]
+* [[Continuous Assembly Patterns]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

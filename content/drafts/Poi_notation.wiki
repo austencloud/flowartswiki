@@ -1,0 +1,56 @@
+{{AI generated}}
+'''Poi notation''' refers to any system for recording and communicating [[poi]] patterns in written or visual form. Multiple notation systems have been developed, each approaching the problem from a different angle.
+
+== History ==
+
+Early poi knowledge was transmitted primarily through in-person demonstration and video. As the community grew and technique became more complex, several practitioners independently developed notation systems to describe, catalog, and share poi patterns.
+
+== Major notation systems ==
+
+{| class="wikitable"
+! System !! Creator(s) !! Year !! Approach
+|-
+| [[Vulcan Tech Gospel]] || [[Noel Yee]] || 2009 || Timing and direction categories (SS/TS/SO/TO)
+|-
+| [[Transition Theory]] || [[Noel Yee]], [[Jordan Campbell]] || 2010 || Transition types between VTG states
+|-
+| [[QFT Notation]] || [[Charlie Cushing]], [[Ben Drexler|Drex]] || ~2013 || Written formula describing positions and movements
+|-
+| [[Continuous Assembly Patterns]] || [[Nick Woolsey]], [[Alien Jon]] || 2013 || Pattern of arcs and loops through VTG states
+|-
+| [[The Kinetic Alphabet]] || (developer) || ~2018 || Visual alphabet mapping letters to spatial configurations
+|-
+| [[Trigonometric model (poi)|Trigonometric model]] || [[Zaltymbunk]], [[Ben Drexler|Drex]] || 2017 || Parametric equations for poi paths
+|}
+
+== Visual systems ==
+
+In addition to written notation, several visual systems exist:
+
+* [[Tech Tiles]]: Lorq Nichols' tile-based visual notation
+* [[Shape Matrix]]: Lorq's multiplication table for hybrids
+* TKA pictographs: Visual representations of each letter in The Kinetic Alphabet
+
+== Challenges ==
+
+Poi notation faces several unique challenges:
+
+* '''Three-dimensionality''': Poi moves happen in 3D space but most notation is 2D
+* '''Continuous vs discrete''': Poi movement is continuous, but notation must discretize it into beats or states
+* '''Multiple simultaneous parameters''': Both hands, both props, timing, direction, plane, body position
+* '''Community adoption''': Each system has its own community of users; no single standard has emerged
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[The Kinetic Alphabet]]
+* [[Continuous Assembly Patterns]]
+* [[QFT Notation]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

@@ -1,0 +1,17 @@
+{{AI generated}}
+A '''wrap''' in [[flow arts]] is a technique where the prop wraps around a body part (arm, leg, neck, waist) and then unwraps to continue spinning. Wraps use the prop's momentum and the body part as a pivot point to redirect the prop's path.
+
+Wraps are common across multiple prop types including [[poi]], [[staff (flow arts)|staff]], and rope dart. They add texture and variety to spinning sequences and can serve as transitions between patterns.
+
+== See also ==
+
+* [[Poi]]
+* [[Flow arts]]
+* [[Stall]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Poi technique]]

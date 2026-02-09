@@ -1,0 +1,72 @@
+{{AI generated}}
+'''Driving style''' is a classification system in [[flow arts]] that categorizes [[poi]] movement into eight fundamental types based on how the prop is "driven" through space. The taxonomy was developed by '''Insignia''' and documented by [[Lorq Nichols]] through his Spin Science educational materials.<ref name="lorq-driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref>
+
+Driving styles provide a way to organize the full range of poi technique into a manageable number of categories. Each style describes a distinct relationship between the hand's movement and the prop's behavior.
+
+== The eight driving styles ==
+
+{| class="wikitable"
+|-
+! # !! Driving style !! Description !! Related concepts
+|-
+| 1 || '''[[Isolation (flow arts)|Isolation]]''' || Prop appears stationary while the hand orbits around it. Zero additional rotation relative to the hand's arc. || TKA: 0-turn pro. VTG: 1:1 inspin pattern.
+|-
+| 2 || '''[[Antispin]]''' || Prop rotates against the hand's travel direction, tracing petal-shaped [[Flower (flow arts)|flower]] patterns. || TKA: anti. VTG: antispin patterns (1:3, 1:5, etc.).
+|-
+| 3 || '''Atomics''' || Three-dimensional patterns where the prop traces paths across multiple [[Plane (flow arts)|planes]] simultaneously. || TKA: Level 8 (atomics). Lorq: 3D extensions of 2D patterns.
+|-
+| 4 || '''Pendulums''' || Incomplete circular motion where the prop swings back and forth rather than completing a full revolution. || Community: pendulum is a common technique term. TKA: not directly encoded as a rotation type.
+|-
+| 5 || '''[[Extension (flow arts)|Extension]]''' || Hand and prop travel together through space without tracing a petal pattern. A smooth, sweeping movement. || TKA: emergent from shift + pro combinations. VTG: 1:1 inspin pattern.
+|-
+| 6 || '''Cateye''' || An elongated, oval-shaped path traced by the prop tip. Falls between extension and antispin mechanically. || Related to extension/antispin hybrid patterns.
+|-
+| 7 || '''[[Continuous Assembly Patterns|CAP]]''' || Composite patterns that alternate between different movement types (typically extension and antispin) using hand reversals. || VTG: uses mixed transitions from [[Transition Theory]]. TKA: related to LOOP transformations.
+|-
+| 8 || '''[[Hybrid (flow arts)|Hybrid]]''' || Two different patterns performed simultaneously, one per hand. The asymmetry is spatial rather than temporal. || VTG: all four timing/direction categories apply. TKA: encoded as specific letter combinations.
+|}
+
+== Relationship between driving styles ==
+
+The eight driving styles are not entirely independent. Several have mechanical relationships:
+
+* '''Isolation''' is the zero-turn case of [[prospin]] (inspin). Adding rotation to an isolation produces inspin flowers.
+* '''Antispin''' and '''extension''' are the two poles of [[Transition Theory]]: antispin creates loops (intersecting paths), extension creates arcs (parallel paths). The '''CAP''' driving style bridges between them using hand reversals.
+* '''Cateye''' occupies a middle ground between extension and antispin, tracing an oval rather than a full circle or a petal.
+* '''Pendulum''' uses incomplete rotation, making it fundamentally different from the full-revolution patterns of isolation, antispin, and extension.
+* '''Atomics''' extend 2D patterns into 3D space, applying across multiple planes.
+* '''Hybrid''' combines any two of the other driving styles simultaneously (one per hand).
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! How driving styles map
+|-
+| [[Vulcan Tech Gospel|VTG]] || VTG does not use the "driving style" taxonomy directly. However, the patterns VTG classifies (inspin, antispin, extensions, isolations) correspond to individual driving styles. VTG's timing/direction system applies across all driving styles.
+|-
+| [[The Kinetic Alphabet|TKA]] || TKA encodes the underlying mechanics (pro, anti, float, static, dash) rather than classifying by driving style. The driving style a TKA letter produces depends on the rotation type and turn count: pro at 0 turns = isolation, anti = antispin, shift + pro = extension, etc.
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || The driving style taxonomy is native to Lorq/Insignia's work. It serves as an organizing principle across the [[Shape Matrix]], [[324 Patterns]], and [[Book of P.H.A.T.]] systems.<ref name="lorq-driving" />
+|}
+
+== Teaching application ==
+
+Driving styles provide a useful framework for organizing a spinner's learning path. A practitioner can assess which driving styles they are comfortable with and identify gaps in their technique. The taxonomy suggests that a well-rounded spinner should be able to execute all eight driving styles in multiple [[Plane (flow arts)|planes]] and [[Timing and direction|timing/direction combinations]].
+
+== See also ==
+
+* [[Isolation (flow arts)]]
+* [[Antispin]]
+* [[Extension (flow arts)]]
+* [[Continuous Assembly Patterns]]
+* [[Flower (flow arts)]]
+* [[Plane (flow arts)]]
+* [[Lorq Nichols]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

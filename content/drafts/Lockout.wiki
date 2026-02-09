@@ -1,0 +1,26 @@
+{{AI generated}}
+A '''lockout''' is a [[poi]] technique where the performer fully extends their arm, locking the elbow, so that the hand path radius becomes zero and the poi traces a simple circle at the end of the arm. The term describes the locked position of the arm joint.
+
+== Description ==
+
+In a lockout, the arm is held straight and stationary (or nearly so), and the poi swings in a circle determined entirely by the tether length. Because the hand is not tracing its own circle, there is no [[Flower (flow arts)|flower]] pattern and no [[prospin]]/[[antispin]] distinction. The poi simply traces a single circle.
+
+Lockouts are often used as transitional positions or as a starting/ending point for patterns.
+
+== Relationship to other concepts ==
+
+* '''[[Extension (flow arts)|Extension]]''': An extension involves the hand moving in a circle with the prop moving in the same direction. A lockout is the limiting case where the hand circle collapses to a point.
+* '''[[Stall]]''': While a stall stops the poi's movement, a lockout stops the hand's movement but the poi continues.
+
+== See also ==
+
+* [[Poi]]
+* [[Extension (flow arts)]]
+* [[Stall]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

@@ -1,0 +1,19 @@
+{{AI generated}}
+'''Tech Tiles''' is a visual notation system for [[poi]] patterns created by [[Lorq Nichols]]. It provides a standardized way to represent spinning patterns as color-coded visual blocks, used extensively in the [[Book of P.H.A.T.]] and other Spin Science publications.<ref name="phat">{{cite web |url=https://sirlorq.wordpress.com/tech-tiles/ |title=Vulcan Tech Gospel Book of P.H.A.T. Volume 1 |publisher=Sir Lorq}}</ref>
+
+== Tech Tiles 3D Pattern Player ==
+
+Nichols also developed the '''Tech Tiles 3D Pattern Player''', an interactive Unity-based tool that allows users to visualize patterns in three dimensions. Users can select beginning position, [[Plane (flow arts)|plane]], rotation direction, and speed for each of four elements: left hand, right hand, left prop, and right prop. Multiple prop types and camera views are supported.<ref name="tech-tiles-3d">{{cite web |url=https://sirlorq.wordpress.com/tech-tiles-3d-pattern-player/ |title=Tech Tiles 3D Pattern Player |publisher=Sir Lorq}}</ref>
+
+== See also ==
+
+* [[Lorq Nichols]]
+* [[Book of P.H.A.T.]]
+* [[Vulcan Tech Gospel]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

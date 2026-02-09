@@ -1,0 +1,66 @@
+{{AI generated}}
+'''Prospin''' (also called '''inspin''') is a type of prop rotation in [[flow arts]] where the prop rotates in the same direction as the hand's circular travel. If the hand orbits clockwise, a prospin prop also rotates clockwise. Prospin is one of the two fundamental rotation types in two-prop spinning, the other being [[antispin]].
+
+== Description ==
+
+In prospin motion, the prop's rotation reinforces the hand's arc. As the hand traces a circular path, the prop spins ''with'' that arc. The visual effect depends on how fast the prop rotates relative to the hand:
+
+* At '''zero additional rotations''', the prop does not spin relative to the hand's arc. The prop maintains its orientation relative to the performer's center, creating the visual effect of an [[Isolation (flow arts)|isolation]]; the prop appears to hang motionless in space while the hand orbits around it.
+* At '''one full rotation''', the prop completes one full spin per hand orbit, tracing a two-petal [[Flower (flow arts)|flower]] pattern (an inspin flower).
+* At higher rotation counts, the prop traces flowers with progressively more petals.
+
+Prospin patterns tend to feel smooth and natural to beginners because the hand and prop move in agreement. The extension (where the hand and prop travel together without any petal pattern) is closely related to prospin mechanics.
+
+== Terminology ==
+
+The flow arts community uses several terms for this concept:
+
+* '''Inspin''': the most common community term, used in the [[Vulcan Tech Gospel]] (VTG) and by most practitioners and instructors.<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+* '''Prospin''' / '''pro''': used in [[The Kinetic Alphabet]] (TKA). The term emphasizes that the rotation goes ''with'' (pro-) the hand's direction.<ref name="tka-pro">In The Kinetic Alphabet, "pro" is the standard term for rotation in the same direction as the hand's arc.</ref>
+* '''Same-direction rotation''': descriptive term sometimes used in teaching contexts.
+
+The term "inspin" comes from the visual effect: the prop appears to spin ''inward'' toward the center of the hand's orbit when viewed from the front.
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! Term !! Notes
+|-
+| [[Vulcan Tech Gospel|VTG]] || Inspin || Part of the timing/direction/pattern classification. Inspin flowers have specific petal counts based on prop-to-hand rotation ratio.
+|-
+| [[The Kinetic Alphabet|TKA]] || Pro || One of three rotation types (pro, anti, float). At 0 turns, creates an isolation. Turn count determines petal complexity.
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || Inspin / isolation driving style || Isolation (0-turn inspin) is classified as its own [[driving style]]. Higher-turn inspins fall under the inspin driving style.
+|-
+| [[Trigonometric model (poi)|Trigonometric model]] || Positive ''d'' value || In the parametric equation <math>x = h \cdot \sin(t) + p \cdot \sin(d \cdot t)</math>, a positive value of ''d'' produces inspin patterns.<ref name="drex-math">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref>
+|}
+
+== Relationship to isolation ==
+
+An [[Isolation (flow arts)|isolation]] is the special case of prospin at zero turns. The prop maintains its orientation relative to the performer's center, creating the visual impression that the prop is stationary. In TKA, this is described as "0-turn pro": the center-relative orientation is preserved (for example, a prop facing "in" stays facing "in" throughout the hand's orbit).
+
+Different frameworks handle this relationship differently:
+
+* In VTG, isolation is treated as a specific 1:1 pattern within the inspin family.
+* In TKA, isolation is a specific turn count (0) of the pro rotation type.
+* In [[Lorq Nichols]]' driving style taxonomy, isolation is classified as its own driving style, separate from other inspin patterns.<ref name="lorq-driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref>
+
+== Relationship to extension ==
+
+An [[Extension (flow arts)|extension]] occurs when the hand and prop travel together without the prop tracing a petal pattern. Extensions are closely related to prospin: they emerge from specific combinations of hand path and prospin rotation. In VTG, extensions are classified as 1:1 inspin patterns. In TKA, extensions emerge from the interaction of shift-type hand movements with pro rotation.
+
+== See also ==
+
+* [[Antispin]]
+* [[Isolation (flow arts)]]
+* [[Extension (flow arts)]]
+* [[Flower (flow arts)]]
+* [[Timing and direction]]
+* [[Driving style]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

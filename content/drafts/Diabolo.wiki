@@ -1,0 +1,32 @@
+{{AI generated}}
+A '''diabolo''' is a manipulation prop consisting of a spool that is spun on a string tied between two hand sticks. The player accelerates the spool by moving the sticks and string, then performs tricks while maintaining the spin.
+
+== Design ==
+
+* '''Spool''': An hourglass or axle-shaped object, typically made of rubber or plastic. Ranges from beginner-friendly wide cups to performance-grade narrow axles.
+* '''String''': A length of string tied between two hand sticks
+* '''Hand sticks''': Two sticks (typically 30-40 cm) used to manipulate the string
+
+== Techniques ==
+
+* '''Power moves''': Accelerating the diabolo's spin
+* '''Tosses''': Throwing the diabolo into the air and catching on the string
+* '''Grinds''': Balancing the spinning diabolo on the string or stick
+* '''Wraps''': Wrapping the string around the axle for tricks
+* '''Multi-diabolo''': Running two or more diabolos on the same string simultaneously
+
+== Relationship to flow arts ==
+
+Diabolo has strong roots in [[juggling]] and circus arts. While not always classified as a [[flow arts]] prop, diabolo shares the flow arts community's emphasis on continuous movement, body expression, and creative manipulation. Some performers incorporate diabolo into flow arts contexts.
+
+== See also ==
+
+* [[Juggling]]
+* [[Devil sticks]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

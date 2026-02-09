@@ -1,0 +1,27 @@
+{{AI generated}}
+'''Musicality''' in [[flow arts]] refers to the practice of synchronizing prop movement with music. A performer with strong musicality matches their patterns, transitions, and body movement to the rhythm, melody, dynamics, and structure of the music they are spinning to.
+
+== Elements ==
+
+* '''Rhythm matching''': Aligning the tempo of the spin to the beat of the music
+* '''Accents''': Timing stalls, direction changes, or other visual punctuation to coincide with musical accents
+* '''Phrasing''': Structuring sequences of patterns to match musical phrases (verse, chorus, bridge)
+* '''Dynamics''': Varying speed, intensity, and spatial range in response to the music's dynamics (loud/soft, building/releasing)
+* '''Genre interpretation''': Different musical genres lend themselves to different movement qualities
+
+== In performance ==
+
+Musicality is a primary distinguishing factor between technical practice and performance. A performer may know many patterns but without musicality the performance can feel disconnected. Conversely, a performer with fewer techniques but strong musicality can create a compelling show.
+
+In competitive or judged contexts, musicality is typically one of the evaluation criteria alongside technical difficulty and creativity.
+
+== See also ==
+
+* [[Flow arts]]
+* [[Flow state]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

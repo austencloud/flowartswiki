@@ -1,0 +1,23 @@
+{{AI generated}}
+The '''Flow Arts Institute''' ('''FAI''') is an educational organization for [[flow arts]] instruction and community building. It was co-founded by [[Noel Yee]].<ref name="fai">{{cite web |url=https://flowartsinstitute.com/ |title=Flow Arts Institute}}</ref>
+
+== Activities ==
+
+The Flow Arts Institute publishes educational content including tutorials on [[timing and direction]], [[Vulcan Tech Gospel|VTG]] concepts, and spinning technique. It hosts the "TuTsday" tutorial series.<ref name="fai-timing">{{cite web |url=https://flowartsinstitute.com/tutsday-timing-direction/ |title=TuTsday: Timing & Direction |publisher=Flow Arts Institute}}</ref>
+
+The organization also sells educational materials including the [[Vulcan Tech Gospel|VTG Poster]], a visual reference highlighting parts of VTG volumes 1 and 2.<ref name="vtg-poster">{{cite web |url=https://flowartsinstitute.com/fai-swag-vtg-poster/ |title=FAI Swag: VTG Poster |publisher=Flow Arts Institute}}</ref>
+
+== See also ==
+
+* [[Noel Yee]]
+* [[Vulcan Tech Gospel]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://flowartsinstitute.com/ Flow Arts Institute]
+
+[[Category:Flow arts organizations]]

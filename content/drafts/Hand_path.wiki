@@ -1,0 +1,53 @@
+{{AI generated}}
+A '''hand path''' in [[flow arts]] theory is the trajectory that the performer's hand follows during a spinning pattern. The shape and size of the hand path is one of the primary factors determining the overall visual pattern produced by the prop.
+
+== Description ==
+
+While the audience typically watches the prop (the bright or fiery end), the hand path is what the performer controls directly. The prop then traces its own pattern relative to the moving hand. The combination of hand path and prop rotation creates the final visible pattern.
+
+== Types of hand paths ==
+
+=== Circular ===
+
+The most common hand path. The hand traces a circle in front of, beside, or around the body. Circular hand paths combined with prop rotation produce [[Flower (flow arts)|flower]] patterns.
+
+=== Linear ===
+
+The hand moves in a straight line. In [[The Kinetic Alphabet]], this is called a [[Dash (flow arts)|dash]]. Linear hand paths produce different visual patterns than circular ones.
+
+=== Curved (arc) ===
+
+The hand traces a curved arc that is not a complete circle. In TKA, this is called a [[Shift (flow arts)|shift]].
+
+=== Stationary ===
+
+The hand does not move. In TKA, this is called [[Static (flow arts)|static]]. The prop traces a simple circle around the fixed hand.
+
+== In notation systems ==
+
+{| class="wikitable"
+! System !! How hand paths are described
+|-
+| [[The Kinetic Alphabet]] || Three types: shift (curved), dash (linear), static (no movement). Combined into 6 letter types.
+|-
+| [[9-Square Theory]] || Grid positions define where the hands are; transitions between grid points define the path.
+|-
+| [[Trigonometric model (poi)|Trigonometric model]] || Hand path is the first term in the parametric equation: the ''h'' parameter controls hand path shape.
+|-
+| [[Vulcan Tech Gospel]] || Hand paths are implicit in the pattern type rather than explicitly named.
+|}
+
+== See also ==
+
+* [[Shift (flow arts)]]
+* [[Dash (flow arts)]]
+* [[Static (flow arts)]]
+* [[The Kinetic Alphabet]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

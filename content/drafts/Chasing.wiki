@@ -1,0 +1,26 @@
+{{AI generated}}
+'''Chasing''' is a [[poi]] pattern where one poi follows the path of the other, maintaining a consistent angular gap between them. Both poi trace the same circular path but are offset in phase, creating the visual effect of one "chasing" the other.
+
+== Description ==
+
+In chasing patterns, both poi travel in the same direction along the same circular path. The distance (in degrees of rotation) between the two poi remains constant. Common phase offsets include:
+
+* '''Close chase''': Small angular gap between the two poi
+* '''Half chase''': 180-degree gap (equivalent to [[split time]] when viewed from the side)
+* '''Quarter chase''': 90-degree gap
+
+== Relationship to timing ==
+
+Chasing is closely related to the concept of [[timing and direction]]. A chase with a 180-degree offset is visually identical to split-time same-direction spinning when viewed from certain angles.
+
+== See also ==
+
+* [[Timing and direction]]
+* [[Same direction]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

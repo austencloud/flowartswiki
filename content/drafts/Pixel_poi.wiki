@@ -1,0 +1,37 @@
+{{AI generated}}
+'''Pixel poi''' are a type of [[LED props|LED poi]] containing strips of individually addressable LEDs that can display images, text, and complex color patterns using [[persistence of vision]] (POV). When spun, the rapid movement of the LED strip combined with precisely timed color changes creates the illusion of a complete image floating in the air.
+
+== How it works ==
+
+A pixel poi contains:
+
+* A strip of addressable LEDs (typically 30-100 LEDs per strip)
+* A microcontroller that controls each LED's color independently
+* An accelerometer or gyroscope to detect the poi's angular position
+* Software that maps image data to LED output based on the current angle of rotation
+
+As the poi spins, the microcontroller changes each LED's color hundreds of times per second. Because the poi makes a full revolution faster than the eye can process, the brain blends all the color changes into a single circular image.
+
+== Capabilities ==
+
+* '''Static images''': Photographs, logos, text displayed as floating circles
+* '''Animations''': Frame-by-frame animation displayed over multiple revolutions
+* '''Live patterns''': Algorithmically generated color patterns that respond to speed or music
+* '''Custom programming''': Users can upload their own images and sequences
+
+== Notable products ==
+
+* '''Flowtoys Capsule''': Modular pixel system by [[Flowtoys]]
+* Various custom and open-source pixel poi projects
+
+== See also ==
+
+* [[LED props]]
+* [[Persistence of vision]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

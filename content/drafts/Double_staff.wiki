@@ -1,0 +1,16 @@
+{{AI generated}}
+'''Double staff''' (also called '''double staves''' or '''short staffs''') is a [[flow arts]] practice involving the simultaneous manipulation of two [[staff]] props. Double staff technique shares extensive theoretical overlap with [[poi]], as both involve two spinning objects with [[timing and direction]] relationships.
+
+Most frameworks developed for poi apply directly to double staff, including the [[Vulcan Tech Gospel]], [[Continuous Assembly Patterns]], and [[The Kinetic Alphabet]]. [[Charlie Cushing]] specifically documented [[Continuous Assembly Patterns#8-Step CAP|8-Step CAP]] recipes for double staff.<ref name="drex-8step-staff">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2016%2F09%2F27%2Ftutorial_double_staff_8_step_cap_recipe |title=Tutorial: Double Staff 8-Step CAP Recipe |publisher=DrexFactor |date=2016-09-27}}</ref>
+
+== See also ==
+
+* [[Poi]]
+* [[Timing and direction]]
+* [[Continuous Assembly Patterns]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

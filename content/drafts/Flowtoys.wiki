@@ -1,0 +1,29 @@
+{{AI generated}}
+'''Flowtoys''' is a flow arts prop manufacturer based in San Francisco, California. The company is known for its line of LED and fire props, including the podpoi, flow wand, and capsule light systems.
+
+== Products ==
+
+Flowtoys manufactures props for multiple flow arts disciplines:
+
+* '''Podpoi''': LED poi with a modular capsule light system
+* '''Flowmass clubs''': LED-enabled [[Clubs (flow arts)|clubs]]
+* '''Crystal staff''': LED-enabled [[Staff (flow arts)|staff]]
+* '''Capsule lights''': Modular LED units used across multiple prop types
+* '''Oxbow meteor''': A curved-handle [[meteor]] developed and popularized by [[Charlie Cushing]]<ref name="flowtoys-oxbow">{{cite web |url=https://flowtoys.com/oxbow |title=Oxbow |publisher=Flowtoys}}</ref>
+
+== Significance ==
+
+Flowtoys has been influential in popularizing [[LED props]] as an alternative and complement to [[fire spinning]]. Their modular capsule system allows a single set of LED units to be used across different prop types.
+
+== See also ==
+
+* [[LED props]]
+* [[Charlie Cushing]]
+* [[Prop (flow arts)]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts organizations]]

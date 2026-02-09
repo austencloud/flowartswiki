@@ -1,0 +1,46 @@
+{{AI generated}}
+'''Flow arts''' (also called '''object manipulation''' or '''prop spinning''') is a broad category of movement disciplines involving the manipulation of props in rhythmic, continuous patterns. Flow arts combine elements of dance, circus arts, and meditative practice.
+
+== Props ==
+
+Common flow arts props include:
+
+* '''[[Poi]]''': Weighted objects on flexible cords, swung in circular patterns.
+* '''[[Staff (flow arts)|Staff]]''': Long rod manipulated through spins, rolls, and contact techniques. Can be single or [[double staff]].
+* '''[[Fire fans]]''': Rigid or folding fans, often with fire or LED elements.
+* '''[[Hoops]]''': Circular rings manipulated on and around the body.
+* '''[[Contact juggling]]''': Spheres rolled across the hands and body surface.
+* '''Rope dart''': A weighted end on a rope, combining striking and wrapping movements.
+* '''Levitation wand''': A rod with a concealed balance point creating the illusion of independent movement.
+* '''Clubs''': Juggling clubs adapted for spinning manipulation.
+* '''Buugeng''': S-shaped props creating optical illusions when spun.
+
+== Theory ==
+
+The flow arts community has developed multiple theoretical frameworks for understanding and classifying movement:
+
+* '''[[Vulcan Tech Gospel]]''' (VTG): Classifies [[timing and direction]] relationships and [[Flower (flow arts)|pattern shapes]].
+* '''[[Continuous Assembly Patterns]]''' (CAPs): Compositional technique for assembling pattern fragments into cycles.
+* '''[[Transition Theory]]''': Describes how spinners move between pattern states.
+* '''[[9-Square Theory]]''': Spatial grid for mapping movement and transitions.
+* '''[[The Kinetic Alphabet]]''' (TKA): Letter-based notation system for two-handed manipulation.
+* '''[[Trigonometric model (poi)|Trigonometric model]]''': Parametric equations describing all poi patterns.
+* '''[[Driving style]]''': Taxonomy of eight fundamental movement categories.
+
+== Culture ==
+
+The flow arts community includes fire spinning, LED performance, and non-lit practice. Flow jams (informal gatherings for practicing together) are common. Fire performance requires specific safety protocols including fuel selection, spinning area requirements, and safety personnel.
+
+Major gathering points for the community include festivals, regional burns, and online forums such as [[Home of Poi]].
+
+== See also ==
+
+* [[Poi]]
+* [[Timing and direction]]
+* [[Vulcan Tech Gospel]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

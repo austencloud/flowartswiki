@@ -1,0 +1,35 @@
+{{AI generated}}
+'''Hypmix''' (short for '''hypotrochoid mix''') is a parameter in the [[Trigonometric model (poi)]] that controls the blend between circular and linear hand movement. It is denoted as ''h'' in the model's parametric equations.
+
+== Definition ==
+
+In the trigonometric model developed by [[Zaltymbunk]], the hypmix parameter ''h'' ranges from 0 to 1:
+
+* '''h = 0''': The hand traces a perfect circle (pure circular hand path)
+* '''h = 1''': The hand traces a straight line (pure linear hand path)
+* '''0 < h < 1''': The hand traces an elliptical path (blend of circular and linear)
+
+== Effect on patterns ==
+
+The hypmix value significantly affects the visual pattern:
+
+* At h = 0 (circular hand path), [[Flower (flow arts)|flower]] patterns with smooth, rounded petals emerge
+* At h = 1 (linear hand path), the patterns become angular and diamond-shaped
+* Intermediate values produce patterns with varying degrees of roundness
+
+== Relationship to TKA ==
+
+In [[The Kinetic Alphabet]], the distinction between [[Shift (flow arts)|shift]] (curved hand path) and [[Dash (flow arts)|dash]] (linear hand path) corresponds roughly to h = 0 and h = 1 in the trigonometric model. TKA does not currently encode intermediate hypmix values.
+
+== See also ==
+
+* [[Trigonometric model (poi)]]
+* [[Hand path]]
+* [[Flower (flow arts)]]
+* [[Zaltymbunk]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

@@ -1,0 +1,27 @@
+{{AI generated}}
+'''Flow state''' (also '''the zone''') is a mental state of complete absorption in an activity, characterized by focused concentration, loss of self-consciousness, and a sense of effortless control. The concept was named by psychologist Mihaly Csikszentmihalyi.
+
+== Relationship to flow arts ==
+
+The term "[[flow arts]]" explicitly references the flow state. Many practitioners describe the pursuit of flow state as a core motivation for their practice. The repetitive, rhythmic nature of spinning props can facilitate entry into flow state, particularly when the practitioner's skill level is well-matched to the challenge of the pattern being performed.
+
+== Conditions ==
+
+Csikszentmihalyi identified conditions that promote flow state:
+
+* '''Clear goals''': Knowing what you want to accomplish (e.g., a specific pattern or sequence)
+* '''Immediate feedback''': Seeing and feeling the prop respond in real time
+* '''Challenge-skill balance''': The activity is neither too easy (boredom) nor too hard (anxiety)
+
+In flow arts practice, these conditions are naturally present: the performer has a clear intent, the prop provides immediate visual and physical feedback, and difficulty can be adjusted by choosing simpler or more complex patterns.
+
+== See also ==
+
+* [[Flow arts]]
+* [[Flow jam]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

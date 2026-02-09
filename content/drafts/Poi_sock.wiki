@@ -1,0 +1,37 @@
+{{AI generated}}
+'''Poi socks''' (also '''sock poi''' or '''practice poi''') are a simple, inexpensive form of [[poi]] made by placing a weighted object (such as a tennis ball or rolled-up pair of socks) inside a long sock or fabric tube. Poi socks are the most common entry point for beginners learning to spin poi.
+
+== Construction ==
+
+A basic pair of poi socks requires:
+
+* Two long socks (knee-high or tube socks)
+* Two tennis balls, rolled socks, or other soft weights
+* The weight is placed in the toe of the sock; the open end serves as the handle
+
+== Advantages ==
+
+* '''Low cost''': Can be made from household materials
+* '''Safe''': Soft weight minimizes injury risk during learning
+* '''Immediate''': No specialized equipment needed to start spinning
+
+== Limitations ==
+
+* Less visual than [[LED props]] or fire
+* Tether length is not adjustable
+* Weight and balance are inconsistent compared to purpose-built poi
+* Fabric can be noisy when spinning fast
+
+Poi socks are sometimes called "practice poi," though that term can also refer to purpose-built non-fire, non-LED poi designed for regular practice.
+
+== See also ==
+
+* [[Poi]]
+* [[Prop (flow arts)]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

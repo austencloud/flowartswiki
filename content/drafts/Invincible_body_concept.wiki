@@ -1,0 +1,28 @@
+{{AI generated}}
+The '''invincible body concept''' is a principle in fire performance safety that describes imaginary "safety zones" around the performer's body. The concept teaches fire spinners to maintain awareness of which body areas are most vulnerable to burns and to keep fire props on safe trajectories.
+
+== Description ==
+
+The invincible body concept divides the body into zones based on vulnerability:
+
+* '''Safe zones''': Areas covered by clothing, hair tied back, and areas the performer can see and react to
+* '''Danger zones''': Face, eyes, hair, areas with thin or exposed skin, areas hidden from the performer's view
+
+The concept encourages performers to develop muscle memory for keeping fire props in safe trajectories, even during complex patterns or improvisation.
+
+== Application ==
+
+* Beginners learn which body areas are most at risk and practice keeping props away from those areas
+* Advanced performers internalize these safety margins so they become automatic
+* The concept applies to all [[fire spinning]] props: [[poi]], [[Staff (flow arts)|staff]], [[Fire fans|fans]], and others
+
+== See also ==
+
+* [[Fire safety]]
+* [[Fire spinning]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

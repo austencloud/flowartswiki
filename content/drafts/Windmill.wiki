@@ -1,0 +1,25 @@
+{{AI generated}}
+A '''windmill''' is a [[poi]] pattern performed in the wheel [[Plane (flow arts)|plane]] (the plane perpendicular to the performer's chest), where both poi spin in the same direction with the arms extended to the sides. The visual resembles a windmill's blades rotating.
+
+== Description ==
+
+In a windmill, the performer typically extends their arms to the sides, with each poi spinning in a vertical circle in the wheel plane. Both poi usually travel in the same direction (e.g., both forward or both backward from the audience's perspective).
+
+Windmills are one of the fundamental poi patterns and are often among the first wheel-plane moves a beginner learns.
+
+== Timing variations ==
+
+* '''[[Same time]] windmill''': Both poi at the same point in their cycle (arms move symmetrically)
+* '''[[Split time]] windmill''': Poi 180 degrees out of phase (one up while the other is down)
+
+== See also ==
+
+* [[Plane (flow arts)]]
+* [[Weave]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

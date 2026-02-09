@@ -1,0 +1,31 @@
+{{AI generated}}
+In [[The Kinetic Alphabet]] (TKA), a '''compound''' is a sequence of two or more TKA letters performed in succession. Compounds are the building blocks of choreographic sequences, analogous to syllables or words in written language.
+
+== Description ==
+
+While a single TKA letter describes one beat of movement (the state of both hands and props during one timing unit), a compound strings multiple letters together into a longer phrase. The transitions between letters in a compound must be valid: the ending position of one letter must match the starting position of the next.
+
+== Notation ==
+
+Compounds are written as strings of letter names. For example, "CAP" would indicate a sequence of letters C, A, and P performed in order. The connection between [[Continuous Assembly Patterns]] (CAPs) and TKA compound notation is reflected in the name itself.
+
+== Constraints ==
+
+Not all letter combinations are valid compounds. The transition between two letters must satisfy:
+
+* The ending position of letter N must match the starting position of letter N+1
+* The ending rotation states must be compatible with the starting rotation states of the next letter
+
+When transitions between desired letters are not directly possible, a '''bridge''' letter may be inserted to create a valid connection.
+
+== See also ==
+
+* [[The Kinetic Alphabet]]
+* [[LOOP]]
+* [[Transition (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

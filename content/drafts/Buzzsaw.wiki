@@ -1,0 +1,18 @@
+{{AI generated}}
+The '''buzzsaw''' is a [[poi]] pattern in [[flow arts]] where both poi spin on the same side of the body in [[split time]]. The two poi are 180 degrees out of phase, creating a continuous circular motion that resembles a rotating blade.
+
+The buzzsaw is the [[split time]] counterpart to the [[Butterfly (flow arts)|butterfly]] (which uses [[same time|together timing]]). Buzzsaw patterns can be performed with various [[Flower (flow arts)|flower]] shapes, and [[Nick Woolsey]] documented combinations of four buzzsaw flower variations linked together.<ref name="playpoi-buzzsaw">{{cite web |url=https://playpoi.com/learn/linking-4-buzzsaw-flower-combinations-together-poi-fu/ |title=Linking 4 Buzzsaw Flower Combinations Together |publisher=PlayPoi}}</ref>
+
+== See also ==
+
+* [[Butterfly (flow arts)]]
+* [[Poi]]
+* [[Split time]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Poi technique]]

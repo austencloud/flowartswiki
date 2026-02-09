@@ -1,0 +1,206 @@
+'''Continuous Assembly Patterns''' ('''CAPs''') are a compositional framework in [[flow arts]] for creating cyclic, repeating patterns by assembling fragments of different movements in sequence. The term encompasses three related but distinct concepts: a specific technique (the '''C-CAP'''), a family of hand-reversal patterns, and a broad theoretical approach to combining movement. CAPs are widely considered a cornerstone of intermediate-to-advanced [[prop manipulation|prop spinning]] technique and a "rite of passage" for many [[poi]] spinners.<ref name="flowarts-life">{{cite web |url=https://flowarts.life/2021/04/16/what-comes-next-poi-caps/ |title=What Comes Next: Poi CAPs |publisher=Flow Arts Life |date=2021-04-16}}</ref>
+
+The concept was first articulated on the [[Home of Poi]] forums by '''Damien''' (known as '''French_Saltimbanque''' or '''Zaltymbunk'''), who also developed the mathematical framework for describing CAPs. The term and technique were subsequently promoted by [[Alien Jon]] and the broader tech poi community.<ref name="hop-what-are-caps">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/891193/What-are-CAP-s |title=What are CAPs? |publisher=Home of Poi Forums}}</ref>
+
+== Definitions ==
+
+The term "CAP" carries different meanings depending on context. Understanding which definition a practitioner uses is essential to productive conversation about the concept.<ref name="lorq-cap-def">{{cite web |url=http://spinscience.xyz/2016/02/22/cap-definition/ |title=CAP Definition |publisher=Spin Science |author=Lorq Nichols |date=2016-02-22}}</ref>
+
+=== Definition 1: The C-CAP (most common usage) ===
+
+The '''C-CAP''' (''Continuous'' or ''Capped Antispin Pattern'') is a specific technique in which a spinner alternates between an [[extension]] and one petal of an [[antispin]] flower by reversing arm direction every half circle. The hand reverses direction while the poi maintains its direction, tracing a kidney-bean or heart-shaped path. This is what most spinners mean when they say "CAP."<ref name="drex-c-cap">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2012%2F08%2F21%2Fbasic_poi_dancing_tutorial_c_caps |title=Basic Poi Dancing Tutorial: C-CAPs |publisher=DrexFactor |date=2012-08-21}}</ref>
+
+The alternative expansion "'''Capped Antispin Patterns'''" was popularized by [[Nick Woolsey]] of [[PlayPoi]].<ref name="playpoi-caps">{{cite web |url=https://playpoi.com/learn/learning-caps-capped-antispin-patterns/ |title=Learning CAPs (Capped Antispin Patterns) |publisher=PlayPoi}}</ref>
+
+=== Definition 2: The C-CAP family ===
+
+More broadly, the C-CAP mechanism — reversing hand direction while maintaining poi direction — can be applied to ''any'' two shapes, not just extension and antispin. For example, a box antispin transitioning to a 2-petal inspin flower. Under this definition, the C-CAP is a ''family'' of patterns sharing the same hand-reversal mechanism.<ref name="drex-composites-caps">{{cite web |url=https://drexfactor.com/weirdscience/2011/11/28/drexs_tech_poi_blog_214_composites_vs_caps |title=Drex's Tech Poi Blog #214: Composites vs CAPs |publisher=DrexFactor |date=2011-11-28}}</ref>
+
+=== Definition 3: The original concept (broadest) ===
+
+In the original sense coined by Damien, a Continuous Assembly Pattern is ''any'' pattern that combines different movement fragments into a repeating cycle. An 8-step CAP, a 40-step CAP, or any composite cyclic sequence qualifies. As the community has stated: "'''CAPs are not a move, they are a way of thinking about movement.'''"<ref name="hop-what-are-caps" />
+
+== CAPs vs hybrids ==
+
+The distinction between CAPs and [[hybrid (flow arts)|hybrids]] is fundamental to understanding both concepts:<ref name="drex-hybrid-theory">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/915407/1/Drex-s-hybrid-theory |title=Drex's Hybrid Theory |publisher=Home of Poi Forums}}</ref>
+
+* '''Hybrids''' combine two different patterns performed ''simultaneously'' — one per hand. The asymmetry is ''spatial''.
+* '''CAPs''' combine two different patterns performed ''sequentially'' — by the same hand over time. The asymmetry is ''temporal''.
+
+Both involve combining unlike movements, but in different dimensions. Hybrids are "parallel information treatment"; CAPs are "serial information treatment."
+
+== The C-CAP mechanism ==
+
+=== Arcs and loops ===
+
+The C-CAP mechanism builds on concepts originally articulated by [[Alien Jon]]:<ref name="drex-transition-theory">{{cite web |url=https://drexfactor.com/weirdscience/2010/09/29/soft_hard_and_mixed_transition_theory |title=Soft, Hard, and Mixed Transition Theory |publisher=DrexFactor |date=2010-09-29}}</ref>
+
+* '''Loops''': Sections of a pattern where the poi and hand paths intersect. These include antispin petals, inspin petals, and isolations.
+* '''Arcs''': Sections where the hand and poi paths run parallel without intersecting. Extensions are the primary example.
+
+The C-CAP works by using a '''mixed transition''' (from [[Transition Theory]]) — the hand reverses direction while the poi maintains direction. This converts arcs into loops and loops into arcs. The result is a continuous pattern that alternates between the two shape types on every half-rotation.<ref name="drex-transition-theory" />
+
+=== How the C-CAP traces its path ===
+
+In a standard C-CAP:
+
+# The hand moves forward along a circular path, and the poi traces an '''extension''' (arc).
+# At the halfway point, the hand ''reverses direction'' while the poi continues spinning the same way.
+# The poi now traces one petal of an '''antispin flower''' (loop).
+# At the next halfway point, the hand reverses again, returning to extension.
+# The cycle repeats, tracing a kidney-bean or heart-shaped composite path.
+
+The hand-reversal is the defining gesture. It is the mechanism that makes the continuous assembly possible.
+
+== 8-Step CAP ==
+
+The '''8-Step CAP''' is an innovation by [[Charlie Cushing]] that solves the problem of timing transitions when assembling patterns into cyclic sequences.<ref name="hop-8step">{{cite web |url=https://www.homeofpoi.com/us/community/forums/topics/934076/8-step-CAPs |title=8-Step CAPs |publisher=Home of Poi Forums}}</ref><ref name="drex-8step">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2016%2F09%2F27%2Ftutorial_double_staff_8_step_cap_recipe |title=Tutorial: Double Staff 8-Step CAP Recipe |publisher=DrexFactor |date=2016-09-27}}</ref>
+
+=== Principle ===
+
+The core idea is "'''two steps forward, one step back'''":
+
+* Pattern A travels '''3/4''' of a circle in one direction.
+* Pattern B travels '''1/2''' of a circle in the ''opposite'' direction.
+* The distance mismatch causes the pattern to advance through all four cardinal positions, cycling through both timing variations.
+* Performed in all four cardinal directions, this produces '''8 segments''' total — hence the name.
+
+=== Significance ===
+
+The 8-Step CAP demonstrates that the compositional approach (Definition 3) extends far beyond the basic C-CAP. By varying the fraction of a circle each pattern occupies and the direction of travel, spinners can construct hundreds of possible 8-step sequences. Charlie Cushing has described this as a ''recipe'' applicable to any pair of compatible patterns.<ref name="drex-8step" />
+
+== Mathematical framework ==
+
+The mathematics of CAPs were developed primarily by '''Zaltymbunk''' (Damien) and documented extensively by [[DrexFactor|Ben Drexler]].<ref name="drex-math-caps">{{cite web |url=https://drexfactor.com/reference/math_caps |title=The Math of CAPs |publisher=DrexFactor}}</ref>
+
+=== Trigonometric model ===
+
+All poi patterns — including the elementary patterns from which CAPs are assembled — can be described by parametric equations:<ref name="drex-math-classify-intro">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref><ref name="drex-math-classify-flowers">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/07/mathematical_approach_classifying_poi_patterns_modeling_flowers_and_third_or |title=A Mathematical Approach to Classifying Poi Patterns: Modeling Flowers and Third-Order Motions |publisher=DrexFactor |date=2014-05-07}}</ref>
+
+:<math>x = h \cdot \sin(t) + p \cdot \sin(d \cdot t)</math>
+
+:<math>y = h \cdot \cos(t) + p \cdot \cos(d \cdot t)</math>
+
+Where:
+
+* <math>h</math> = hand path radius
+* <math>p</math> = poi length (phasing component)
+* <math>d</math> = relative frequency (ratio of poi rotation to hand rotation)
+* <math>t</math> = time parameter
+
+Key relationships:
+
+* Positive <math>d</math> = inspin pattern
+* Negative <math>d</math> = antispin pattern
+* Petal count = <math>|1 - d|</math>
+
+This model is ''generative'' — plugging in untried parameter values can predict patterns that have not yet been discovered or performed.
+
+=== Elementary pattern notation (Zaltymbunk) ===
+
+Zaltymbunk developed a compact notation for describing the elementary patterns from which CAPs are built:<ref name="drex-math-caps" />
+
+ Theta1 Theta2 ; Rho1 Rho2 ; d
+
+Where:
+
+* '''Theta1, Theta2''' — harmonic frequencies (rotation counts for each component)
+* '''Rho1, Rho2''' — modulus components (radii/lengths of the two rotating elements)
+* '''d''' — division factor (0 < d ≤ 1), the fraction of a full cycle used
+
+==== Pattern types ====
+
+* '''Rosettes''': Patterns where Rho1 = Rho2 (equal radii)
+* '''Cycloids''': Patterns where the hand and poi tip move at equal speeds in the ground frame
+
+==== CAP assembly ====
+
+Two elementary patterns are assembled into a CAP using the '''&''' operator:
+
+ Pattern A ; d1 & Pattern B ; d2
+
+For example:
+
+ 1 0 ; 1 3/4 ; 1/2 & -1 4 ; 1 3/4 ; 1/2
+
+This describes a CAP where Pattern A occupies the first half of the cycle and Pattern B occupies the second half.
+
+==== Feasibility rule ====
+
+Not all pattern combinations produce valid CAPs. For antispin patterns, the absolute value of Theta1 must be less than the absolute value of Theta2:
+
+:<math>|\Theta_1| < |\Theta_2|</math>
+
+=== Graph theory ===
+
+[[DrexFactor|Drex]] applied graph theory to poi paths, representing them as planar graphs where the crosspoints of the poi's traced path become vertices and the path segments between them become edges. This provides a topological framework for analyzing the structural complexity of patterns, including CAPs.<ref name="drex-graph-theory">{{cite web |url=https://drexfactor.com/weirdscience/2012/12/16/drexs_tech_poi_blog_308_graph_theory_and_poi_paths |title=Drex's Tech Poi Blog #308: Graph Theory and Poi Paths |publisher=DrexFactor |date=2012-12-16}}</ref><ref name="drex-planar-graph">{{cite web |url=https://drexfactor.com/weirdscience/2013/01/06/drexs_planar_graph_conjecture_poi |title=Drex's Planar Graph Conjecture |publisher=DrexFactor |date=2013-01-06}}</ref>
+
+== Relationship to other frameworks ==
+
+=== VTG ===
+
+[[Vulcan Tech Gospel|VTG]] provides the ''classification system'' — it identifies what patterns exist and how to [[Transition Theory|transition]] between them. CAPs provide a ''compositional technique'' — they take fragments of VTG-classified patterns and assemble them into new cycles. In this sense, VTG is the grammar and CAPs are a sentence structure built from that grammar.<ref name="drex-vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |publisher=DrexFactor |date=2015-11-25}}</ref>
+
+=== Transition Theory ===
+
+[[Transition Theory]] (developed by [[Noel Yee]] and [[Jordan Campbell]]) describes the four types of transitions between patterns: soft, hard, and two types of mixed. The C-CAP specifically uses a '''mixed transition''' — the hand reverses while the poi maintains direction. Transition Theory thus provides the theoretical explanation for ''why'' the C-CAP mechanism works.<ref name="drex-transition-theory" />
+
+=== 9-Square Theory ===
+
+[[Charlie Cushing]]'s [[9-Square Theory]] quantizes the space around the spinner's body into a grid. CAPs can be mapped onto this grid, with each segment of a CAP occupying a specific grid position. The 8-Step CAP, also by Cushing, explicitly uses 9-Square positions as the scaffolding for pattern assembly.<ref name="drex-9sq-cap">{{cite web |url=https://drexfactor.com/weirdscience/2010/04/22/video_tech_blog_83_bth_vs_cap_9_square_transitions |title=Video Tech Blog #83: BTH vs CAP with 9-Square Transitions |publisher=DrexFactor |date=2010-04-22}}</ref>
+
+== History ==
+
+=== Origins (2008–2010) ===
+
+The term "Continuous Assembly Pattern" was coined by '''Damien''' (French_Saltimbanque/Zaltymbunk) on the [[Home of Poi]] forums during the period widely regarded as the "golden age" of poi theory development. The concept emerged from forum discussions about how to describe patterns that combined different movement types into repeating cycles.<ref name="hop-what-are-caps" /><ref name="drex-math-caps" />
+
+[[Alien Jon]], a first-generation poi virtuoso from the tech poi era, adopted and promoted the CAP concept. Together with [[Zan Moore]], he co-created the ''Encyclo-poi-dia Volume 2'', which helped disseminate CAP techniques to a wider audience.<ref name="encyclopoidia">{{cite web |url=https://flamebuoyant.com/product/encylco-poi-dia-volume-2/ |title=Encyclo-poi-dia Volume 2 |publisher=Flamebuoyant}}</ref>
+
+=== Popularization (2010–2014) ===
+
+[[Nick Woolsey]], founder of [[PlayPoi]], played a key role in making CAPs accessible to intermediate spinners. His tutorials reframed the C-CAP as "Capped Antispin Patterns," providing an alternative expansion of the acronym that emphasized the visual result rather than the compositional theory.<ref name="playpoi-caps" />
+
+During this period, [[DrexFactor|Ben Drexler]] extensively documented and synthesized CAP theory across more than 500 tech blog entries, serving as the primary archivist and synthesizer of the community's theoretical work. His documentation of Zaltymbunk's mathematical framework and his own contributions (graph theory analysis, trigonometric modeling) made the technical underpinnings of CAPs accessible for the first time.<ref name="drex-tech-spinning">{{cite web |url=https://drexfactor.com/weirdscience/2016/05/15/tech_spinning_flow_arts |title=Tech Spinning in the Flow Arts |publisher=DrexFactor |date=2016-05-15}}</ref>
+
+[[Charlie Cushing]] contributed the [[#8-Step CAP|8-Step CAP]] and [[9-Square Theory]], extending the compositional approach beyond simple two-segment patterns into multi-step sequences.<ref name="hop-8step" />
+
+=== Current state ===
+
+CAPs remain a core intermediate technique in poi spinning. The C-CAP continues to serve as a rite of passage for developing spinners. While the most active period of theoretical development has passed, the frameworks developed during 2008–2014 continue to form the foundation of technical spinning education.<ref name="flowarts-life" />
+
+== Variations ==
+
+CAPs can be performed across multiple planes, orientations, and prop types:
+
+* '''Plane-bending CAPs''' — transitioning between wall plane and wheel plane during the CAP cycle, using zero points as switching moments.<ref name="drex-plane-bending">{{cite web |url=https://drexfactor.com/weirdscience/2009/10/13/plane_bending_caps |title=Plane-Bending with CAPs |publisher=DrexFactor |date=2009-10-13}}</ref>
+* '''Horizontal CAPs''' — performed in the floor plane, often cited as an easier entry point for learning the C-CAP mechanism.<ref name="playpoi-horizontal">{{cite web |url=https://playpoi.com/learn/horizontal-flowers-and-caps/ |title=Horizontal Flowers and CAPs |publisher=PlayPoi}}</ref>
+* '''Turning CAPs''' — performing CAPs while the spinner rotates their body, integrating movement through space.<ref name="drex-turning-caps">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2009%2F10%2F06%2Fpoi_tutorial_turning_caps_fountains_triquetras_and_reels |title=Poi Tutorial: Turning with CAPs, Fountains, Triquetras, and Reels |publisher=DrexFactor |date=2009-10-06}}</ref>
+* '''Pendulum CAPs''' — using pendulum motion (incomplete circles) as one of the assembled fragments.<ref name="drex-pendulum-cap">{{cite web |url=https://drexfactor.com/weirdscience/2010/07/09/video_tech_blog_101_pendulum_vs_cap_transitions |title=Video Tech Blog #101: Pendulum vs CAP Transitions |publisher=DrexFactor |date=2010-07-09}}</ref>
+* '''Fire fan CAPs''' — the C-CAP mechanism adapted for [[fire fans]].<ref name="hop-fan-caps">{{cite web |url=https://www.homeofpoi.com/en/lessons/teach/Fire-Fans/Cap-varations |title=CAP Variations for Fire Fans |publisher=Home of Poi}}</ref>
+* '''Double staff CAPs''' — direct transfer of CAP concepts to double staff spinning, with 8-Step CAP recipes specifically documented for the prop.<ref name="drex-8step" />
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Transition Theory]]
+* [[9-Square Theory]]
+* [[Alien Jon]]
+* [[Charlie Cushing]]
+* [[Nick Woolsey]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://drexfactor.com/reference/math_caps The Math of CAPs at DrexFactor]
+* [https://drexfactor.com/category/tags/caps CAPs articles at DrexFactor]
+* [https://playpoi.com/learn/learning-caps-capped-antispin-patterns/ Learning CAPs at PlayPoi]
+* [http://spinscience.xyz/2016/02/22/cap-definition/ CAP Definition at Spin Science]
+* [https://www.homeofpoi.com/en/community/forums/topics/891193/What-are-CAP-s "What are CAPs?" — Home of Poi Forums]
+
+[[Category:Flow arts theory]]
+[[Category:Poi technique]]
+[[Category:Notation systems]]

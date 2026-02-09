@@ -1,0 +1,21 @@
+{{AI generated}}
+In [[The Kinetic Alphabet]] (TKA), '''beta''' is one of the named [[Position (TKA)|positions]] describing where both hands are located on the [[Grid (TKA)|grid]]. Beta positions generally correspond to hand configurations seen in [[same time]] patterns.
+
+When both hands are in beta positions, their spatial arrangement creates the geometry associated with same-time movement. The specific beta variant (beta1, beta3, beta5, etc.) indicates the exact grid points each hand occupies.
+
+== Relationship to VTG timing ==
+
+In the [[Vulcan Tech Gospel]], same time (or "together" time) means the two poi are in phase, passing through the same point in their cycle simultaneously. TKA's beta positions encode the spatial equivalent of this phase relationship.
+
+== See also ==
+
+* [[Position (TKA)]]
+* [[Alpha position]]
+* [[Same time]]
+* [[The Kinetic Alphabet]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

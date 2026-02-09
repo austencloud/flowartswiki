@@ -1,0 +1,17 @@
+{{AI generated}}
+'''Fire fans''' (also called '''flow fans''') are a [[flow arts]] prop consisting of rigid or folding fan structures, often with kevlar wicks for fire performance or LED elements for light performance. They are typically performed in pairs.
+
+[[Vulcan Tech Gospel|VTG]] concepts apply to fire fans. Mike Smith ("Doodle") adapted VTG for fans as "Fan VTG 1:1." [[Continuous Assembly Patterns|CAP]] variations have also been documented for fire fans.<ref name="hop-fan-caps">{{cite web |url=https://www.homeofpoi.com/en/lessons/teach/Fire-Fans/Cap-varations |title=CAP Variations for Fire Fans |publisher=Home of Poi}}</ref>
+
+The VTG app supports fire fans as a prop type.<ref name="vtg-android">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.VTGv3&hl=en |title=VTG - Flow Arts Resource |publisher=Google Play}}</ref>
+
+== See also ==
+
+* [[Poi]]
+* [[Vulcan Tech Gospel]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

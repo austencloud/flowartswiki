@@ -1,0 +1,52 @@
+{{AI generated}}
+In [[The Kinetic Alphabet]] (TKA), a '''LOOP''' is a circular sequence where the ending position matches the starting position, allowing the sequence to repeat continuously. LOOPs are constructed by generating a base sequence and then applying a transformation to create a second half that returns to the start.
+
+== Description ==
+
+A LOOP takes a sequence of TKA letters and extends it into a circular pattern by applying one or more transformations to the original sequence. The result is a sequence that, when performed to completion, returns to its starting [[Timing and direction|timing, direction]], and position, allowing seamless repetition.
+
+== Transformation types ==
+
+LOOPs can be created through several transformation operations:
+
+{| class="wikitable"
+! Transformation !! Description
+|-
+| '''Rotated''' || The second half is a 180-degree rotation of the first half
+|-
+| '''Mirrored''' || The second half mirrors the first half (left-right reflection)
+|-
+| '''Swapped''' || Red and blue hands swap roles in the second half
+|-
+| '''Inverted''' || Prop rotation directions reverse in the second half
+|-
+| '''Rewound''' || The sequence is reversed and appended, playing backward to the start
+|}
+
+These transformations can be combined. For example, a "mirrored + inverted" LOOP mirrors the hand positions while inverting the prop rotations.
+
+== Construction ==
+
+To construct a LOOP:
+
+# Generate a base sequence from a word (e.g., "CAKE")
+# Verify the starting and ending positions are compatible with the chosen transformation
+# Apply the transformation to generate the second half
+# The complete LOOP is the original sequence followed by the transformed sequence
+
+== Significance ==
+
+LOOPs represent the choreographic goal of creating patterns that can repeat indefinitely without breaking flow. They are a key compositional tool in TKA, connecting the alphabet system to practical performance.
+
+== See also ==
+
+* [[The Kinetic Alphabet]]
+* [[Continuous Assembly Patterns]]
+* [[Timing and direction]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

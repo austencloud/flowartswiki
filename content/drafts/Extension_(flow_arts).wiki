@@ -1,0 +1,81 @@
+{{AI generated}}
+'''Extension''' in [[flow arts]] is a movement pattern where the hand and prop travel together through space without the prop tracing a petal or flower pattern. The prop tip sweeps a wide arc that follows the hand's path, creating a smooth, expansive visual effect.
+
+Extension is one of the fundamental movement types in two-prop spinning and a key building block in [[Continuous Assembly Patterns]] (CAPs).
+
+== Description ==
+
+During an extension, the hand traces a circular path and the prop moves in alignment with that path. Unlike [[antispin]] patterns (which create petal-shaped flowers) or [[Isolation (flow arts)|isolations]] (where the prop appears stationary), an extension carries the prop through space in a broad, sweeping motion.
+
+The visual result is a large, open circle rather than a lobed flower shape. Extensions tend to feel powerful and expansive because both the hand and prop cover significant space together.
+
+In [[Transition Theory]], extensions are classified as '''arcs''', sections of a pattern where the hand and poi paths run parallel without intersecting. This contrasts with '''loops''' (antispin petals, inspin petals, isolations), where the hand and poi paths cross.<ref name="drex-transition">{{cite web |url=https://drexfactor.com/weirdscience/2010/09/29/soft_hard_and_mixed_transition_theory |title=Soft, Hard, and Mixed Transition Theory |publisher=DrexFactor |date=2010-09-29}}</ref>
+
+== Terminology ==
+
+* '''Extension''': the standard community term, used in VTG, DrexFactor's writing, and general spinner vocabulary.<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+* '''Extension driving style''': used in [[Lorq Nichols]]' [[driving style]] taxonomy as one of eight categories of poi movement.<ref name="lorq-driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref>
+
+In [[The Kinetic Alphabet]] (TKA), extension is not a single named rotation type. It emerges from the interaction of shift-type hand movements with pro rotation at specific turn counts, depending on the hand path and prop behavior.
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! Classification !! Notes
+|-
+| [[Vulcan Tech Gospel|VTG]] || 1:1 inspin pattern || One of the 40 patterns in the 1:1 set. Classified by prop facing (pointing in / pointing out) at cardinal snapshots.<ref name="noel-40">{{cite web |url=https://noelyee.com/vtg-11-necessity-of-40-patterns/ |title=VTG 1:1 Necessity of 40 Patterns |publisher=Noel Yee}}</ref>
+|-
+| [[The Kinetic Alphabet|TKA]] || Emergent from shift + pro || Not a dedicated rotation type; results from specific hand path and rotation combinations
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || Extension driving style || One of eight [[driving style|driving styles]]; distinct from isolation and antispin
+|-
+| [[Trigonometric model (poi)|Trigonometric model]] || ''d'' = +1 (with specific phase) || Same ''d'' value as isolation; the distinction lies in relative phase and hand/prop radius relationship<ref name="drex-math">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref>
+|}
+
+== Role in CAPs ==
+
+Extension is one of the two components of the basic [[Continuous Assembly Patterns|C-CAP]]. The C-CAP alternates between an extension (arc) and one petal of an [[antispin]] flower (loop) by reversing the hand's direction every half circle:
+
+# The hand moves forward, and the poi traces an extension.
+# At the halfway point, the hand reverses direction while the poi continues spinning.
+# The poi traces one antispin petal.
+# The hand reverses again, returning to extension.
+
+This alternation between arc (extension) and loop (antispin petal) is the defining mechanism of CAPs, explained by [[Transition Theory]] as a '''mixed transition'''.<ref name="drex-transition" /><ref name="drex-cap-ext">{{cite web |url=https://drexfactor.com/weirdscience/2013/11/14/drexs_tech_poi_blog_363_cap_vs_extension |title=Drex's Tech Poi Blog #363: CAP vs Extension |publisher=DrexFactor |date=2013-11-14}}</ref>
+
+== Relationship to other concepts ==
+
+=== Extension vs isolation ===
+
+Both extension and [[Isolation (flow arts)|isolation]] are 1:1 inspin patterns in VTG, but they produce very different visual effects:
+
+* In an '''extension''', the prop tip traces a large circle. The hand and prop travel through space together.
+* In an '''isolation''', the prop tip remains relatively stationary. The hand orbits while the prop holds position.
+
+The difference relates to the relative phase between the hand and prop rotations and the ratio of hand path radius to prop length.
+
+=== Extension vs antispin ===
+
+Extension and [[antispin]] represent opposite types of movement in [[Transition Theory]]:
+
+* '''Extension''' creates '''arcs''', smooth, sweeping paths where hand and prop move in parallel.
+* '''Antispin''' creates '''loops''', petal shapes where hand and prop paths intersect.
+
+The [[Continuous Assembly Patterns|C-CAP]] mechanism converts between these two states using hand reversals.<ref name="drex-transition" />
+
+== See also ==
+
+* [[Prospin]]
+* [[Isolation (flow arts)]]
+* [[Antispin]]
+* [[Continuous Assembly Patterns]]
+* [[Transition Theory]]
+* [[Driving style]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

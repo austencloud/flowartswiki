@@ -1,0 +1,18 @@
+{{AI generated}}
+'''Split time''' (also called '''split''') is a [[timing and direction]] state in [[flow arts]] where two props are 180 degrees out of phase. When one prop is at the bottom of its circular path, the other is at the top. It is one of the two fundamental timing states, the other being [[same time]].<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref><ref name="fai-timing">{{cite web |url=https://flowartsinstitute.com/tutsday-timing-direction/ |title=TuTsday: Timing & Direction |publisher=Flow Arts Institute}}</ref>
+
+In the [[Vulcan Tech Gospel]] (VTG), split time appears in two of the four categories: '''SS''' (split-same) and '''SO''' (split-opposite).
+
+In [[The Kinetic Alphabet]] (TKA), split timing corresponds to '''alpha positions''', where the two hands are at diametrically opposite points on the grid.
+
+== See also ==
+
+* [[Same time]]
+* [[Timing and direction]]
+* [[Vulcan Tech Gospel]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

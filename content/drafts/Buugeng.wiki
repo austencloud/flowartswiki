@@ -1,0 +1,15 @@
+{{AI generated}}
+'''Buugeng''' (also spelled '''bugeng''') are S-shaped [[flow arts]] props that create optical illusions when spun. The curved shape causes the props to appear to morph and transform as they rotate, producing visual effects not possible with straight or symmetrical props.
+
+Buugeng are supported as a prop type in the [[Vulcan Tech Gospel|VTG]] app.<ref name="vtg-android">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.VTGv3&hl=en |title=VTG - Flow Arts Resource |publisher=Google Play}}</ref>
+
+== See also ==
+
+* [[Flow arts]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

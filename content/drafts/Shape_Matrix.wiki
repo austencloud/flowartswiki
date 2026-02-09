@@ -1,0 +1,38 @@
+{{AI generated}}
+{{Infobox framework
+| name = Shape Matrix
+| creators = [[Lorq Nichols]]
+| year = 2012 (reworked 2014)
+| scope = Visual catalog of two-hand flower combinations
+}}
+
+'''Shape Matrix''' is a visual tool created by [[Lorq Nichols]] that cross-references left-hand and right-hand [[Flower (flow arts)|flower]] patterns in a multiplication-table format. Each cell in the matrix represents a specific [[Hybrid (flow arts)|hybrid]] combination of two flower shapes performed simultaneously.<ref name="shape-matrix">{{cite web |url=http://spinscience.xyz/2016/03/05/shape-matrix-went-poi-chat-viral/ |title=Shape Matrix Went Poi Chat Viral |publisher=Spin Science |date=2016-03-05}}</ref>
+
+== History ==
+
+The Shape Matrix was originally created in 2012, reworked in 2014, and went viral on the Poi Chat community in 2016, receiving 353 shares and 462 likes.<ref name="shape-matrix" />
+
+== Design ==
+
+The matrix is organized as an 8x8 grid where:
+
+* Rows represent the left hand's flower shape
+* Columns represent the right hand's flower shape
+* Each cell shows the resulting hybrid pattern
+
+This visual format allows spinners to systematically explore all possible two-hand combinations and identify which hybrids they know and which remain to be learned.
+
+== See also ==
+
+* [[Lorq Nichols]]
+* [[Hybrid (flow arts)]]
+* [[Flower (flow arts)]]
+* [[Book of P.H.A.T.]]
+* [[Driving style]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

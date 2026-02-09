@@ -1,0 +1,113 @@
+{{AI generated}}
+{{Infobox framework
+| name = Transition Theory
+| creators = [[Noel Yee]], [[Jordan Campbell]]
+| year = 2010
+| location = [[Vulcan Lofts]], Oakland, California
+| scope = Transitions between spinning patterns (prop-agnostic)
+}}
+
+'''Transition Theory''' is a framework in [[flow arts]] that describes how spinners move between different pattern states. It was created by [[Noel Yee]] and [[Jordan Campbell]] in 2010 and is considered a foundational component of the [[Vulcan Tech Gospel]] (VTG).<ref name="transition-theory">{{cite web |url=https://noelyee.com/transition-theory-with-noel-yee/ |title=Transition Theory with Noel Yee |publisher=Noel Yee}}</ref>
+
+Transition Theory identifies four types of transitions based on what happens to the hand's direction and the prop's direction at the moment of change. It provides the theoretical explanation for why [[Continuous Assembly Patterns]] (CAPs) work and how spinners can systematically move between the four [[timing and direction]] categories (SS, TS, SO, TO).
+
+== History ==
+
+Transition Theory was formalized in 2010 at the [[Vulcan Lofts]] in Oakland, California. Noel Yee described it as the development that "settled the core dogma of VTG," unifying earlier observations about timing and direction into a coherent system for understanding pattern changes.<ref name="transition-theory" />
+
+The framework builds on concepts originally articulated by [[Alien Jon]], who identified two types of pattern segments: '''arcs''' and '''loops'''.<ref name="drex-transition">{{cite web |url=https://drexfactor.com/weirdscience/2010/09/29/soft_hard_and_mixed_transition_theory |title=Soft, Hard, and Mixed Transition Theory |publisher=DrexFactor |date=2010-09-29}}</ref>
+
+== Arcs and loops ==
+
+Before understanding the four transition types, two concepts are necessary:
+
+* '''Loops''': Sections of a pattern where the poi path and the hand path intersect. [[Antispin]] petals, [[prospin|inspin]] petals, and [[Isolation (flow arts)|isolations]] all create loops.
+* '''Arcs''': Sections where the hand and poi paths run parallel without intersecting. [[Extension (flow arts)|Extensions]] are the primary example of arcs.
+
+The distinction between arcs and loops is central to understanding how transitions change the character of a pattern. Transitions either preserve the arc/loop character or convert one into the other.<ref name="drex-transition" />
+
+== The four transition types ==
+
+{| class="wikitable"
+|-
+! Transition type !! Hand behavior !! Prop behavior !! Effect on pattern
+|-
+| '''Soft''' || Maintains direction || Maintains direction || Preserves the character of the current figure. Arcs stay arcs; loops stay loops.
+|-
+| '''Hard''' || Reverses direction || Reverses direction || Creates a mirror image in the opposite direction. The pattern's shape is reflected but its arc/loop character is preserved.
+|-
+| '''Mixed''' (type 1) || Reverses direction || Maintains direction || Converts arcs into loops and loops into arcs. This is the mechanism behind the [[Continuous Assembly Patterns|C-CAP]].
+|-
+| '''Mixed''' (type 2) || Maintains direction || Reverses direction || Also converts arcs into loops and loops into arcs, but through the opposite reversal.
+|}
+
+<ref name="drex-transition" /><ref name="transition-theory" />
+
+=== Soft transitions ===
+
+In a soft transition, both the hand and the prop continue in their current directions. The pattern changes position or orientation but maintains its fundamental character. Soft transitions are the smoothest type of change and are often used to shift a pattern from one side of the body to the other while preserving its shape.
+
+=== Hard transitions ===
+
+In a hard transition, both the hand and the prop reverse direction simultaneously. The resulting pattern is a mirror image of the original, traveling in the opposite direction. Hard transitions create a distinct visual "bounce" effect.
+
+=== Mixed transitions ===
+
+Mixed transitions are the most consequential type because they transform the fundamental character of the pattern:
+
+* '''Mixed type 1''' (hand reverses, prop continues): The hand changes direction while the prop keeps spinning the same way. This converts an extension (arc) into an antispin petal (loop), or vice versa. This is the exact mechanism of the [[Continuous Assembly Patterns|C-CAP]]; the hand reversal is what creates the alternation between extension and antispin flower segments.
+* '''Mixed type 2''' (prop reverses, hand continues): The prop changes direction while the hand maintains its path. This produces a similar arc-to-loop conversion but through the opposite reversal.
+
+== Relationship to timing and direction ==
+
+Transition Theory explains how spinners move between the four [[timing and direction]] categories defined in VTG:
+
+{| class="wikitable"
+|-
+! From !! Soft transition !! Hard transition !! Mixed transition
+|-
+| SS (split-same) || Stays SS || Becomes SS (mirrored) || Changes to TS or SO (depending on mixed type)
+|-
+| TS (together-same) || Stays TS || Becomes TS (mirrored) || Changes to SS or TO
+|-
+| SO (split-opposite) || Stays SO || Becomes SO (mirrored) || Changes to TO or SS
+|-
+| TO (together-opposite) || Stays TO || Becomes TO (mirrored) || Changes to SO or TS
+|}
+
+Soft and hard transitions preserve the timing/direction category. Mixed transitions change it. This is why mixed transitions are essential for navigating between the four VTG categories during a spinning sequence.
+
+== Relationship to CAPs ==
+
+[[Continuous Assembly Patterns]] are built on mixed transitions (type 1). The C-CAP's defining gesture (reversing hand direction while the prop continues spinning) is a mixed transition applied rhythmically every half circle. Each mixed transition converts the current pattern segment from arc to loop or loop to arc, creating the composite, alternating structure that defines a CAP.<ref name="drex-transition" />
+
+The [[Continuous Assembly Patterns#8-Step CAP|8-Step CAP]], developed by [[Charlie Cushing]], extends this principle by varying the fraction of a circle each pattern occupies and the number of transitions, creating longer cyclic sequences.
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! How transitions are described
+|-
+| [[Vulcan Tech Gospel|VTG]] || Transition Theory is a core component of VTG. The four transition types are defined within the VTG framework.<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+|-
+| [[The Kinetic Alphabet|TKA]] || TKA encodes transitions through its '''reversal''' system. Three reversal types are recognized: hand reversals, prop reversals, and full reversals (both). These correspond to the mixed (type 1), mixed (type 2), and hard transition types respectively. Soft transitions correspond to no reversal.
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || Transitions between [[driving style|driving styles]] are described in the [[Book of P.H.A.T.]] (''Patterns, Hybrids, And Transitions''), with the "T" in P.H.A.T. specifically referencing transitions.<ref name="phat">{{cite web |url=https://sirlorq.wordpress.com/tech-tiles/ |title=Vulcan Tech Gospel Book of P.H.A.T. Volume 1 |publisher=Sir Lorq}}</ref>
+|}
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Continuous Assembly Patterns]]
+* [[Timing and direction]]
+* [[Reversal (flow arts)]]
+* [[Noel Yee]]
+* [[Jordan Campbell]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

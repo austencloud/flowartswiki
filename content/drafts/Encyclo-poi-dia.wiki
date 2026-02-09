@@ -1,0 +1,21 @@
+{{AI generated}}
+The '''Encyclo-poi-dia''' is a reference document for [[poi]] techniques, created by [[Alien Jon]] and [[Zan Moore]]. It catalogs a wide range of poi moves and patterns, serving as an early attempt to comprehensively document the poi trick vocabulary.
+
+== Significance ==
+
+The Encyclo-poi-dia was one of the first efforts to systematically catalog and name poi techniques. It provided a shared vocabulary for the poi community at a time when many moves were known by different names in different regions.
+
+While later theoretical frameworks like the [[Vulcan Tech Gospel]], [[Continuous Assembly Patterns]], and [[The Kinetic Alphabet]] provide more structured systems for describing poi movement, the Encyclo-poi-dia remains a historical reference for the community's trick vocabulary and naming conventions.
+
+== See also ==
+
+* [[Alien Jon]]
+* [[Zan Moore]]
+* [[Poi]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

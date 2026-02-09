@@ -1,0 +1,21 @@
+{{AI generated}}
+'''Triquetra''' in [[flow arts]] refers to a three-lobed pattern traced by a spinning prop. The term is borrowed from the geometric triquetra (a three-pointed knot symbol) due to the visual similarity.
+
+== Triquetra vs three-petal antispin flower ==
+
+The term "triquetra" is commonly used in the [[poi]] community to describe three-petal [[antispin]] flowers. However, [[Ben Drexler|DrexFactor]] argued that three-petal antispin flowers are not mathematically true triquetras. The traced path closely resembles a triquetra formed by the intersection of three vesica piscis and four circles, but the poi path travels slightly further than a true geometric triquetra at each petal.<ref name="drex-not-triquetra">{{cite web |url=https://www.drexfactor.com/index.php?q=weirdscience/2010/11/07/poi_heresies_why_3_petal_antispin_flowers_are_not_triquetras |title=Poi Heresies: Why 3-Petal Antispin Flowers Are Not Triquetras |publisher=DrexFactor |date=2010-11-07}}</ref>
+
+Despite this mathematical distinction, "triquetra" remains widely used as a colloquial name for three-petal antispin flowers in the spinning community.
+
+== See also ==
+
+* [[Antispin]]
+* [[Flower (flow arts)]]
+* [[Continuous Assembly Patterns]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Poi technique]]

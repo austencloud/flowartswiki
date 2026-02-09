@@ -1,0 +1,20 @@
+{{AI generated}}
+An '''isopop''' (short for '''isolation pop''') is a [[poi]] technique combining an [[Isolation (flow arts)|isolation]] with a sudden directional change. The poi maintains an apparent fixed position in space (isolation) and then "pops" to a new position by reversing direction or shifting to a new spatial anchor point.
+
+== Description ==
+
+During an isopop, the performer holds the poi in an isolation (the poi head appears stationary while the hand orbits around it), then rapidly transitions to a new isolation at a different spatial point. The "pop" is the visible jump from one fixed point to another.
+
+The technique requires precise control of both the isolation (keeping the poi visually stationary) and the transition (the brief moment of movement between positions).
+
+== See also ==
+
+* [[Isolation (flow arts)]]
+* [[Stall]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

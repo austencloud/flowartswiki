@@ -1,0 +1,41 @@
+{{AI generated}}
+In [[The Kinetic Alphabet]] (TKA), a '''position''' describes the spatial configuration of both hands on the [[Grid (TKA)|grid]] at a specific moment. Positions are identified by Greek letters and numbered variants.
+
+== Position names ==
+
+{| class="wikitable"
+! Position !! Description
+|-
+| '''Alpha''' || Hands in a configuration associated with [[split time]] patterns in the [[Vulcan Tech Gospel]]
+|-
+| '''Beta''' || Hands in a configuration associated with [[same time]] patterns
+|-
+| '''Gamma''' || A third hand configuration
+|-
+| '''Zeta''' || Fourth configuration
+|-
+| '''Eta''' || Fifth configuration
+|-
+| '''Tau''' || Sixth configuration
+|-
+| '''Terra''' || Seventh configuration
+|}
+
+Each position name has numbered variants (e.g., alpha1, alpha3, beta5, gamma11) that specify the exact [[Grid (TKA)|grid]] points occupied by the red (right) and blue (left) hands.
+
+== Role in sequences ==
+
+Positions serve as the start and end states for each TKA letter. A letter's starting position must match the previous letter's ending position for the sequence to be valid. This constraint governs which letters can follow which in a [[Compound (TKA)|compound]] or [[LOOP]].
+
+== See also ==
+
+* [[The Kinetic Alphabet]]
+* [[Grid (TKA)]]
+* [[Alpha position]]
+* [[Beta position]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

@@ -1,0 +1,39 @@
+{{AI generated}}
+A '''meteor''' (also '''meteor hammer''' or '''rope meteor''') is a [[flow arts]] and martial arts prop consisting of weights on both ends of a rope or cord. Unlike [[poi]], which uses two separate props, a meteor is a single continuous prop with a weight at each end.
+
+== Design ==
+
+A standard meteor consists of:
+
+* '''Rope or cord''': Typically 150-250 cm in length
+* '''Weights''': Attached at both ends, which can be soft balls, contact balls, fire wicks, or LED units
+* '''Balance point''': The rope is typically held or draped near its center
+
+Variants include:
+* '''Contact meteor''': Soft-bodied weights designed for body contact and rolls
+* '''Fire meteor''': Kevlar wicks on both ends for [[fire spinning]]
+* '''LED meteor''': LED pods on both ends
+* '''Oxbow meteor''': A curved-handle variant developed and popularized by [[Charlie Cushing]] of Lanternsmith, manufactured by Flowtoys<ref name="flowtoys-oxbow">{{cite web |url=https://flowtoys.com/oxbow |title=Oxbow |publisher=Flowtoys}}</ref>
+
+== Techniques ==
+
+Meteor manipulation combines elements of [[poi]], [[staff (flow arts)|staff]], and [[rope dart]]:
+
+* '''Spinning''': Circular patterns with one or both ends
+* '''Wraps''': Wrapping the rope around the body or limbs
+* '''Stalls''': Catching or stopping one end while the other continues
+* '''Contact''': Rolling the weights across the body
+* '''Throws''': Releasing one or both ends and catching
+
+== See also ==
+
+* [[Poi]]
+* [[Rope dart]]
+* [[Charlie Cushing]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

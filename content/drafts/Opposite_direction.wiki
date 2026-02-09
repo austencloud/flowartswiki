@@ -1,0 +1,35 @@
+{{AI generated}}
+'''Opposite direction''' is one of the four fundamental [[timing and direction]] relationships in dual-prop [[flow arts]]. When two props rotate in opposite directions, one travels clockwise while the other travels counterclockwise (or vice versa).
+
+Combined with timing (same or split), opposite direction yields two of the four basic states:
+
+{| class="wikitable"
+! Timing !! Direction !! Combined state !! VTG abbreviation
+|-
+| [[Same time]] || Opposite || Same-time opposite || SO
+|-
+| [[Split time]] || Opposite || Split-time opposite || TO
+|}
+
+== In notation systems ==
+
+* '''[[Vulcan Tech Gospel]]''': Opposite direction is the "O" in SO and TO states
+* '''[[The Kinetic Alphabet]]''': Direction is encoded in the specific letter variation
+* '''[[QFT Notation]]''': Described through explicit rotation parameters
+
+== Relationship to same direction ==
+
+Opposite direction and same direction are the two direction options. Switching between them constitutes a direction change, one type of [[Transition (flow arts)|transition]].
+
+== See also ==
+
+* [[Timing and direction]]
+* [[Same direction]]
+* [[Split time]]
+* [[Same time]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

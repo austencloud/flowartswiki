@@ -1,0 +1,77 @@
+{{AI generated}}
+'''Float''' in [[flow arts]] is a type of prop behavior where the prop holds its absolute spatial angle during the hand's travel. The prop does not rotate; it maintains its facing relative to the room (or the audience) rather than relative to the performer's body. As the hand traces an arc, the prop's orientation in space stays fixed.
+
+Float produces a distinctive visual effect: the prop appears to slide or translate through space without spinning, as if it were on a rail.
+
+== Description ==
+
+During float, the hand moves along a curved arc (a shift) while the prop maintains its exact facing in space. Because the hand is tracing a curve but the prop is not rotating, the prop's orientation ''relative to the performer's center'' changes even though its ''absolute'' orientation does not.
+
+For example: if a prop faces north and the hand arcs from west to north, the prop continues to face north throughout the movement. But because the hand has moved from the left side to the top of the performer, the prop's center-relative orientation has shifted; it may have started facing "out" and ended facing a different direction relative to the performer.
+
+Float only exists during curved hand paths (shifts). On a straight-line hand path (a dash), there is no distinction between float and a non-rotating prop, because there is no curve to rotate relative to.
+
+== Terminology ==
+
+The term "float" has specific meaning in [[The Kinetic Alphabet]] (TKA), but the broader community has used several terms for similar or overlapping concepts:
+
+* '''Float''': TKA's term. Specifically means holding absolute spatial angle during a shift. Float has no turn count; it is a binary state (the prop either floats or it does not).<ref name="tka-float">In The Kinetic Alphabet, float is the third rotation type alongside pro and anti. It applies only to shifts (curved hand paths) and has no turn count parameter.</ref>
+* '''Translation''': sometimes used in the community to describe the visual effect of a prop moving through space without rotating. Overlaps with the float concept but is not universally standardized.
+* '''Slide''': an ambiguous community term. "Slide" has been used to describe ''two different concepts'': (1) a prop that holds its absolute angle during travel (what TKA calls float), and (2) a hand that moves in a straight line across the body (what TKA calls a [[dash]]). When encountering the term "slide" in flow arts discussion, context is needed to determine which meaning is intended.
+
+{{anchor|Disambiguation}}
+=== Slide disambiguation ===
+
+The term "slide" appears in multiple flow arts contexts with different meanings:
+
+* '''Slide as float''': The prop maintains absolute spatial angle while the hand arcs. The prop appears to translate smoothly without rotation.
+* '''Slide as dash''': The hand moves in a straight line from one grid position to the diametrically opposite position. In TKA, this is a '''dash''', a straight-line hand movement (not a curved arc).
+
+These two uses describe fundamentally different movements (curved hand path vs. straight hand path, prop behavior vs. hand behavior) and should not be conflated. This wiki uses "float" for the prop behavior and "dash" for the straight-line hand movement.
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! Term !! Notes
+|-
+| [[Vulcan Tech Gospel|VTG]] || No dedicated term || VTG classifies patterns by timing, direction, and petal shape. Float behavior is captured within specific pattern descriptions but is not named as a distinct rotation type.
+|-
+| [[The Kinetic Alphabet|TKA]] || Float || Third rotation type alongside pro and anti. Only applies to shifts (curved hand paths). No turn count parameter.
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || Not separately classified || Float behavior falls within broader pattern descriptions rather than constituting its own driving style.
+|-
+| [[Trigonometric model (poi)|Trigonometric model]] || ''d'' = 0 || When ''d'' = 0 in the parametric equations, the prop component does not rotate, producing a translation effect.<ref name="drex-math">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref>
+|}
+
+== Float vs isolation ==
+
+Float and [[Isolation (flow arts)|isolation]] produce visually similar effects (the prop appears not to spin) but work through different mechanisms:
+
+{| class="wikitable"
+|-
+! !! [[Isolation (flow arts)|Isolation]] (0-turn pro) !! Float
+|-
+| '''What stays fixed''' || Center-relative orientation || Absolute spatial angle
+|-
+| '''Prop rotation''' || Rotates with the hand's arc (pro), zero additional turns || Does not rotate at all
+|-
+| '''Example''' || Prop facing "in" stays facing "in" as the hand arcs || Prop facing north stays facing north regardless of hand position
+|-
+| '''In TKA''' || Pro at 0 turns || Float (separate rotation type)
+|}
+
+The practical difference: in an isolation, the prop tracks the hand's arc direction (pro) but adds no extra rotation. In a float, the prop ignores the hand's arc entirely and holds its absolute angle. Both can create the visual impression of a stationary or non-spinning prop, but the resulting orientations differ after a hand arc.
+
+== See also ==
+
+* [[Prospin]]
+* [[Antispin]]
+* [[Isolation (flow arts)]]
+* [[Timing and direction]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

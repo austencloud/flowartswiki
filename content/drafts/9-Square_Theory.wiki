@@ -1,0 +1,74 @@
+{{AI generated}}
+{{Infobox framework
+| name = 9-Square Theory
+| creators = [[Charlie Cushing]]
+| year = c. 2010
+| scope = Spatial grid for poi movement and transitions
+}}
+
+'''9-Square Theory''' is a spatial framework for [[flow arts]] created by [[Charlie Cushing]] that quantizes the space around a spinner's body into a grid of positions. The grid provides a systematic way to map transitions between movements, switch between spatial modes, and construct [[Continuous Assembly Patterns|CAPs]] and [[Hybrid (flow arts)|hybrid]] patterns.<ref name="9sq-spinmore">{{cite web |url=https://www.spinmorepoi.com/charlie-9-square-theory-1/ |title=Charlie's 9-Square Theory #1 |publisher=Spin More Poi}}</ref>
+
+9-Square Theory was described as part of the "Golden Age of poi ideas" alongside the [[Vulcan Tech Gospel]] and [[Continuous Assembly Patterns]].<ref name="pvotd">{{cite web |url=https://poividoftheday.tumblr.com/post/68881181993/ |title=9-Square Theory |publisher=Poi Vid of the Day}}</ref>
+
+== Concept ==
+
+The theory divides the space around the performer into a grid of positions. Each position represents a location where the poi (or other prop) can be placed relative to the body. Movements are described as transitions between grid positions, and patterns can be mapped as sequences of position changes.
+
+The grid operates within a single [[Plane (flow arts)|plane]] (typically the wall plane). It supports two spatial modes:
+
+* '''Diamond mode''': Grid oriented with points at the cardinal positions (top, bottom, left, right).
+* '''Box mode''': Grid rotated 45 degrees, with points at the corners.
+
+Switching between diamond mode and box mode is accomplished through soft transitions (from [[Transition Theory]]).<ref name="drex-9sq">{{cite web |url=https://drexfactor.com/weirdscience/2010/04/22/video_tech_blog_83_bth_vs_cap_9_square_transitions |title=Video Tech Blog #83: BTH vs CAP with 9-Square Transitions |publisher=DrexFactor |date=2010-04-22}}</ref>
+
+== Applications ==
+
+9-Square Theory enables several techniques:
+
+* Finding transitions between movements using grid positions as waypoints
+* Constructing algorithms for changing [[timing and direction]] through [[Continuous Assembly Patterns|CAPs]] and polyrhythm hybrids
+* Cross-discipline applications, including connections to tutting and Laban Movement Analysis
+* Systematic exploration of the spatial possibilities within a plane
+
+== Recommended poi length ==
+
+Cushing recommends a poi length of 1/2 arm length for optimal 9-Square patterns, as this ratio produces the cleanest grid alignment.<ref name="wickup">{{cite web |url=https://wickup.wordpress.com/2015/06/12/charlies-9-square-theory-for-poi-1-poi-length-planes-9-square-introduction/ |title=Charlie's 9-Square Theory for Poi #1 |publisher=Wick Up |date=2015-06-12}}</ref>
+
+== Presentation ==
+
+Cushing presented 9-Square Theory in a 10-part video series totaling approximately 1.5 hours. The series covers poi length, [[Plane (flow arts)|planes]], grid introduction, positions, transitions, and pattern construction.<ref name="9sq-spinmore" /><ref name="tabjuggler">{{cite web |url=https://tabjuggler.tumblr.com/post/8593148435/charlies-9-square-theory |title=Charlie's 9-Square Theory |publisher=Tab Juggler}}</ref>
+
+== Relationship to other frameworks ==
+
+{| class="wikitable"
+|-
+! Framework !! Relationship
+|-
+| [[Vulcan Tech Gospel|VTG]] || 9-Square provides spatial scaffolding that complements VTG's timing/direction classification. VTG describes ''what'' patterns are; 9-Square maps ''where'' they occur.
+|-
+| [[Continuous Assembly Patterns|CAPs]] || CAPs can be mapped onto the 9-Square grid, with each segment occupying specific grid positions. The [[Continuous Assembly Patterns#8-Step CAP|8-Step CAP]] (also by Cushing) uses grid positions as scaffolding for pattern assembly.<ref name="drex-9sq" />
+|-
+| [[The Kinetic Alphabet|TKA]] || TKA's grid system (diamond, box, and skewed modes) parallels 9-Square's spatial quantization. Both divide the space around the performer into discrete positions for mapping hand and prop locations.
+|-
+| [[QFT Notation]] || Also by Cushing. QFT provides a written shorthand for recording the movements that 9-Square maps spatially.
+|}
+
+== See also ==
+
+* [[Charlie Cushing]]
+* [[Vulcan Tech Gospel]]
+* [[Continuous Assembly Patterns]]
+* [[QFT Notation]]
+* [[Plane (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://www.spinmorepoi.com/charlie-9-square-theory-1/ 9-Square Theory Part 1 at Spin More Poi]
+* [https://www.drexfactor.com/category/tags/9_square_theory 9-Square Theory articles at DrexFactor]
+
+[[Category:Flow arts theory]]
+[[Category:Notation systems]]

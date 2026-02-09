@@ -1,0 +1,47 @@
+{{AI generated}}
+'''Symmetry''' in [[flow arts]] describes the spatial and temporal relationships between the two sides of a dual-prop pattern. Symmetry concepts underpin several notation systems and are central to understanding how patterns relate to each other.
+
+== Types of symmetry ==
+
+=== Mirror symmetry ===
+
+The left side mirrors the right side. The two props trace mirror-image paths. This is the default expectation for many patterns. In [[The Kinetic Alphabet]], mirroring is one of the [[LOOP]] transformation types.
+
+=== Rotational symmetry ===
+
+The pattern looks the same when rotated by some angle (typically 180 degrees). In TKA, rotational symmetry is another LOOP transformation.
+
+=== Temporal symmetry ===
+
+The first half of a sequence relates to the second half through a transformation. [[Continuous Assembly Patterns]] (CAPs) exhibit temporal symmetry when the pattern cycles back to its starting state.
+
+=== Asymmetry (hybrids) ===
+
+When the two props perform different patterns, the result is asymmetric. [[Hybrid (flow arts)|Hybrids]] intentionally break symmetry for visual effect and technical challenge.
+
+== In notation systems ==
+
+{| class="wikitable"
+! System !! Symmetry treatment
+|-
+| [[Vulcan Tech Gospel]] || "Same" vs "opposite" direction is a symmetry distinction
+|-
+| [[The Kinetic Alphabet]] || LOOP types define symmetry transformations (rotated, mirrored, swapped, inverted)
+|-
+| [[Shape Matrix]] || Rows and columns represent symmetric and asymmetric combinations
+|-
+| [[Continuous Assembly Patterns]] || The 8-step cycle is a symmetric loop through VTG states
+|}
+
+== See also ==
+
+* [[LOOP]]
+* [[Hybrid (flow arts)]]
+* [[Timing and direction]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

@@ -1,0 +1,29 @@
+{{AI generated}}
+A '''crosser''' (also '''cross''' or '''crossing''') is a [[poi]] technique where the arms cross over each other during the spinning pattern. Crossers change the spatial relationship between the two poi and are a common element in [[weave]] patterns and transitions.
+
+== Description ==
+
+In a crosser, one arm passes in front of or behind the other, temporarily reversing the left-right positioning of the hands. The poi continue spinning during the cross. Crossers are a defining feature of the [[weave]] family of patterns: a standard 3-beat weave includes two crossers per cycle.
+
+== Types ==
+
+* '''Front cross''': Arms cross in front of the body (the standard crosser in most weave patterns)
+* '''Behind-the-back cross''': Arms cross behind the body
+* '''Over-the-head cross''': Arms cross above the head
+
+== Relationship to other concepts ==
+
+In [[Transition Theory]], crossers can function as transitions between spatial positions. In the [[Vulcan Tech Gospel]], crossers relate to the spatial position of the poi relative to the body center.
+
+== See also ==
+
+* [[Weave]]
+* [[Behind the back]]
+* [[Transition (flow arts)]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

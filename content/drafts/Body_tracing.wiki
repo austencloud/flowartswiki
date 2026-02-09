@@ -1,0 +1,33 @@
+{{AI generated}}
+'''Body tracing''' is a [[flow arts]] technique where the performer moves a prop along the contours of the body, creating the visual impression that the prop is "tracing" the body's outline. Body tracing is used across multiple prop types including [[poi]], [[Staff (flow arts)|staff]], [[Hoops|hoops]], and [[Levitation wand|levitation wands]].
+
+== Description ==
+
+In body tracing, the prop follows a path that closely mirrors the shape of the body or a body part. The performer uses arm and body movement to guide the prop along curves, over shoulders, around the waist, and along limbs. The visual effect emphasizes the relationship between the prop's path and the performer's body.
+
+== Techniques ==
+
+* '''Tracers''': Poi moved in small circles that follow the outline of the arm or body
+* '''Isolations with body movement''': Prop stays fixed while the body moves around it, creating a tracing effect
+* '''Contact tracing''': The prop maintains physical contact with the body while traveling along its surface (see [[contact roll]])
+* '''Air tracing''': The prop follows the body's outline at a short distance without contact
+
+== Relationship to other concepts ==
+
+Body tracing overlaps with several other flow arts concepts:
+
+* '''[[Contact roll]]''': Physical contact version of body tracing
+* '''[[Isolation (flow arts)|Isolation]]''': When the prop is held still and the body moves, it can create a tracing visual
+* '''Dance/movement integration''': Body tracing connects prop manipulation with body movement and dance
+
+== See also ==
+
+* [[Flow arts]]
+* [[Contact roll]]
+* [[Isolation (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

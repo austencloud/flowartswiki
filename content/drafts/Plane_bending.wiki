@@ -1,0 +1,32 @@
+{{AI generated}}
+'''Plane bending''' is a [[flow arts]] technique where the prop's spinning [[Plane (flow arts)|plane]] transitions smoothly between orientations (e.g., from wall plane to wheel plane) rather than maintaining a single fixed plane. The result is a curved or tilted path that blends multiple planes.
+
+== Description ==
+
+In standard spinning, the prop traces a circle in a single plane (wall, wheel, or floor). In plane bending, the performer tilts the plane of the prop's rotation during the spin, so the prop's path curves through three-dimensional space rather than staying flat.
+
+The visual effect is a "bending" of the circular path. Instead of a flat circle, the prop traces an arc on the surface of a sphere or [[toroid]].
+
+== Applications ==
+
+* '''Poi''': Plane bending with poi creates smooth transitions between wall plane and wheel plane patterns, or between any two plane orientations
+* '''Staff''': Contact staff plane bending involves rolling the staff through multiple planes
+* '''Hoops''': Hoop plane bending (sometimes called "lasso" when transitioning to overhead) is a fundamental hoop technique
+
+== Relationship to 3D spinning ==
+
+Plane bending is the gateway to three-dimensional spinning, where the performer intentionally uses all three planes and the transitions between them as part of their practice. The [[Trigonometric model (poi)|trigonometric model]] can describe plane-bent paths by adding a third spatial dimension to the standard 2D equations.
+
+In [[Lorq Nichols|Lorq Nichols']] framework, the three planes (Wall, Horizontal, Floor, abbreviated W/H/F) and their interactions are a core organizational concept.
+
+== See also ==
+
+* [[Plane (flow arts)]]
+* [[Toroid]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

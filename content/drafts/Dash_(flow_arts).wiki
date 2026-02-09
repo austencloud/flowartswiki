@@ -1,0 +1,24 @@
+{{AI generated}}
+'''Dash''' in [[flow arts]] notation refers to a straight-line hand movement from one grid position to the diametrically opposite position (180 degrees across). The term is used in [[The Kinetic Alphabet]] (TKA) as one of four hand path types (static, shift, dash, hash).
+
+Unlike a [[Plane (flow arts)|shift]] (which follows a curved arc along the grid perimeter), a dash travels in a straight line through the grid's interior. Because the path is straight rather than curved, the [[prospin|pro]]/[[antispin|anti]]/[[Float (flow arts)|float]] rotation distinctions do not apply to dashes. At 0 turns, the prop translates along the straight path without spinning. At higher turn counts, the prop rotates clockwise or counterclockwise during the traverse.
+
+The term "slide" has sometimes been used in the community to refer to this type of straight-line hand movement, though "slide" is ambiguous (see [[Float (flow arts)#Disambiguation|Float: Slide disambiguation]]).
+
+== In TKA ==
+
+* '''Type 4''' letters (dash): One hand dashes, one stays static.
+* '''Type 5''' letters (dual-dash): Both hands dash simultaneously.
+* '''Type 3''' letters (cross-shift): One hand shifts while the other dashes.
+
+== See also ==
+
+* [[The Kinetic Alphabet]]
+* [[Float (flow arts)]]
+* [[Timing and direction]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

@@ -1,0 +1,32 @@
+{{AI generated}}
+In [[flow arts]] theory, '''static''' refers to a hand that remains in a fixed position while the prop rotates around it. The term is used in [[The Kinetic Alphabet]] (TKA) to describe one of the hand path states.
+
+== In The Kinetic Alphabet ==
+
+In TKA, a static hand holds its position at a single grid point while the attached prop spins. This is distinct from a [[Shift (flow arts)|shift]] (curved hand movement) or [[Dash (flow arts)|dash]] (linear hand movement).
+
+Letter types involving static hands:
+
+* '''Type 2 (Shift)''': One hand shifts, one hand is static. Letters G through L.
+* '''Type 6 (Static)''': Both hands are static (no hand movement at all). The Greek letters (alpha, beta, gamma, etc.).
+
+A completely static position, where both hands remain fixed and only the props rotate, represents the simplest case of poi spinning: the performer stands still and the props circle around the stationary hands.
+
+== Relationship to other concepts ==
+
+* '''[[Isolation (flow arts)|Isolation]]''': When a prop appears to stay fixed in space, the hand orbits the prop. This is related but distinct from a static hand, where the hand is fixed and the prop orbits.
+* '''[[Stall]]''': A momentary stop in prop movement. A static hand is not the same as a stalled prop.
+
+== See also ==
+
+* [[Shift (flow arts)]]
+* [[Dash (flow arts)]]
+* [[The Kinetic Alphabet]]
+* [[Isolation (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Flow arts theory]]

@@ -1,0 +1,30 @@
+{{AI generated}}
+'''Glowstringing''' is the practice of spinning glowsticks on strings, and is considered one of the precursors to modern [[poi]] spinning in Western countries. The practice became widespread in the rave and electronic dance music (EDM) scenes of the 1990s and early 2000s.
+
+== History ==
+
+Glowstringing emerged in the rave culture of the 1990s, where participants would attach chemical glowsticks to shoelaces or strings and spin them while dancing. The visual effect of colored light trails combined with music and dance made glowstringing a staple of the rave scene.
+
+As practitioners developed more technical skill, glowstringing evolved into a recognized form of [[flow arts]]. The transition from disposable glowsticks to rechargeable [[LED props]] marked a shift from casual rave accessory to dedicated performance art.
+
+== Relationship to poi ==
+
+Glowstringing and [[poi]] share the same fundamental mechanics: two weighted objects on strings, swung in circular patterns. The distinction is primarily cultural and historical.
+
+* '''Poi''' traces its roots to the Maori people of New Zealand
+* '''Glowstringing''' emerged independently in Western rave culture
+
+As the flow arts community coalesced in the 2000s, the two traditions merged. Most modern poi spinners draw from both lineages. The technical vocabulary developed for poi (including the [[Vulcan Tech Gospel]] and other notation systems) applies equally to glowstringing.
+
+== See also ==
+
+* [[Poi]]
+* [[LED props]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]
+[[Category:Props]]

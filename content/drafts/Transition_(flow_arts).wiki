@@ -1,0 +1,53 @@
+{{AI generated}}
+A '''transition''' in [[flow arts]] is any movement that takes a performer from one pattern or technique to another. Transitions are a fundamental element of flow arts practice, connecting individual tricks into continuous sequences.
+
+== Types of transitions ==
+
+=== By mechanism ===
+
+The [[Transition Theory]] framework, developed by [[Noel Yee]] and [[Jordan Campbell]], classifies transitions into categories based on what changes:
+
+* '''Soft transitions''': The prop's timing or direction changes without a visible break in movement
+* '''Hard transitions''': An abrupt change involving a stop, stall, or direction reversal
+* '''Mixed transitions''': A combination of soft and hard elements
+
+=== By what changes ===
+
+Transitions can change one or more elements of the current pattern:
+
+* '''[[Timing and direction]]''': Shifting between [[same time]], [[split time]], same direction, or opposite direction
+* '''[[Plane (flow arts)|Plane]]''': Moving from wall plane to wheel plane, or other plane shifts
+* '''Pattern type''': Moving from a [[weave]] to a [[butterfly (flow arts)|butterfly]], for example
+* '''Body orientation''': Turning the body while maintaining prop momentum (see [[reel]])
+* '''Handedness''': Switching which hand leads
+
+=== Reversals ===
+
+[[Reversal (flow arts)|Reversals]] are a specific category of transition where the direction of rotation changes. These can involve hand direction reversal, prop spin reversal, or both simultaneously.
+
+== In notation systems ==
+
+{| class="wikitable"
+! System !! How transitions are described
+|-
+| [[Transition Theory]] || Soft, hard, mixed; arcs and loops as transition building blocks
+|-
+| [[Vulcan Tech Gospel]] || Transitions between the four VTG states (SS, TS, SO, TO)
+|-
+| [[The Kinetic Alphabet]] || Reversals (hand, prop, full) encoded as visual indicators on pictographs
+|-
+| [[Continuous Assembly Patterns]] || Transitions between CAP states defined by the 8-step pattern
+|}
+
+== See also ==
+
+* [[Transition Theory]]
+* [[Reversal (flow arts)]]
+* [[Timing and direction]]
+* [[Continuous Assembly Patterns]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

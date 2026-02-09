@@ -1,0 +1,48 @@
+{{AI generated}}
+'''Ben Drexler''' (known as '''DrexFactor''') is an American [[flow arts]] writer, archivist, and theorist. He authored over 500 tech poi blog entries documenting and synthesizing the theoretical work of the flow arts community during the period widely considered the golden age of poi theory development (2008-2016).<ref name="tech-spinning">{{cite web |url=https://drexfactor.com/weirdscience/2016/05/15/tech_spinning_flow_arts |title=Tech Spinning in the Flow Arts |publisher=DrexFactor |date=2016-05-15}}</ref>
+
+== Role ==
+
+Drexler's primary contribution was documentation and synthesis rather than original invention. His blog served as the community's central archive for theoretical work by practitioners including [[Noel Yee]], [[Charlie Cushing]], [[Lorq Nichols]], [[Alien Jon]], and Zaltymbunk (Damien). He documented and made accessible:
+
+* [[Transition Theory]] (originally by [[Noel Yee]] and [[Jordan Campbell]])<ref name="drex-transition">{{cite web |url=https://drexfactor.com/weirdscience/2010/09/29/soft_hard_and_mixed_transition_theory |title=Soft, Hard, and Mixed Transition Theory |publisher=DrexFactor |date=2010-09-29}}</ref>
+* The mathematics of [[Continuous Assembly Patterns|CAPs]] (originally by Zaltymbunk)<ref name="drex-math-caps">{{cite web |url=https://drexfactor.com/reference/math_caps |title=The Math of CAPs |publisher=DrexFactor}}</ref>
+* [[9-Square Theory]] applications (by [[Charlie Cushing]])<ref name="drex-9sq">{{cite web |url=https://www.drexfactor.com/category/tags/9_square_theory |title=9-Square Theory |publisher=DrexFactor}}</ref>
+* [[QFT Notation]] guide (with [[Charlie Cushing]])<ref name="drex-qft">{{cite web |url=https://drexfactor.com/weirdscience/2011/05/18/beginners_guide_poi_qft_notation |title=Beginner's Guide to QFT Notation |publisher=DrexFactor |date=2011-05-18}}</ref>
+* The [[Vulcan Tech Gospel]] explained<ref name="drex-vtg">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |publisher=DrexFactor |date=2015-11-25}}</ref>
+
+== Original contributions ==
+
+=== Mathematical pattern classification ===
+
+Drexler documented the trigonometric parametric equations for all [[poi]] patterns, building on Zaltymbunk's work:<ref name="drex-math-intro">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref><ref name="drex-math-flowers">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/07/mathematical_approach_classifying_poi_patterns_modeling_flowers_and_third_or |title=A Mathematical Approach to Classifying Poi Patterns: Modeling Flowers and Third-Order Motions |publisher=DrexFactor |date=2014-05-07}}</ref>
+
+=== Graph theory and poi paths ===
+
+Drexler applied graph theory to poi paths, representing them as planar graphs where crosspoints become vertices and path segments become edges. He proposed a conjecture about the relationship between topological complexity and pattern structure.<ref name="drex-graph">{{cite web |url=https://drexfactor.com/weirdscience/2012/12/16/drexs_tech_poi_blog_308_graph_theory_and_poi_paths |title=Drex's Tech Poi Blog #308: Graph Theory and Poi Paths |publisher=DrexFactor |date=2012-12-16}}</ref><ref name="drex-planar">{{cite web |url=https://drexfactor.com/weirdscience/2013/01/06/drexs_planar_graph_conjecture_poi |title=Drex's Planar Graph Conjecture |publisher=DrexFactor |date=2013-01-06}}</ref>
+
+=== Hybrid classification ===
+
+Drexler proposed a [[timing and direction]]-based approach to classifying [[Hybrid (flow arts)|hybrids]], distinguishing monorhythm and polyrhythm hybrids.<ref name="drex-hybrids">{{cite web |url=https://drexfactor.com/index.php?q=weirdscience%2F2013%2F01%2F27%2Ftiming_and_direction_based_approach_classifying_hybrids |title=A Timing and Direction Based Approach to Classifying Hybrids |publisher=DrexFactor |date=2013-01-27}}</ref>
+
+=== Historical documentation ===
+
+Drexler wrote "The Eras of Poi," a historical overview of the periods of poi development, and "Tech Spinning in the Flow Arts," a survey of the tech spinning ecosystem.<ref name="eras">{{cite web |url=https://drexfactor.com/weirdscience/2013/11/07/eras_poi |title=The Eras of Poi |publisher=DrexFactor |date=2013-11-07}}</ref><ref name="tech-spinning" />
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Continuous Assembly Patterns]]
+* [[Transition Theory]]
+* [[Trigonometric model (poi)]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://drexfactor.com/ DrexFactor]
+* [https://drexfactor.com/category/tags/caps CAPs articles at DrexFactor]
+
+[[Category:Flow arts practitioners]]

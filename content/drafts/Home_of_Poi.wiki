@@ -1,0 +1,30 @@
+{{AI generated}}
+'''Home of Poi''' is a New Zealand-based online community and retailer for [[poi]] and other [[flow arts]] props. Its forums were a primary venue for the development of flow arts theory during the late 2000s and early 2010s, sometimes referred to as the "golden age" of poi theory.<ref name="hop">{{cite web |url=https://www.homeofpoi.com/us/lessons/teach/POI/Poi-terminology/Poi-terminology |title=Poi Terminology |publisher=Home of Poi}}</ref>
+
+== Forum contributions ==
+
+The Home of Poi forums hosted foundational discussions in flow arts theory:
+
+* The term "[[Continuous Assembly Patterns|Continuous Assembly Pattern]]" was coined by Damien (French_Saltimbanque/Zaltymbunk) on the forums.<ref name="hop-caps">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/891193/What-are-CAP-s |title=What are CAPs? |publisher=Home of Poi Forums}}</ref>
+* The "Poi Theory of Everything" collaborative thread explored comprehensive theoretical frameworks.<ref name="hop-theory">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/886966/Poi-Theory-of-Everything-An-ongoing-collaboration |title=Poi Theory of Everything |publisher=Home of Poi Forums}}</ref>
+* [[Charlie Cushing]]'s [[Continuous Assembly Patterns#8-Step CAP|8-Step CAP]] was presented on the forums.<ref name="hop-8step">{{cite web |url=https://www.homeofpoi.com/us/community/forums/topics/934076/8-step-CAPs |title=8-Step CAPs |publisher=Home of Poi Forums}}</ref>
+* [[Ben Drexler|Drexler]]'s hybrid theory was discussed on the forums.<ref name="hop-hybrid">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/915407/1/Drex-s-hybrid-theory |title=Drex's Hybrid Theory |publisher=Home of Poi Forums}}</ref>
+
+== Educational resources ==
+
+Home of Poi provides tutorials and lessons covering technique across prop types, including poi, [[fire fans]], [[staff]], and [[hoops]]. The site maintains a terminology reference and lesson progressions for beginners through advanced spinners.<ref name="hop" />
+
+== See also ==
+
+* [[Continuous Assembly Patterns]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://www.homeofpoi.com/ Home of Poi]
+
+[[Category:Flow arts organizations]]

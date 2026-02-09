@@ -1,0 +1,30 @@
+{{AI generated}}
+A '''reel''' (also '''reel turn''' or '''reel spin''') is a [[flow arts]] technique in which the performer spins their body while the props continue their pattern. The body rotation adds an additional layer of movement on top of the prop pattern, changing the visual effect and the spatial relationship between the performer and the props.
+
+== Description ==
+
+During a reel, the performer turns their body (typically a full 360-degree rotation) while continuing to spin their props. The props maintain their pattern relative to the performer's body, but the audience sees the pattern shifted through different [[Plane (flow arts)|planes]] as the body rotates.
+
+== Applications ==
+
+Reels can be combined with most poi patterns:
+
+* '''Reel with [[weave]]''': The body turns while the poi alternate sides
+* '''Reel with [[butterfly (flow arts)|butterfly]]''': Body rotation while both poi spin on one side
+* '''Reel with [[extension (flow arts)|extensions]]''': Creates sweeping visual arcs
+
+== Relationship to transitions ==
+
+Reels function as a type of [[Transition (flow arts)|transition]], moving the performer from one facing direction to another while maintaining prop momentum. In [[Transition Theory]], a reel could be classified as incorporating body movement into the transition.
+
+== See also ==
+
+* [[Transition (flow arts)]]
+* [[Flow arts]]
+* [[Plane (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

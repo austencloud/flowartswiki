@@ -1,0 +1,35 @@
+{{AI generated}}
+'''Same direction''' is one of the four fundamental [[timing and direction]] relationships in dual-prop [[flow arts]]. When two props rotate in the same direction, both travel clockwise or both travel counterclockwise.
+
+Combined with timing (same or split), same direction yields two of the four basic states:
+
+{| class="wikitable"
+! Timing !! Direction !! Combined state !! VTG abbreviation
+|-
+| [[Same time]] || Same || Same-time same || SS
+|-
+| [[Split time]] || Same || Split-time same || TS
+|}
+
+== In notation systems ==
+
+* '''[[Vulcan Tech Gospel]]''': Same direction is the "S" in SS and TS states. Note: "TS" stands for "Together-Split" in VTG's original terminology, where "together" refers to timing and "split" refers to direction. This can be confusing.
+* '''[[The Kinetic Alphabet]]''': Direction is encoded in the specific letter variation
+* '''[[QFT Notation]]''': Described through explicit rotation parameters
+
+== Relationship to opposite direction ==
+
+Same direction and [[opposite direction]] are the two direction options. Switching between them constitutes a direction change, one type of [[Transition (flow arts)|transition]].
+
+== See also ==
+
+* [[Timing and direction]]
+* [[Opposite direction]]
+* [[Split time]]
+* [[Same time]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

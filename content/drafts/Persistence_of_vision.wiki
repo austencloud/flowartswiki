@@ -1,0 +1,32 @@
+{{AI generated}}
+'''Persistence of vision''' ('''POV''') in [[flow arts]] refers to the optical phenomenon where a rapidly moving light source appears to create solid lines or shapes in the air. This effect is the basis for visual patterns in [[LED props]] performance, particularly pixel poi.
+
+== How it works ==
+
+When a light source moves faster than the eye can track, the brain perceives the light's trail as a continuous line rather than a moving point. In flow arts, this means:
+
+* A single [[LED props|LED poi]] ball traces a visible circle when spun fast enough
+* A strip of individually addressable LEDs (pixel poi) can display images by changing each LED's color at precise moments during the spin
+* The faster the spin, the more solid the trail appears
+
+== Applications ==
+
+=== Pixel poi ===
+
+Programmable pixel poi exploit persistence of vision to display full images, text, and animations. Each revolution of the poi displays one "frame" of the image. By precisely timing the color of each LED along the strip to the poi's angular position, the spinning poi paints a circular image in the air.
+
+=== Long-exposure photography ===
+
+Fire spinners and LED performers frequently use long-exposure photography to capture the full pattern of their movement. A camera with a slow shutter speed records the light trail over several seconds, revealing the geometric patterns ([[Flower (flow arts)|flowers]], [[Triquetra|triquetras]], etc.) that the prop traces in space.
+
+== See also ==
+
+* [[LED props]]
+* [[Flow arts]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

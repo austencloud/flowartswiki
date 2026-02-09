@@ -1,0 +1,31 @@
+{{AI generated}}
+'''Nick Woolsey''' is an American [[flow arts]] educator and the founder of [[PlayPoi]], one of the most widely used online platforms for learning [[poi]] spinning.
+
+== Contributions ==
+
+=== PlayPoi ===
+
+Woolsey founded PlayPoi, which hosts structured tutorial progressions covering [[Flower (flow arts)|flowers]], [[Continuous Assembly Patterns|CAPs]], [[antispin]] patterns, and other poi techniques. PlayPoi's curriculum organizes learning from basic spinning through advanced technical concepts.<ref name="playpoi">{{cite web |url=https://playpoi.com/about-playpoi/links/ |title=About PlayPoi |publisher=PlayPoi}}</ref>
+
+=== CAP terminology ===
+
+Woolsey popularized the alternative expansion "'''Capped Antispin Patterns'''" for [[Continuous Assembly Patterns|CAP]], emphasizing the visual result of the technique rather than the compositional theory behind it. His tutorials made CAPs accessible to intermediate spinners and helped establish the C-CAP as a standard milestone in poi progression.<ref name="playpoi-caps">{{cite web |url=https://playpoi.com/learn/learning-caps-capped-antispin-patterns/ |title=Learning CAPs (Capped Antispin Patterns) |publisher=PlayPoi}}</ref>
+
+=== Teaching methodology ===
+
+PlayPoi's approach emphasizes structured progressions: flowers before CAPs, horizontal patterns as entry points for complex techniques, and systematic exploration of [[timing and direction]] combinations.<ref name="playpoi-flowers">{{cite web |url=https://playpoi.com/learn/poi-flowers/ |title=Getting Started with Poi Flowers |publisher=PlayPoi}}</ref>
+
+== See also ==
+
+* [[Continuous Assembly Patterns]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://playpoi.com/ PlayPoi]
+
+[[Category:Flow arts practitioners]]

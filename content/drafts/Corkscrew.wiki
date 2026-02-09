@@ -1,0 +1,20 @@
+{{AI generated}}
+A '''corkscrew''' is a [[poi]] pattern where the poi travels in a helical path, spiraling up or down relative to the body. The visual effect resembles a corkscrew or spiral staircase.
+
+== Description ==
+
+In a corkscrew, the [[Plane (flow arts)|plane]] of the poi's rotation tilts progressively, so the poi traces a path that ascends or descends while spinning. This combines rotation in one plane with a gradual shift along a perpendicular axis.
+
+Corkscrews involve [[plane bending]], as the spinning plane is not fixed but continuously rotating along a second axis.
+
+== See also ==
+
+* [[Plane (flow arts)]]
+* [[Plane bending]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

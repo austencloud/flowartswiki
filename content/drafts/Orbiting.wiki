@@ -1,0 +1,31 @@
+{{AI generated}}
+'''Orbiting''' (also '''orbit''') is a [[flow arts]] practice where a performer manipulates small LED lights on strings in close proximity to another person's face and body, creating visual patterns around the recipient. Orbiting is associated with the electronic dance music (EDM) and rave scenes.
+
+== Description ==
+
+The orbiter holds small LED lights (typically on short tethers or between the fingers) and moves them in patterns around the recipient's field of vision. The recipient typically sits or stands still with eyes open, experiencing the visual patterns created by the lights. The practice combines elements of [[poi]] technique with performance directed at an individual rather than an audience.
+
+== Props ==
+
+Orbiting props are typically miniature versions of [[LED props]]:
+
+* '''Microlights''': Tiny LED units attached to the fingertips or held between fingers
+* '''Orbit handles''': Small weighted LEDs on short strings (10-30 cm)
+* '''Glow sticks''': Used in earlier forms of the practice
+
+== Relationship to flow arts ==
+
+Orbiting shares technical vocabulary and manipulation skills with [[poi]] and other flow arts, but is distinguished by its focus on a one-on-one visual experience rather than performance for an audience. Some flow arts practitioners consider orbiting a subset of the broader discipline, while others view it as a distinct practice.
+
+== See also ==
+
+* [[LED props]]
+* [[Glowstringing]]
+* [[Poi]]
+* [[Flow arts]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

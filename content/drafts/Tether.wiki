@@ -1,0 +1,42 @@
+{{AI generated}}
+A '''tether''' in [[flow arts]] is the connecting element between the performer's hand and the prop head. Tethers are a defining feature of swung props like [[poi]], [[rope dart]], and [[meteor]].
+
+== Types ==
+
+{| class="wikitable"
+! Material !! Properties !! Common use
+|-
+| '''Ball chain''' || Smooth, consistent feel, moderate weight || Practice poi, some performance poi
+|-
+| '''Cable''' (steel or Dyneema) || Thin profile, lightweight, strong || Fire poi, performance poi
+|-
+| '''Cord/rope''' (nylon, polyester) || Flexible, lightweight, inexpensive || Practice poi, rope dart
+|-
+| '''Chain''' (link chain) || Heavy, durable, traditional feel || Fire poi, some traditional Maori poi
+|-
+| '''Fabric/ribbon''' || Visual effect, lightweight || Silk poi, rhythmic gymnastics crossover
+|}
+
+== Length ==
+
+Tether length significantly affects the feel and visual of the prop:
+
+* '''Short tethers''': Faster rotation, more control, smaller patterns. Common in technical/close-range spinning.
+* '''Long tethers''': Larger patterns, more visual impact, slower rotation, more difficult to control.
+* '''Standard length''': Typically measured from the grip to about the performer's navel, though preferences vary widely.
+
+Tether length affects the [[Trigonometric model (poi)|mathematical relationship]] between hand movement and prop movement, as it determines the minor radius of the [[toroid]] traced by the prop.
+
+== See also ==
+
+* [[Poi]]
+* [[Rope dart]]
+* [[Meteor]]
+* [[Grip]]
+* [[Prop (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

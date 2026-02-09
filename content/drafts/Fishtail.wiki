@@ -1,0 +1,26 @@
+{{AI generated}}
+A '''fishtail''' is a [[poi]] technique where both poi swing back and forth in small, rapid arcs on the same side of the body, creating a "fishtail" visual effect. The movement is typically performed with both poi in [[same time]] and [[same direction]].
+
+== Description ==
+
+In a fishtail, the poi do not complete full rotations. Instead, they swing forward and backward through a limited arc (typically less than 180 degrees). The rapid back-and-forth creates a fanning or fishtail visual.
+
+Fishtails are related to [[Pendulum|pendulum]] movements and are sometimes classified as a pendulum variant. They are frequently used as a transitional move or as a stylistic accent within a longer sequence.
+
+== Variations ==
+
+* '''One-handed fishtail''': Performed with one poi while the other continues a different pattern
+* '''Cross-body fishtail''': Fishtail performed across the body's center line
+* '''Alternating fishtail''': The two poi alternate their forward/backward arcs
+
+== See also ==
+
+* [[Pendulum]]
+* [[Stall]]
+* [[Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]

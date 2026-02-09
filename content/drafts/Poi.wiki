@@ -1,0 +1,35 @@
+{{AI generated}}
+'''Poi''' are a [[flow arts]] prop consisting of weighted objects attached to flexible cords or chains, swung in circular patterns around the body. Originally a traditional performance art of the Maori people of New Zealand, poi spinning has become one of the most widely practiced forms of flow arts worldwide.
+
+Poi is the prop for which most flow arts theory was developed. The [[Vulcan Tech Gospel]], [[Continuous Assembly Patterns]], [[9-Square Theory]], [[QFT Notation]], [[The Kinetic Alphabet]], and the [[Trigonometric model (poi)|trigonometric model]] all originated from or primarily address poi spinning.
+
+== Variants ==
+
+* '''Practice poi''': Soft, lightweight poi for learning. Often sock poi (a ball in a sock) or beanbag poi.
+* '''LED poi''': Battery-powered poi with light elements for night performance.
+* '''Fire poi''': Poi with kevlar wicks that are lit for fire performance.
+* '''Contact poi''': Shorter poi designed for body contact techniques.
+* '''Pixel poi''': Programmable LED poi that display images and patterns when spun (persistence of vision).
+
+== Theory ==
+
+Poi is the most theoretically developed prop in flow arts. Key frameworks include:
+
+* [[Timing and direction]]: The foundational variables for all two-prop spinning.
+* [[Vulcan Tech Gospel]]: Classification of timing, direction, snapshots, and pattern shapes.
+* [[Continuous Assembly Patterns]]: Compositional technique for assembling pattern fragments.
+* [[Trigonometric model (poi)|Trigonometric model]]: Parametric equations describing all poi patterns.
+* [[The Kinetic Alphabet]]: Letter-based notation for two-handed manipulation.
+
+== See also ==
+
+* [[Timing and direction]]
+* [[Flower (flow arts)]]
+* [[Driving style]]
+* [[Home of Poi]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

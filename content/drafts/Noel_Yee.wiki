@@ -1,0 +1,55 @@
+{{AI generated}}
+'''Noel Yee''' is an American flow arts educator, theorist, and community organizer. He is the primary creator of the [[Vulcan Tech Gospel]] (VTG) and co-creator of [[Transition Theory]] with [[Jordan Campbell]]. He is a co-founder of the [[Flow Arts Institute]], [[FireDrums]], [[Kinetic Fire]], and the [[Vulcan Crew]].<ref name="noel-about">{{cite web |url=https://noelyee.com/about-me/ |title=About Me |publisher=Noel Yee}}</ref>
+
+== Background ==
+
+Yee has a background in science education for children, which informed his systematic approach to flow arts pedagogy. He has over 11 years of teaching experience and serves as a board member of the [[International Jugglers' Association]] (IJA).<ref name="noel-about" /><ref name="drex-profile">{{cite web |url=https://www.patreon.com/posts/profiles-in-poi-1920634 |title=Profiles in Poi: Noel Yee |publisher=DrexFactor Patreon}}</ref>
+
+== Contributions ==
+
+=== Vulcan Tech Gospel ===
+
+{{main|Vulcan Tech Gospel}}
+
+Yee compiled and developed the VTG framework at the [[Vulcan Lofts]] in Oakland, California, with contributions from [[Jordan Campbell]], [[David Cantor|David "Tankboy" Cantor]], and [[Brian Thompson]]. VTG classifies the relationships between two spinning objects using [[timing and direction]], snapshots (prop facing), and pattern shape.<ref name="vtg-main">{{cite web |url=https://noelyee.com/instruction/vulcan-tech-gospel/ |title=Vulcan Tech Gospel |publisher=Noel Yee}}</ref>
+
+Yee documented 40 patterns in the VTG 1:1 ratio set.<ref name="noel-40">{{cite web |url=https://noelyee.com/vtg-11-necessity-of-40-patterns/ |title=VTG 1:1 Necessity of 40 Patterns |publisher=Noel Yee}}</ref>
+
+=== Transition Theory ===
+
+{{main|Transition Theory}}
+
+In 2010, Yee and [[Jordan Campbell]] formalized [[Transition Theory]], which describes how spinners move between different pattern states using soft, hard, and mixed transitions. Yee described this as the development that "settled the core dogma of VTG."<ref name="transition-theory">{{cite web |url=https://noelyee.com/transition-theory-with-noel-yee/ |title=Transition Theory with Noel Yee |publisher=Noel Yee}}</ref>
+
+=== VTG App ===
+
+Yee collaborated with Michael Pike to develop the VTG app, available on iOS and Android, which provides animations and descriptions for learning VTG patterns across multiple prop types.<ref name="vtg-android">{{cite web |url=https://noelyee.com/vulcan-tech-gospel-android-app/ |title=Vulcan Tech Gospel Android App |publisher=Noel Yee}}</ref>
+
+=== Hoop VTG ===
+
+Yee worked with [[Cassie McKenney]] and Maiki Nope to adapt VTG for [[hoops]], covering prop facing and grip shifts specific to the prop.<ref name="hoop-vtg">{{cite web |url=https://noelyee.com/hoop-vtg-11-with-cassie-mckenney/ |title=Hoop VTG 1:1 with Cassie McKenney |publisher=Noel Yee}}</ref>
+
+== Organizations ==
+
+* '''[[Flow Arts Institute]]''' (co-founder): educational organization for flow arts instruction and community building.<ref name="fai">{{cite web |url=https://flowartsinstitute.com/ |title=Flow Arts Institute}}</ref>
+* '''[[FireDrums]]''' (co-founder): fire arts gathering and performance event.
+* '''[[Kinetic Fire]]''' (co-founder): fire performance group.
+* '''[[Vulcan Crew]]''' (co-founder): spinning collective based at the [[Vulcan Lofts]].
+
+== See also ==
+
+* [[Vulcan Tech Gospel]]
+* [[Transition Theory]]
+* [[Flow Arts Institute]]
+* [[Vulcan Lofts]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://noelyee.com/ noelyee.com]
+* [https://flowartsinstitute.com/ Flow Arts Institute]
+
+[[Category:Flow arts practitioners]]

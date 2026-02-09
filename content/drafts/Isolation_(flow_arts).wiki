@@ -1,0 +1,79 @@
+{{AI generated}}
+'''Isolation''' in [[flow arts]] is a technique where a prop appears to remain stationary in space while the performer's hand orbits around it. The prop maintains a fixed point or fixed orientation, creating the visual illusion that it is suspended or pinned in place independent of the performer's movement.
+
+Isolation is one of the most visually striking effects in [[prop manipulation]] and serves as a fundamental building block in technical spinning across multiple prop types.
+
+== Description ==
+
+During an isolation, the performer's hand traces a circular path while the prop stays in one place (or appears to). The effect works because the hand's orbit and the prop's counter-movement cancel each other out from the audience's perspective. The prop tip traces a small circle (or remains at a single point, depending on the prop type) while the hand sweeps a larger arc around it.
+
+In [[poi]] spinning, a poi isolation is achieved by orbiting the hand while keeping the poi head visually stationary. The poi still moves physically (it is attached to the hand), but the hand's orbit and the poi's rotation are calibrated so the poi head traces a minimal path.
+
+In [[contact juggling]], isolation refers to a ball that appears fixed in space while the performer's hands and body move around it. This is a related but mechanically different technique, relying on surface contact and balance rather than rotational mechanics.
+
+== Terminology ==
+
+Different frameworks classify isolation differently:
+
+* In community usage, '''isolation''' is a standalone technique name. Most spinners learn it as a specific move.
+* In the [[Vulcan Tech Gospel]] (VTG), isolation is classified as a specific 1:1 [[prospin|inspin]] pattern, the case where the prop-to-hand rotation ratio is exactly 1:1 with no additional rotations.<ref name="vtg-explained">{{cite web |url=https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained |title=Vulcan Tech Gospel (VTG) Explained |date=2015-11-25}}</ref>
+* In [[The Kinetic Alphabet]] (TKA), isolation is described as '''0-turn pro''': a prospin rotation with zero additional turns. The prop maintains its center-relative orientation throughout the hand's arc (a prop facing "in" stays facing "in").
+* In [[Lorq Nichols]]' [[driving style]] taxonomy, isolation is one of eight driving styles, classified separately from other inspin patterns. This reflects the distinct visual character and mechanical feel of the technique compared to higher-turn inspins.<ref name="lorq-driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref>
+
+== In notation systems ==
+
+{| class="wikitable"
+|-
+! System !! Classification !! Notes
+|-
+| [[Vulcan Tech Gospel|VTG]] || 1:1 inspin pattern || One of the 40 patterns in VTG's 1:1 set<ref name="noel-40">{{cite web |url=https://noelyee.com/vtg-11-necessity-of-40-patterns/ |title=VTG 1:1 Necessity of 40 Patterns |publisher=Noel Yee}}</ref>
+|-
+| [[The Kinetic Alphabet|TKA]] || 0-turn pro || Pro rotation with zero turns; center-relative orientation preserved
+|-
+| [[Lorq Nichols|Lorq's frameworks]] || Isolation driving style || Distinct from inspin driving style; one of eight categories
+|-
+| [[Trigonometric model (poi)|Trigonometric model]] || ''d'' = +1 || Positive ''d'' of exactly 1 means the prop rotates at the same rate as the hand, producing a stationary prop tip path<ref name="drex-math">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref>
+|}
+
+== Relationship to other concepts ==
+
+=== Isolation vs float ===
+
+Isolation and [[Float (flow arts)|float]] produce visually similar effects but work through different mechanisms:
+
+* '''Isolation''' (0-turn pro): The prop maintains its orientation ''relative to the performer's center''. As the hand arcs, a prop facing "in" (toward the body) continues to face "in." The prop is rotating (it tracks the hand's arc) but with zero additional turns.
+* '''Float''': The prop holds its ''absolute spatial angle''. It does not rotate at all. As the hand arcs, the prop's center-relative orientation changes because the reference frame (the hand's position on the arc) has moved but the prop has not.
+
+The distinction is subtle. In an isolation, the prop rotates ''with'' the hand's arc (pro) but adds no extra rotation. In a float, the prop does not rotate at all. Both can create the appearance of a stationary prop, but from different mechanical principles.
+
+=== Isolation vs extension ===
+
+Both isolation and [[Extension (flow arts)|extension]] are 1:1 inspin patterns in VTG. The difference is in how the prop tip traces its path:
+
+* In an '''isolation''', the prop tip remains relatively stationary (small or no displacement).
+* In an '''extension''', the hand and prop travel together through space, with the prop tip sweeping a wide arc.
+
+The transition between isolation and extension, achieved by changing the relationship between hand path and prop rotation, is a core skill in technical spinning.
+
+== Applications ==
+
+Isolation appears across multiple prop types:
+
+* '''[[Poi]]''': the hand orbits while the poi head holds position. A foundational technique in technical poi.
+* '''[[Hoops]]''': the hoop maintains a fixed point while the performer moves around it.
+* '''[[Contact juggling]]''': a ball appears pinned in space. Mechanically relies on surface contact rather than rotation.
+* '''[[Levitation wand]]''': the wand appears to float in a fixed position, achieved through subtle hand movements that counteract gravity and maintain position.
+
+== See also ==
+
+* [[Prospin]]
+* [[Float (flow arts)]]
+* [[Extension (flow arts)]]
+* [[Driving style]]
+* [[Flower (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts concepts]]

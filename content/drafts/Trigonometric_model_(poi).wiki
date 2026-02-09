@@ -1,0 +1,92 @@
+{{AI generated}}
+The '''trigonometric model''' for [[poi]] describes all poi patterns using parametric equations. Developed mathematically by '''Zaltymbunk''' (Damien) and documented extensively by [[Ben Drexler|DrexFactor]], the model provides a generative framework: plugging in untried parameter values predicts patterns that have not yet been discovered or performed.<ref name="drex-math-intro">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/06/mathematical_approach_classifying_poi_patterns_introduction_and_basics |title=A Mathematical Approach to Classifying Poi Patterns: Introduction and Basics |publisher=DrexFactor |date=2014-05-06}}</ref>
+
+== Core equations ==
+
+All poi patterns can be described by two parametric equations:
+
+:<math>x = h \cdot \sin(t) + p \cdot \sin(d \cdot t)</math>
+
+:<math>y = h \cdot \cos(t) + p \cdot \cos(d \cdot t)</math>
+
+Where:
+
+* <math>h</math> = hand path radius (the radius of the circle traced by the hand)
+* <math>p</math> = poi length (the phasing component, length from hand to poi tip)
+* <math>d</math> = relative frequency (ratio of poi rotation to hand rotation, also called "downbeat ratio")
+* <math>t</math> = time parameter
+
+== Key relationships ==
+
+* Positive <math>d</math> = [[prospin|inspin]] pattern
+* Negative <math>d</math> = [[antispin]] pattern
+* <math>d = +1</math> = [[Isolation (flow arts)|isolation]] or [[Extension (flow arts)|extension]] (depending on relative phase and radii)
+* <math>d = 0</math> = [[Float (flow arts)|float]] (no prop rotation, translation only)
+* Petal count = <math>|1 - d|</math>
+
+== Pattern examples ==
+
+{| class="wikitable"
+|-
+! Pattern !! Parameters !! Notes
+|-
+| [[Isolation (flow arts)|Isolation]] || h=0.5, p=-1, d=1 || Hand path and poi path coincide; poi head stationary
+|-
+| [[Extension (flow arts)|Extension]] || h=1, p=1, d=1 || Hand and poi form single large circle
+|-
+| 4-petal [[antispin]] flower || h=1, p=1, d=-3 || Standard antispin flower; petal count = |1-(-3)| = 4
+|-
+| Cateye || h=0.5, p=1, d=-1 || Canonical antispin unit-circle pattern
+|}
+
+<ref name="drex-math-flowers">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/07/mathematical_approach_classifying_poi_patterns_modeling_flowers_and_third_or |title=A Mathematical Approach to Classifying Poi Patterns: Modeling Flowers and Third-Order Motions |publisher=DrexFactor |date=2014-05-07}}</ref>
+
+== Third-order motions ==
+
+The model extends to third-order patterns by adding a third rotation center:
+
+:<math>x = h \cdot \sin(t) + p \cdot \sin(d \cdot t) + q \cdot \sin(f \cdot t)</math>
+
+Where <math>q</math> and <math>f</math> represent a third rotating element. This extension was first named by Damien Boisbouvier after analysis of patterns including "Zan's Diamond."<ref name="drex-math-flowers" />
+
+== Toroid modeling ==
+
+For three-dimensional patterns (toroids), the petal count formula doubles: <math>p = 2|1 - f|</math>, where <math>f</math> is the toroidal frequency parameter.<ref name="drex-math-flowers" /><ref name="drex-toroid">{{cite web |url=https://drexfactor.com/weirdscience/2014/05/13/mathematical_approach_classifying_poi_patterns_using_trigonometry_model_toro |title=Mathematical Approach: Toroid Modeling |publisher=DrexFactor |date=2014-05-13}}</ref>
+
+== CAP notation ==
+
+Zaltymbunk developed a compact notation for the elementary patterns from which [[Continuous Assembly Patterns|CAPs]] are built:<ref name="drex-math-caps">{{cite web |url=https://drexfactor.com/reference/math_caps |title=The Math of CAPs |publisher=DrexFactor}}</ref>
+
+ Theta1 Theta2 ; Rho1 Rho2 ; d
+
+Where:
+* '''Theta1, Theta2''' = harmonic frequencies (rotation counts for each component)
+* '''Rho1, Rho2''' = modulus components (radii/lengths)
+* '''d''' = division factor (0 < d <= 1), the fraction of a full cycle used
+
+Two patterns are assembled into a CAP using the '''&''' operator:
+
+ Pattern A ; d1 & Pattern B ; d2
+
+== Graph theory extension ==
+
+[[Ben Drexler|Drexler]] applied graph theory to poi paths, representing them as planar graphs where the crosspoints of the traced path become vertices and the path segments become edges. He proposed a conjecture about the relationship between topological complexity and pattern structure.<ref name="drex-graph">{{cite web |url=https://drexfactor.com/weirdscience/2012/12/16/drexs_tech_poi_blog_308_graph_theory_and_poi_paths |title=Graph Theory and Poi Paths |publisher=DrexFactor |date=2012-12-16}}</ref><ref name="drex-planar">{{cite web |url=https://drexfactor.com/weirdscience/2013/01/06/drexs_planar_graph_conjecture_poi |title=Drex's Planar Graph Conjecture |publisher=DrexFactor |date=2013-01-06}}</ref>
+
+== See also ==
+
+* [[Continuous Assembly Patterns]]
+* [[Flower (flow arts)]]
+* [[Prospin]]
+* [[Antispin]]
+* [[Ben Drexler]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://drexfactor.com/reference/math_caps The Math of CAPs at DrexFactor]
+* [https://drexfactor.com/reference/poi_spinning_and_geometry Poi Spinning and Geometry at DrexFactor]
+
+[[Category:Flow arts theory]]

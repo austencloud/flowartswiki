@@ -1,0 +1,56 @@
+{{AI generated}}
+'''Wicking''' refers to the kevlar (aramid fiber) material used on [[fire spinning]] props to absorb and hold fuel for combustion. Wicking is a critical component of any fire prop, determining burn time, flame size, and safety characteristics.
+
+== Materials ==
+
+=== Kevlar (aramid fiber) ===
+
+The standard wicking material for fire props. Kevlar is chosen for its:
+
+* '''Heat resistance''': Does not melt or burn under normal fire spinning conditions
+* '''Fuel absorption''': Holds fuel well, providing consistent burn
+* '''Durability''': Lasts through many burns before degrading
+* '''Availability''': Sold in rolls by fire prop manufacturers
+
+Kevlar wicking is available in several forms:
+* '''Flat wick''': Sheet kevlar, used for wrapping around prop heads and edges
+* '''Rope wick''': Braided or twisted kevlar cord, used for cathedral-style wicks and wrapped heads
+* '''Knit wick''': Tubular knit kevlar, used for stuffing and padding
+
+=== Other materials ===
+
+* '''Fiberglass''': Sometimes used as a base layer under kevlar
+* '''Cotton''': Used historically but inferior to kevlar in durability and heat resistance. Cotton burns away over time.
+
+== Wick types ==
+
+{| class="wikitable"
+! Type !! Description !! Common on
+|-
+| '''Cathedral wick''' || Loops of kevlar rope radiating from a central bolt || Poi, staff ends
+|-
+| '''Wrapped wick''' || Flat kevlar wrapped tightly around a frame || Fire fans, hoop spines
+|-
+| '''Roll wick''' || Flat kevlar rolled into a cylinder || Staff ends, poi
+|-
+| '''Rope head''' || Kevlar rope knotted into a ball || Rope dart
+|}
+
+== Maintenance ==
+
+* Wicks should be inspected regularly for fraying, loose wraps, or bolt loosening
+* Fuel residue builds up over time and can be burned off
+* Wicks have a finite lifespan (typically hundreds of burns) and should be replaced when they begin to deteriorate
+* New wicks should be "broken in" with a few burns before extended use
+
+== See also ==
+
+* [[Fire spinning]]
+* [[Fire safety]]
+* [[Fire fans]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]

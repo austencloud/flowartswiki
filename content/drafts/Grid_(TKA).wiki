@@ -1,0 +1,51 @@
+{{AI generated}}
+In [[The Kinetic Alphabet]] (TKA), the '''grid''' is the spatial framework that defines where the hands can be positioned. The grid consists of a set of named points arranged in a geometric pattern, and hand movements travel between these grid points.
+
+== Grid modes ==
+
+TKA supports multiple grid configurations:
+
+{| class="wikitable"
+! Mode !! Description !! Points
+|-
+| '''Diamond''' || Default mode. Points arranged in a diamond pattern with cardinal directions (N, S, E, W) and diagonals (NE, SE, SW, NW). || 8 radial points
+|-
+| '''Box''' || Points arranged in a square pattern. || 8 points
+|-
+| '''Skewed''' || An alternative geometric arrangement. || 8 points
+|}
+
+== Grid points ==
+
+In diamond mode, the grid points are:
+
+* '''Cardinal''': North (N), East (E), South (S), West (W)
+* '''Diagonal/non-radial''': Northeast (NE), Southeast (SE), Southwest (SW), Northwest (NW)
+
+The center of the grid represents the performer's center (roughly the chest/core area). The cardinal and diagonal points represent positions around the body where the hands can be.
+
+== Positions ==
+
+A '''position''' in TKA describes where both hands are on the grid at a given moment. Positions are named with Greek letters:
+
+* '''Alpha''': A specific configuration of the two hands on the grid
+* '''Beta''': Another configuration
+* '''Gamma''', '''Zeta''', '''Eta''', '''Tau''', '''Terra''': Additional positions
+
+Each position has numbered variants (e.g., alpha1, alpha3, beta5) that specify the exact grid points occupied by each hand.
+
+== Significance ==
+
+The grid system allows TKA to precisely describe the spatial aspect of movement that other systems leave implicit. Every TKA letter specifies starting and ending grid points for both hands, making the hand path fully defined.
+
+== See also ==
+
+* [[The Kinetic Alphabet]]
+* [[Hand path]]
+* [[9-Square Theory]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts theory]]

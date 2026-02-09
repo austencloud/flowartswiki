@@ -1,0 +1,15 @@
+{{AI generated}}
+'''Triads''' are a [[flow arts]] prop consisting of three arms radiating from a central hub, manipulated through spins and contact techniques. The three-armed design creates visual patterns distinct from two-armed props.
+
+Triads are supported as a prop type in the [[Vulcan Tech Gospel|VTG]] app.<ref name="vtg-android">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.VTGv3&hl=en |title=VTG - Flow Arts Resource |publisher=Google Play}}</ref>
+
+== See also ==
+
+* [[Flow arts]]
+* [[Buugeng]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Props]]
