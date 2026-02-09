@@ -1,4 +1,4 @@
-flowartswiki.org {
+flowarts.wiki {
 	encode gzip
 
 	header {

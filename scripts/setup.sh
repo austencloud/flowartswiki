@@ -137,7 +137,7 @@ docker compose exec mediawiki php maintenance/run.php install \
     --dbpass="$DB_PASSWORD" \
     --pass="$MEDIAWIKI_ADMIN_PASSWORD" \
     --scriptpath="" \
-    --server="https://flowartswiki.org" \
+    --server="https://flowarts.wiki" \
     "Flow Arts Wiki" \
     "$MEDIAWIKI_ADMIN_USER" \
     2>/dev/null || echo "  (Database may already be initialized)"
@@ -156,7 +156,7 @@ echo ""
 echo "============================================"
 echo "  Flow Arts Wiki is running!"
 echo ""
-echo "  URL: https://flowartswiki.org"
+echo "  URL: https://flowarts.wiki"
 echo "  Admin: $MEDIAWIKI_ADMIN_USER"
 echo ""
 echo "  Backups: daily at 3:00 AM UTC"

@@ -5,4 +5,4 @@ Disallow: /index.php
 Disallow: /api.php
 Disallow: /rest.php
 
-Sitemap: https://flowartswiki.org/sitemap.xml
+Sitemap: https://flowarts.wiki/sitemap.xml

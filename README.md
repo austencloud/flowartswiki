@@ -16,7 +16,7 @@ Self-hosted MediaWiki instance for documenting flow arts knowledge. Runs on Dock
 
 You need accounts on:
 
-1. **Cloudflare** — register `flowartswiki.org`, manage DNS
+1. **Cloudflare** — register `flowarts.wiki`, manage DNS
 2. **Hetzner Cloud** — provision a CX22 VPS (Ubuntu 24.04, ~$5/mo)
 3. **Cloudflare R2** (optional) — backup storage (free tier = 10GB)
 
@@ -29,7 +29,7 @@ Create a Hetzner CX22 server with Ubuntu 24.04. Add your SSH key.
 ### 2. Point DNS
 
 In Cloudflare, add an A record:
-- Name: `flowartswiki.org`
+- Name: `flowarts.wiki`
 - Value: your Hetzner server IP
 - Proxy: ON (orange cloud)
 
@@ -60,7 +60,7 @@ The setup script will:
 
 ### 4. Verify
 
-Visit https://flowartswiki.org. You should see the wiki with the Citizen skin.
+Visit https://flowarts.wiki. You should see the wiki with the Citizen skin.
 
 ## Daily Operations
 

@@ -17,8 +17,8 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 
 $wgSitename = "Flow Arts Wiki";
 $wgMetaNamespace = "Flow_Arts_Wiki";
-$wgServer = "https://flowartswiki.org";
-$wgCanonicalServer = "https://flowartswiki.org";
+$wgServer = getenv( 'MEDIAWIKI_SERVER' ) ?: "https://flowarts.wiki";
+$wgCanonicalServer = $wgServer;
 
 # Short URLs
 $wgScriptPath = "";
@@ -116,6 +116,7 @@ $wgPFEnableStringFunctions = true;
 wfLoadExtension( 'Scribunto' );
 $wgScribuntoDefaultEngine = 'luastandalone';
 wfLoadExtension( 'VisualEditor' );
+wfLoadExtension( 'LinkHealth' );
 
 # VisualEditor: use Parsoid bundled with MW 1.43
 $wgVisualEditorAvailableNamespaces = [
