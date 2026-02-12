@@ -1,14 +1,51 @@
 {{AI generated}}
 '''Contact juggling''' is a [[flow arts]] discipline where objects (typically spheres) are manipulated on the surface of the hands and body without being tossed into the air. The ball appears to float, roll, and glide across the performer's body through precise hand movements and balance.
 
-Contact juggling [[Isolation (flow arts)|isolations]] are related to, but mechanically different from, poi isolations. In contact juggling, the ball maintains a fixed point through surface contact and balance. In poi, isolation is achieved through rotational mechanics (0-turn [[prospin|pro]]).
+== History ==
 
-[[Lorq Nichols]] began his flow arts practice with contact juggling in 2000 before expanding into [[poi]] and other props.<ref name="lorq-about">{{cite web |url=https://sirlorq.wordpress.com/about-2/ |title=About |publisher=Sir Lorq}}</ref>
+Contact juggling as a modern performance art was developed primarily by Michael Moschen in the early 1980s. Moschen created a style of transparent sphere manipulation that emphasized the illusion of the ball moving independently of the performer.<ref name="moschen-wiki">{{cite web |url=https://en.wikipedia.org/wiki/Michael_Moschen |title=Michael Moschen |publisher=Wikipedia |access-date=2026-02-11}}</ref> His work gained wide public exposure through the 1986 film ''Labyrinth'', in which he performed the crystal ball manipulation scenes for David Bowie's character (his hands were filmed from behind Bowie).<ref name="moschen-labyrinth">{{cite web |url=https://fantasticfacts.net/12211/ |title=Who was Juggling for David Bowie's Character in the Movie The Labyrinth? |publisher=Fantastic Facts |access-date=2026-02-11}}</ref> In 1990, Moschen received a MacArthur Fellowship (commonly called the "genius grant") in recognition of his contributions to performing arts, including his contact juggling innovations.<ref name="moschen-wiki" />
+
+The term "contact juggling" was coined by James Ernest, who wrote the 1990 book ''Contact Juggling'', the foundational instructional text for the discipline.<ref name="ernest-book">{{cite web |url=https://ministryofmanipulation.com/articles/contact-juggling-james-ernest/ |title=Contact Juggling & James Ernest |publisher=The Ministry of Manipulation |access-date=2026-02-11}}</ref><ref name="cj-wiki">{{cite web |url=https://en.wikipedia.org/wiki/Contact_juggling |title=Contact juggling |publisher=Wikipedia |access-date=2026-02-11}}</ref> Ernest codified techniques, named fundamental moves, and established the vocabulary that practitioners still use. Despite the name, contact juggling involves no tossing and is mechanically distinct from toss juggling.
+
+The Fushigi ball, a mass-marketed acrylic contact juggling ball, generated a brief mainstream awareness spike in 2010 through television advertising.<ref name="fushigi-ministry">{{cite web |url=https://ministryofmanipulation.com/blog/fushigi-the-magic-gravity-ball/comment-page-2/ |title=Fushigi: The Magic Gravity Ball |publisher=The Ministry of Manipulation |access-date=2026-02-11}}</ref> While experienced practitioners generally viewed the Fushigi ball as a low-quality prop with misleading marketing (advertisements implied the ball had special properties, when the effects are entirely skill-based), the campaign introduced contact juggling to a large audience.<ref name="cj-wiki" />
+
+== Technique categories ==
+
+=== Palmspinning ===
+
+Manipulation of multiple balls (typically 3 to 8) simultaneously in the palm and across the fingers. The balls roll over and around each other in patterns while remaining in contact with the hand. Palmspinning requires fine motor control and is one of the most visually dense forms of contact juggling.
+
+=== Isolation ===
+
+Holding a ball so that it appears fixed in space while the hands and body move around it. Contact juggling [[Isolation (flow arts)|isolations]] are related to, but mechanically different from, poi isolations. In contact juggling, the ball maintains a fixed point through surface contact, balance, and precise micro-adjustments of the hand. In poi, isolation is achieved through rotational mechanics (0-turn [[prospin|pro]]).
+
+Isolation is often the first technique audiences notice and is the signature visual effect of contact juggling.
+
+=== Body rolling ===
+
+Rolling the ball across various body surfaces, including the arms, shoulders, chest, back, and legs. Body rolling requires smooth transitions between surfaces and careful control of angles to maintain continuous motion. The ball follows the body's contours, guided by gravity and subtle positional adjustments.
+
+=== One-ball technique ===
+
+Single-ball manipulation using the fingers, back of the hand, and palm. Techniques include the butterfly (passing the ball over the back of the hand and into the palm), enigma (rotating the ball around the hand's perimeter), and various finger rolls. One-ball work emphasizes precision and the illusion of effortless control.
+
+== Props ==
+
+The standard contact juggling ball is an acrylic sphere, typically 3 to 4 inches (75 to 100 mm) in diameter for single-ball work. Acrylic balls are transparent or translucent, enhancing the floating illusion. Stage balls (opaque, lighter) are used for body rolling and palmspinning where weight is a concern.
+
+Silicone balls provide more grip than acrylic and are sometimes preferred for body rolling. Metal balls (such as stainless steel) are used for their weight and visual appeal but are less forgiving of drops.
+
+== Relationship to other disciplines ==
+
+Contact juggling shares the "juggling" label with toss juggling but the two are technically distinct.<ref name="cj-wiki" /> Siteswap notation, the standard mathematical framework for describing toss juggling patterns, does not directly apply to contact juggling because it describes throw-and-catch sequences, which do not occur in contact work.
+
+Within flow arts, contact juggling connects to other prop disciplines through shared concepts like isolations and body rolling. [[Lorq Nichols]] began his flow arts practice with contact juggling in 2000 before expanding into [[poi]] and other props, exemplifying the cross-pollination between contact juggling and the broader flow arts community.<ref name="lorq-about">{{cite web |url=https://sirlorq.wordpress.com/about-2/ |title=About |publisher=Sir Lorq}}</ref>
 
 == See also ==
 
 * [[Isolation (flow arts)]]
 * [[Poi]]
+* [[Flow arts]]
 
 == References ==
 

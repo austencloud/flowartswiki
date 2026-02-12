@@ -1,0 +1,46 @@
+{{AI generated}}
+'''Poi-Fu''' is a body mechanics framework for [[poi]] spinning developed by [[Nick Woolsey]] and taught through his [[PlayPoi]] platform. The term combines "poi" with the Chinese martial arts suffix "-fu" (meaning skill or discipline). Woolsey introduced the concept in PlayPoi lesson 3.20.<ref name="playpoi-poifu">{{cite web |url=https://playpoi.com/learn/poi-fu/ |title=Poi-Fu |publisher=PlayPoi}}</ref>
+
+== Concept ==
+
+Poi-Fu addresses the principle that the body drives the poi, not the arms alone. In conventional poi instruction, beginners tend to generate all movement from the wrists and forearms, treating the rest of the body as a static pivot. Poi-Fu reframes poi spinning as a whole-body activity in which posture, weight distribution, and torso engagement determine the quality of the resulting patterns.<ref name="playpoi-poifu" /> In lesson 3.20, Woolsey emphasizes developing "how you do that with your whole body and your feet such a way that your posture can stay strong and straight."<ref name="woolsey-320-whole-body">{{cite web |url=https://www.youtube.com/watch?v=T78UYsnZw3w&t=103s |title=3.20 Posture and Poi-Fu for Poi |author=PlayPoi |date= |access-date=2026-02-11 |at=1:43}}</ref>
+
+The framework draws on principles from [[w:Tai chi|tai chi]] and martial arts, applying their emphasis on rooted stance, relaxed power generation, and integrated movement chains to the specific demands of poi spinning.<ref name="playpoi-about">{{cite web |url=https://playpoi.com/about-playpoi/ |title=About PlayPoi |publisher=PlayPoi}}</ref>
+
+== Components ==
+
+=== Posture ===
+
+Poi-Fu emphasizes an upright, relaxed spine with the head balanced over the pelvis. Woolsey instructs students to stand so that "the top of your head is floating towards the sky" and "your spine grows a little bit long," creating "a feeling of being just gently stretched tall."<ref name="woolsey-320-posture">{{cite web |url=https://www.youtube.com/watch?v=T78UYsnZw3w&t=7s |title=3.20 Posture and Poi-Fu for Poi |author=PlayPoi |date= |access-date=2026-02-11 |at=0:07}}</ref> The shoulders are "gently rolled together in the back" with "shoulder blades gently falling down your back," and the chest opens. All of this is "very gentle -- never crunch, never tighten, never pull. It's more like a relaxed inflation of your body."<ref name="woolsey-320-shoulders">{{cite web |url=https://www.youtube.com/watch?v=T78UYsnZw3w&t=49s |title=3.20 Posture and Poi-Fu for Poi |author=PlayPoi |date= |access-date=2026-02-11 |at=0:49}}</ref> Tension in the shoulders or hunching forward restricts arm range and introduces wobble into [[Planes (flow arts)|plane]] control. Correct posture allows the arms to swing freely from the shoulder joint.
+
+=== Pelvic floor engagement ===
+
+Woolsey teaches engagement of the pelvic floor and lower core as a stabilizing base for all upper-body movement. He describes it as "tightening the pelvic floor," explaining that "that actually tightens up all the muscles that wrap around your spine and support your core."<ref name="woolsey-320-pelvic">{{cite web |url=https://www.youtube.com/watch?v=T78UYsnZw3w&t=12s |title=3.20 Posture and Poi-Fu for Poi |author=PlayPoi |date= |access-date=2026-02-11 |at=0:12}}</ref> This mirrors tai chi's emphasis on a stable lower body supporting fluid upper-body action.
+
+=== Pivot footwork ===
+
+Turning and transitioning between patterns requires footwork. Poi-Fu introduces pivot-based stepping patterns that allow the spinner to rotate the body smoothly without disrupting the poi's momentum or plane. Woolsey demonstrates: "as I turn to the side I'm pivoting both my feet a little bit and lifting my back heel." He emphasizes that "it's always gonna be that simple pivot" and "you want to be able to do that without putting any pressure on your knee."<ref name="woolsey-320-pivot">{{cite web |url=https://www.youtube.com/watch?v=T78UYsnZw3w&t=128s |title=3.20 Posture and Poi-Fu for Poi |author=PlayPoi |date= |access-date=2026-02-11 |at=2:08}}</ref> The feet lead; the poi follows.
+
+=== Spine alignment ===
+
+The spine acts as the central axis around which all poi movement organizes. Woolsey teaches students to maintain spinal alignment during turns, bends, and level changes: "my hips, my waist, everything is involved. I'm keeping this sort of tallness, I'm keeping my pelvic floor a little bit activated."<ref name="woolsey-320-spine">{{cite web |url=https://www.youtube.com/watch?v=T78UYsnZw3w&t=158s |title=3.20 Posture and Poi-Fu for Poi |author=PlayPoi |date= |access-date=2026-02-11 |at=2:38}}</ref> This prevents the common beginner habit of leaning or twisting the torso to compensate for imprecise arm movement.
+
+== Relationship to other concepts ==
+
+Poi-Fu complements Woolsey's other pedagogical tools. '''Poitruvian Arms''' trains the arm paths and hand positions needed for patterns, while Poi-Fu addresses the body mechanics underneath those arm movements. '''Jiggies''' -- body-driven momentum exercises credited to community member "Iraqi" -- apply Poi-Fu principles by generating poi motion from hip and torso movement rather than arm effort.<ref name="playpoi-beginner">{{cite web |url=https://www.youtube.com/playlist?list=PLDWMKCqP8aRGhJNxRPbSFWMbEQx3X05hx |title=Beginner Poi Spinning Lessons |publisher=PlayPoi (YouTube)}}</ref>
+
+[[Alien Jon]] independently emphasizes body integration in his workshops, treating the body as an active participant in spinning rather than a static mount for the arms. In a 2010 Poi-Fu Workshop hosted by Fire Groove, the class covered "pretty much poi without poi -- how the body moves so that your poi can move better."<ref name="aj-poifu-workshop">{{cite web |url=https://www.youtube.com/watch?v=MQWNyVzWKHk&t=261s |title=Class Notes: Poi-Fu Workshop - 02-11-2010 - Hosted by Fire Groove |author=Alien Jon |date= |access-date=2026-02-11 |at=4:21}}</ref> While Alien Jon does not use the term "Poi-Fu" in his own workshops, the shared emphasis on body-driven movement reflects a broader consensus among experienced poi educators.
+
+== See also ==
+
+* [[Nick Woolsey]]
+* [[PlayPoi]]
+* [[Poi learning progression]]
+* [[Planes (flow arts)]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]
+[[Category:Flow arts education]]

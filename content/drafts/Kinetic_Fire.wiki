@@ -1,14 +1,26 @@
 {{AI generated}}
-'''Kinetic Fire''' is a fire arts performance group co-founded by [[Noel Yee]].<ref name="noelyee-about">{{cite web |url=https://www.noelyee.com/about-me/ |title=About Me |publisher=Noel Yee |access-date=2026-02-08}}</ref> The group has performed at events and festivals throughout the San Francisco Bay Area.
+'''Kinetic Fire''' is a four-day retreat for fire performers and object manipulators held annually in the United States.<ref name="kf-site">{{cite web |url=https://kineticfire.org/ |title=Kinetic Fire |publisher=Kinetic Fire |access-date=2026-02-11}}</ref>
+
+== Format ==
+
+Kinetic Fire operates as an open-share communal environment. Attendees participate in workshops, skill sharing, and fire spinning sessions across the four-day event. The retreat is oriented toward fire artists and object manipulators of all skill levels.<ref name="kf-site" />
+
+== Location ==
+
+The event was previously held at Stable Studios in Spencer, Indiana. It has since announced a move to College Corner, Ohio.<ref name="kf-site" />
 
 == See also ==
 
 * [[Fire spinning]]
-* [[Noel Yee]]
-* [[Vulcan Lofts]]
+* [[FireDrums]]
+* [[Flow jam]]
 
 == References ==
 
 {{reflist}}
+
+== External links ==
+
+* [https://kineticfire.org/ Kinetic Fire official website]
 
 [[Category:Flow arts organizations]]

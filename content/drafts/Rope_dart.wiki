@@ -1,12 +1,69 @@
 {{AI generated}}
-'''Rope dart''' is a [[flow arts]] prop consisting of a weighted end (the dart) attached to a long rope. It is derived from the traditional Chinese martial arts weapon of the same name. The performer swings, wraps, and releases the dart in flowing patterns that combine elements of [[poi]], [[Wrap (flow arts)|wrapping]], and [[Toss (flow arts)|tossing]].
+'''Rope dart''' is a [[flow arts]] prop consisting of a weighted end (the dart) attached to a long rope, typically 8 to 12 feet in length. It is derived from the traditional Chinese martial arts weapon of the same name. The performer swings, wraps, and releases the dart in flowing patterns that combine elements of [[poi]], [[Wrap (flow arts)|wrapping]], and [[Toss (flow arts)|tossing]].
 
 Rope dart is typically performed as a single prop rather than in pairs, which places it outside the scope of most two-prop theory frameworks ([[Vulcan Tech Gospel]], [[The Kinetic Alphabet]], etc.).
+
+== History ==
+
+The rope dart (Chinese: sheng biao) is a traditional Chinese weapon with origins in martial arts practice dating back centuries.<ref name="rd-wiki">{{cite web |url=https://en.wikipedia.org/wiki/Rope_dart |title=Rope dart |publisher=Wikipedia |access-date=2026-02-11}}</ref> The weapon was first introduced during the Tang Dynasty (618--907 AD), evolving from the meteor hammer.<ref name="rd-history">{{cite web |url=https://ropedarts.com/the-origin-and-history-of-the-rope-dart-and-meteor-hammer-part-1/ |title=The Origin and History of the Rope Dart and Meteor Hammer, Part 1 |publisher=The Rope Dart Academy |access-date=2026-02-11}}</ref> It consists of a metal dart attached to a rope, used for long-range strikes, entanglement, and retrieval. Historical training emphasized accuracy, power, and the ability to control the weapon at distance.<ref name="rd-blackbelt">{{cite web |url=https://blackbeltwiki.com/sheng-biao |title=Sheng Biao |publisher=Black Belt Wiki |access-date=2026-02-11}}</ref>
+
+Modern flow arts rope dart diverges from the martial application. Flow practitioners adopted the basic mechanics of the weapon but shifted the emphasis from striking and combat utility to continuous, rhythmic manipulation. The transition from martial to flow contexts began in the early 2000s as fire spinners and poi practitioners experimented with single-tethered weighted props.<ref name="bonobo-rd">{{cite web |url=https://bonoboflow.com/what-are-rope-darts/ |title=What are Rope Darts in Flow Arts |publisher=Bonobo Flow |access-date=2026-02-11}}</ref>
+
+Frank Hatsis founded the Rope Dart Academy in 2006, establishing one of the first dedicated instructional programs for the prop.<ref name="hatsis-bio">{{cite web |url=https://ropedarts.com/frank-hatsis/ |title=Frank Hatsis |publisher=The Rope Dart Academy |access-date=2026-02-11}}</ref> His book ''Traditional and Modern Rope Dart'' bridges the martial arts and flow arts traditions, covering both historical technique and contemporary flow applications.<ref name="hatsis-book">{{cite web |url=https://ropedarts.com/product/rope-dart-history/ |title=Traditional and Modern Rope Dart by Frank Hatsis |publisher=The Rope Dart Academy |access-date=2026-02-11}}</ref>
+
+== Construction ==
+
+A flow rope dart consists of:
+
+* '''Dart''' (or head): The weighted end. Practice darts are typically a soft ball, beanbag, or padded weight. Fire darts use a kevlar wick head. The weight of the dart affects the rope's behavior, with heavier darts producing more momentum and wider swings.
+* '''Rope''': A flexible cord, usually nylon or technora, connecting the dart to the handle end. Rope length varies by practitioner height and style, with 8 to 12 feet being typical. Longer ropes allow wider patterns but are harder to control.
+* '''Tail''' (optional): A fabric streamer attached near the dart. The tail creates visual trails and adds air resistance, slowing the dart and making it more visible during performance.
+* '''Handle end''': The grip point, which may be a loop, a knot, or simply the end of the rope held in the hand.
+
+== Technique ==
+
+Rope dart technique combines elements from several movement disciplines. Core technique categories include:
+
+=== Throws ===
+
+Releasing the dart outward in a controlled trajectory, then retrieving it. Throws can be directed horizontally, vertically, or at angles. The spinner controls direction and distance through body rotation and release timing.
+
+=== Wraps ===
+
+The rope wraps around parts of the body (arms, legs, torso, neck) to redirect the dart's path or change its rotational plane. Wraps are a defining feature of rope dart that distinguishes it from poi; the long tether and single-prop format create wrap opportunities that do not exist in paired-prop spinning.
+
+=== Stalls ===
+
+Stopping the dart's motion temporarily by catching it against the body, foot, or hand. Stalls create pauses in the flow and set up transitions to new patterns.
+
+=== Kicks ===
+
+Using the foot to redirect or launch the dart. Kicks are both functional (changing direction) and visually dramatic in performance.
+
+=== Orbital and pendulum patterns ===
+
+Sustained swinging patterns where the dart orbits the body or swings in pendulum arcs. These form the rhythmic foundation of rope dart flow.
+
+== Fire rope dart ==
+
+Fire rope dart uses a kevlar wick head that is soaked in fuel and lit. Fire rope dart carries greater safety risk than many other fire props because the weighted, flaming head swings at high speed on a long tether, creating a wide danger zone. Safety considerations include:
+
+* A larger clear area is needed than for fire poi or fire staff, due to the rope's length and the dart's unpredictable trajectory during wraps and releases.
+* The rope itself can contact the body while the dart is lit, transferring heat or fuel.
+* Loose clothing is particularly dangerous with rope dart because the rope can entangle fabric.
+* A dedicated fire safety attendant is considered mandatory for fire rope dart performance.
+
+== Notable educators ==
+
+* '''Frank Hatsis''' (Rope Dart Academy): Founded the Rope Dart Academy in 2006. Author of ''Traditional and Modern Rope Dart'', the most widely referenced instructional text for the prop.<ref name="hatsis-bio" />
+* '''Sam Tobey''' (Flow Mayhem): Creator of widely viewed online tutorials and a significant figure in the modern flow rope dart community. Has been teaching rope dart flow and technique since 2017.<ref name="flowmayhem">{{cite web |url=https://flowmayhem.com/ |title=Flow Mayhem |publisher=Flow Mayhem |access-date=2026-02-11}}</ref>
 
 == See also ==
 
 * [[Flow arts]]
 * [[Poi]]
+* [[Wrap (flow arts)]]
+* [[Toss (flow arts)]]
 
 == References ==
 

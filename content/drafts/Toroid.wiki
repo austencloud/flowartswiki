@@ -1,5 +1,5 @@
 {{AI generated}}
-In [[flow arts]] theory, a '''toroid''' (or '''torus''') describes the three-dimensional shape traced by a [[poi]] head when the spinner's hand moves in a circle while the poi simultaneously traces its own circle. The resulting path forms a donut-shaped surface in space.
+In [[flow arts]] theory, a '''toroid''' (or '''torus''') describes the three-dimensional shape traced by a [[poi]] head when the spinner's hand moves in a circle while the poi simultaneously traces its own circle. The resulting path forms a donut-shaped surface in space. As [[Ben Drexler]] explains, toroids involve "moving the plane of the poi around a circular hand path, essentially creating a donut-like shape over which the poi happens to pass." The name comes from mathematics: "mathematicians refer to the shape of a doughnut as a torus, and transformations of it as toroids."<ref name="drex-lost-gem">{{cite web |url=https://www.youtube.com/watch?v=heR7dEWLc38&t=81s |title=Toroids: the Lost Gem of Tech Poi |author=DrexFactor |date= |access-date=2026-02-11 |at=1:21}}</ref>
 
 == Mathematical description ==
 
@@ -13,17 +13,59 @@ Key parameters:
 
 == Relationship to flowers ==
 
-The petal patterns known as [[Flower (flow arts)|flowers]] are 2D projections of toroidal paths. When viewed from a single [[Plane (flow arts)|plane]], the 3D toroidal path appears as a flower pattern with a specific number of petals determined by the frequency ratio and the rotation direction ([[prospin]] vs [[antispin]]).
+The petal patterns known as [[Flower (flow arts)|flowers]] are 2D projections of toroidal paths. When viewed from a single [[Plane (flow arts)|plane]], the 3D toroidal path appears as a flower pattern with a specific number of petals determined by the frequency ratio and the rotation direction ([[prospin]] vs [[antispin]]). From a single perspective, an observer sees the toroid "flattened down along one axis," but from another perspective, the poi can occupy many positions as the hand travels around its circular path.<ref name="drex-lost-gem-flat">{{cite web |url=https://www.youtube.com/watch?v=heR7dEWLc38&t=180s |title=Toroids: the Lost Gem of Tech Poi |author=DrexFactor |date= |access-date=2026-02-11 |at=3:00}}</ref>
 
 == Three-dimensional spinning ==
 
-When a spinner moves through multiple [[Plane (flow arts)|planes]] (wall, wheel, floor), the poi head traces different cross-sections of the toroid. This is related to the concept of "plane bending" and "3D spinning" discussed in advanced poi theory. [[Ben Drexler]] has written about toroidal geometry in the context of poi mathematics.<ref name="drex-toroid">{{cite web |url=https://www.drexfactor.com |title=DrexFactor Poi |publisher=Ben Drexler}}</ref>
+When a spinner moves through multiple [[Plane (flow arts)|planes]] (wall, wheel, floor), the poi head traces different cross-sections of the toroid. This is related to the concept of "plane bending" and "3D spinning" discussed in advanced poi theory.<ref name="drex-isobend">{{cite web |url=https://www.youtube.com/watch?v=NXo-koq8jSs |title=How to do Isobend Toroids for Poi (Advanced Poi Tricks) |author=DrexFactor |date= |access-date=2026-02-11}}</ref><ref name="drex-antibend">{{cite web |url=https://www.youtube.com/watch?v=6MUueKQNF2E |title=How to do Poi Antibend Toroids (Advanced Poi Lesson) |author=DrexFactor |date= |access-date=2026-02-11}}</ref> [[Ben Drexler]] describes three canonical types of toroids: isobend, anti-bend, and pro-bend, which are "essentially applications of how we think of flowers mapped onto a 3D space."<ref name="drex-lost-gem-types">{{cite web |url=https://www.youtube.com/watch?v=heR7dEWLc38&t=127s |title=Toroids: the Lost Gem of Tech Poi |author=DrexFactor |date= |access-date=2026-02-11 |at=2:07}}</ref>
+
+== Lorq Nichols' toroid framework ==
+
+[[Lorq Nichols]] developed an extensive classification of toroidal poi patterns, mapping them to [[Vulcan Tech Gospel|VTG]] categories and introducing terminology for the directional and spatial properties of movement on the torus.<ref name="lorq-toroid">{{cite web |url=https://www.youtube.com/watch?v=huGdXNYtdtY |title=LORQ:TECH #28: TOROIDS- VTG.2 Equivalents |author=Lorq Nichols |date= |access-date=2026-02-11}}</ref>
+
+=== Bending and anti-bending ===
+
+Nichols distinguishes two fundamental bending directions:<ref name="lorq-toroid" /><ref name="lorq-toroid29">{{cite web |url=https://www.youtube.com/watch?v=24F6CFNiHpk |title=LORQ:TECH #29: TOROIDS- Hybrids and Hella Antibend |author=Lorq Nichols |date= |access-date=2026-02-11}}</ref>
+
+* '''Bending''': The [[Plane (flow arts)|plane]] bends in the same direction as the hand's circular path.
+* '''Anti-bending''': The plane bends in the opposite direction to the hand's path.
+
+=== Introverted and extroverted movement ===
+
+The bending direction determines where the poi moves relative to the torus surface:<ref name="lorq-toroid" />
+
+* '''Introverted''' (isobend): The poi traces a path around the inside of the torus (the "hole of the donut"). This corresponds to what some practitioners call the "east coast method."
+* '''Extroverted''' (anti-bend): The poi traces a path around the outside of the torus. This corresponds to what some practitioners call the "power method."
+
+=== Petal counts ===
+
+Toroidal patterns produce varying numbers of petals depending on the frequency ratio:<ref name="lorq-toroid30">{{cite web |url=https://www.youtube.com/watch?v=PpAimYROhfM |title=LORQ:TECH #30: Toroid Flowers: Antibend C.A.P.'s |author=Lorq Nichols |date= |access-date=2026-02-11}}</ref>
+
+* 4-petal box
+* 4-petal diamond
+* 6 petals
+* 8 petals
+
+=== Heart-based orientation ===
+
+Nichols describes toroidal orientation relative to the spinner's heart: "rotating away from the heart when the poi is in, or toward the heart when the poi is in." This provides an anatomical reference point for determining spin direction on the torus.<ref name="lorq-toroid" />
+
+=== Grace beats ===
+
+'''Grace beats''' are transitional beats that occur between two pattern states on the torus. They serve as connective movements that allow a spinner to shift from one toroidal pattern to another.<ref name="lorq-toroid" />
+
+=== VTG.2 equivalents ===
+
+Nichols maps toroidal patterns to their corresponding [[Vulcan Tech Gospel|VTG]] 2 categories, establishing equivalences between the 2D flower notation system and the 3D toroidal paths that produce those flowers when projected onto a single plane.<ref name="lorq-toroid" />
 
 == See also ==
 
+* [[Lorq Nichols]]
+* [[Plane bending]]
 * [[Trigonometric model (poi)]]
 * [[Flower (flow arts)]]
 * [[Plane (flow arts)]]
+* [[Vulcan Tech Gospel]]
 
 == References ==
 

@@ -1,15 +1,68 @@
 {{AI generated}}
 '''Hoops''' (also called '''flow hoops''' or '''hula hoops''') are a [[flow arts]] prop consisting of a circular ring manipulated on and around the body. Hoop dance combines traditional hula hooping with flow arts technique, including [[Isolation (flow arts)|isolations]], body rolls, and off-body manipulation.
 
-[[Cassie McKenney]] and Maiki Nope adapted the [[Vulcan Tech Gospel]] for hoops as "Hoop VTG 1:1," covering prop facing and grip shifts specific to the prop.<ref name="hoop-vtg">{{cite web |url=https://noelyee.com/hoop-vtg-11-with-cassie-mckenney/ |title=Hoop VTG 1:1 with Cassie McKenney |publisher=Noel Yee}}</ref>
+== Description ==
 
-The VTG app supports hoops as a prop type.
+A flow hoop is a circular tube, typically between 28 and 42 inches in diameter, made from lightweight plastic tubing. The size of the hoop affects the style of manipulation: larger hoops rotate more slowly and are easier for on-body work, while smaller hoops favor fast off-body manipulation and hand tricks.
+
+== Materials ==
+
+The two dominant tubing materials in modern flow hoops are:
+
+* '''HDPE''' (high-density polyethylene): A heavier, more rigid tubing that produces a slower, more controlled rotation. Preferred by many beginners and on-body hoopers for its momentum.
+* '''Polypro''' (polypropylene): A lighter, more responsive tubing that allows faster manipulation and sharper directional changes. Favored by off-body and technical hoopers.
+
+LED hoops embed battery-powered lights inside the tubing, creating light trails during night performance. Programmable LED hoops can display color patterns and sequences. Fire hoops use external wicks attached to the hoop's circumference, though they are less common than fire versions of other props due to the proximity of the flame to the body during on-body work.
+
+== Technique ==
+
+Hoop technique is broadly divided into two categories:
+
+=== On-body ===
+
+On-body hooping involves keeping the hoop in contact with the body while it rotates. Core on-body moves include:
+
+* '''Waist hooping''': The foundational move, sustaining rotation around the waist through hip movement.
+* '''Chest hooping''': Rotation around the upper torso.
+* '''Leg hooping''': Rotation around one or both legs, either standing or in motion.
+* '''Shoulder hooping''': Rotation around the shoulders and upper arms.
+* '''Breaks''': Intentional stops and direction changes during on-body rotation.
+
+=== Off-body ===
+
+Off-body hooping involves manipulating the hoop with the hands while it is not in contact with the torso. Off-body techniques include:
+
+* '''Hand hooping''': Spinning the hoop around the hand or wrist.<ref name="noeltech-hoop-hazy">{{cite web |url=https://www.youtube.com/watch?v=ckuHBu-JYiM&t=0s |title=NOELTECH #89 Hoop Hazy |author=Noel Yee |access-date=2026-02-11 |at=0:00}}</ref>
+* '''Isolations''': Maintaining the hoop in a fixed position in space while the body moves around it. Hoop isolations are visually striking and share conceptual ground with [[Isolation (flow arts)|poi isolations]], though the mechanics differ.<ref name="drex-hoop-cateyes">{{cite web |url=https://www.youtube.com/watch?v=9lX3QtozNAE&t=0s |title=Hoop Tutorial: Horizontal Cateyes and Unit Circle Theory |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
+* '''Tosses''': Releasing the hoop into the air and catching it, including vertical throws, pancake tosses, and behind-the-back catches.
+* '''Wedges and paddles''': Angled hand positions that redirect the hoop's rotation.<ref name="drex-hoop-antispin">{{cite web |url=https://www.youtube.com/watch?v=MpUU2OxF4M0&t=0s |title=Hoop Dance Tutorial: Antispin Flowers |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
+
+== Hoop dance as performance art ==
+
+Hoop dance has developed a strong identity as a performance and competition discipline. Performers combine technical manipulation with dance, choreography, and stage presence. Hoop dance competitions and showcases are featured at flow arts festivals and, increasingly, at general dance events.
+
+The performance style of hoop dance often emphasizes full-body movement and musicality more than some other flow arts props, partly because on-body hooping inherently requires the whole body to participate in generating motion.
+
+== Theory and notation ==
+
+No formal notation system equivalent to the [[Vulcan Tech Gospel]] or [[The Kinetic Alphabet]] exists specifically for hoop. Some practitioners use an informal framework organized around four dimensions: Space (where the hoop is relative to the body), Energy (force and momentum), Time (rhythm and timing), and Flow (continuity and transitions).
+
+[[Cassie McKenney]] and Maiki Nope adapted the [[Vulcan Tech Gospel]] for hoops as "Hoop VTG 1:1," covering prop facing and grip shifts specific to the prop.<ref name="hoop-vtg">{{cite web |url=https://noelyee.com/hoop-vtg-11-with-cassie-mckenney/ |title=Hoop VTG 1:1 with Cassie McKenney |publisher=Noel Yee}}</ref> This adaptation addresses twin hoops (one in each hand), placing them within the VTG framework alongside [[poi]] and [[double staff]].
+
+The VTG app supports hoops as a prop type.<ref name="vtg-app-promo">{{cite web |url=https://www.youtube.com/watch?v=rASziPTRnNg&t=0s |title=VTGAPPPROMO |author=Noel Yee |access-date=2026-02-11 |at=0:00}}</ref>
+
+== Notable educators ==
+
+* '''Deanne Love''' (Hooplovers): Creator of the largest free hoop tutorial library online. Hooplovers tutorials have been a primary learning resource for hoopers worldwide since the early 2010s.
+* '''[[Cassie McKenney]]''': Co-developer of Hoop VTG 1:1 and contributor to hoop theory.<ref name="sticksout-cassie">{{cite web |url=https://www.youtube.com/watch?v=HqCp9OnZ9p0&t=0s |title=STICKSOUT PODCAST #12: Cassie McKenney |author=Noel Yee |access-date=2026-02-11 |at=0:00}}</ref>
+* '''Maiki Nope''': Co-developer of Hoop VTG 1:1.<ref name="noeltech-maiki-hoops">{{cite web |url=https://www.youtube.com/watch?v=tAmUqDTRyEA&t=0s |title=NOELTECH#46: Maiki Nope Hoops |author=Noel Yee |access-date=2026-02-11 |at=0:00}}</ref>
 
 == See also ==
 
 * [[Vulcan Tech Gospel]]
 * [[Isolation (flow arts)]]
 * [[Poi]]
+* [[Flow arts]]
 
 == References ==
 

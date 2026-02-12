@@ -1,21 +1,60 @@
 {{AI generated}}
-The '''weave''' is one of the most fundamental [[poi]] patterns in [[flow arts]]. It involves alternating the poi on either side of the body in a continuous figure-eight-like motion. The poi cross in front of (or behind) the performer's body on each pass.
+The '''weave''' is one of the most fundamental [[poi]] patterns in [[flow arts]]. It involves swinging the poi in alternating crossover motions so that the tethers cross in front of (or behind) the performer's body on each pass, with the poi tracing paths on alternating sides. The resulting motion resembles a figure-eight pattern viewed from above. [[Ben Drexler|DrexFactor]] has called the 3-beat weave "perhaps the most iconic and recognizable poi trick out there."<ref name="drex-3beat-5levels">{{cite web |url=https://www.youtube.com/watch?v=cNYW7dCQAik&t=0s |title=3 Beat Weave for Poi: 5 Levels of Difficulty |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
 
-The weave is typically one of the first patterns learned after basic same-side spinning and serves as a gateway to more complex techniques involving [[timing and direction]] changes, [[Plane (flow arts)|plane]] shifts, and body movement.
+The weave is typically one of the first intermediate patterns learned after basic same-side spinning and serves as a gateway to more complex techniques involving [[timing and direction]] changes, [[Plane (flow arts)|plane]] shifts, and body movement.
+
+== Mechanics ==
+
+In a weave, each poi alternates between the left and right side of the body. The tethers cross at the midline on each transition. The hands cross over each other during each pass, with the lead hand alternating. The motion is performed in the wall plane (parallel to a wall in front of the spinner).
+
+The "beat count" of a weave refers to the number of poi beats (half-rotations or full rotations, depending on convention) that occur in one complete cycle. Higher beat counts mean more rotations occur on each side before the crossover.<ref name="drex-5steps-3beat">{{cite web |url=https://www.youtube.com/watch?v=n3b1vRI_tzw&t=0s |title=Poi Lessons for Beginners: 5 Steps to the 3-Beat Weave |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref><ref name="playpoi-442-3beat">{{cite web |url=https://www.youtube.com/watch?v=XKGMYEiT6X8&t=15s |title=4.42 The forward 3-beat weave |author=PlayPoi |access-date=2026-02-11 |at=0:15}}</ref>
 
 == Variants ==
 
-* '''3-beat weave''': The standard weave with three beats (one crossing, two on each side). The most common form.
-* '''5-beat weave''': Extended version with five beats per cycle.
-* '''2-beat weave''': Compressed version with rapid crossings.
-* '''Reverse weave''': Performed with the poi spinning in the opposite direction.
-* '''Behind-the-back weave''': Crossing behind the body instead of in front.
+=== 2-beat weave ===
+
+The 2-beat weave is the most compressed form, with one beat on each side before crossing. The rapid crossings produce a tight, fast pattern. Some instructors teach the 2-beat as a lead-up to the 3-beat, while others consider it a distinct technique that requires different timing skills.<ref name="playpoi-216-2beat">{{cite web |url=https://www.youtube.com/watch?v=esMfLtRTkW8&t=0s |title=2.16 Crossing poi forward split-time (2-beat weaves) |author=PlayPoi |access-date=2026-02-11 |at=0:00}}</ref><ref name="drex-2beat">{{cite web |url=https://www.youtube.com/watch?v=hanrZuOio5c&t=0s |title=2-beat Weaves for Poi (Basic Poi Spinning Tutorial) |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
+
+=== 3-beat weave ===
+
+The 3-beat weave is the standard form and the version most people mean when they say "the weave."<ref name="drex-3beat-5levels" /> It consists of three beats per cycle: one beat on the crossing and one beat on each side. This is the most common intermediate milestone for new poi spinners.<ref name="playpoi-3beat-fwd">{{cite web |url=https://www.youtube.com/watch?v=PiGuTsaoE1w&t=0s |title=Beginner Poi Spinning Tutorial: Forward 3-Beat Weave |author=PlayPoi |access-date=2026-02-11 |at=0:00}}</ref> Learning the 3-beat weave typically requires developing comfort with the poi crossing in front of the body and maintaining consistent plane control during the transition.<ref name="drex-5steps-3beat" />
+
+=== 5-beat weave ===
+
+The 5-beat weave adds additional rotations on each side before crossing, creating a wider, more expansive pattern. It requires the spinner to extend further to each side and maintain plane control over a longer cycle.<ref name="playpoi-5beat">{{cite web |url=https://www.youtube.com/watch?v=TS6GbfNoLZg&t=0s |title=Teaching the 5-Beat Weave (poi spinning tutorial) |author=PlayPoi |access-date=2026-02-11 |at=0:00}}</ref>
+
+=== 7-beat weave ===
+
+The 7-beat weave extends the pattern further still. Higher-beat weaves are less commonly practiced as standalone patterns and tend to appear more in technical exploration than in performance.<ref name="playpoi-multibeat">{{cite web |url=https://www.youtube.com/watch?v=3h7pqZCW3u4&t=0s |title=2 3 4 5 7 9 beat weaves (now including dead-beat weaves!) |author=PlayPoi |access-date=2026-02-11 |at=0:00}}</ref>
+
+=== Reverse weave ===
+
+The reverse weave is performed with the poi spinning in the opposite rotational direction from the standard (forward) weave. In a forward weave, the poi spin forward (away from the body at the top); in a reverse weave, they spin backward. The hand crossing and body mechanics are similar, but many spinners find the reverse weave more difficult to learn because it requires passing the hands behind each other rather than in front.<ref name="drex-reverse-3beat">{{cite web |url=https://www.youtube.com/watch?v=CmGprKaJe7E&t=0s |title=Master the Reverse 3 Beat Weave: Comprehensive Poi Tutorial for Beginners |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
+
+=== Behind-the-back weave ===
+
+In the behind-the-back weave, the crossover happens behind the spinner's body rather than in front. The hands cross behind the back, and the poi trace paths on alternating sides as seen from behind. This variation requires greater shoulder flexibility and spatial awareness since the spinner cannot see the poi during the crossing.<ref name="drex-btb-weave">{{cite web |url=https://www.youtube.com/watch?v=B1wJ9uylIRI&t=0s |title=5 Steps to the Poi Behind The Back Weave (Reverse) |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
+
+== Learning progression ==
+
+The weave occupies a central position in the typical poi learning path. A common progression is:
+
+# Forward spin (same-side circles)
+# Split-time forward spin
+# Butterfly (same time, opposite direction)
+# 2-beat weave or 3-beat weave
+# Reverse weave
+# Behind-the-back weave
+# Higher-beat weaves (5-beat, 7-beat)
+
+Mastery of the weave builds coordination for more advanced patterns that involve hand crossings, such as [[Flower (flow arts)|flowers]], windmills, and compound weave variations.
 
 == See also ==
 
 * [[Poi]]
 * [[Butterfly (flow arts)]]
 * [[Timing and direction]]
+* [[Plane (flow arts)]]
 
 == References ==
 

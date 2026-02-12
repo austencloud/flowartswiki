@@ -1,43 +1,78 @@
 {{AI generated}}
 '''Flow arts''' (also called '''object manipulation''' or '''prop spinning''') is a broad category of movement disciplines involving the manipulation of props in rhythmic, continuous patterns. Flow arts combine elements of dance, circus arts, and meditative practice.
 
+== Origin of the term ==
+
+The term "flow arts" was first used by Isa GlitterGirl Isaacs at the Temple of Poi fire dancing community in 2003 as a way to describe the range of spinning and manipulation practices that were emerging at festivals and gatherings.<ref name="fai-history">{{cite web |url=https://flowartsinstitute.com/history-of-term-flow-arts/ |title=History of the Term "Flow Arts" |publisher=Flow Arts Institute |access-date=2026-02-11}}</ref> Prior to this, practitioners identified by their specific prop (poi spinners, staff spinners, hoopers) without a shared umbrella term.
+
+Burning Dan (Dan Quiggle) further championed the term through online advocacy and community organizing. The 2008 Flow Temple event, organized in collaboration with several community leaders, served as a consolidation point where "flow arts" gained broader acceptance as the standard label for the discipline.<ref name="fai-history" /> The Flow Arts Institute, founded shortly after, documented this history and promoted the term through educational outreach.<ref name="fai-history" />
+
+The naming was not without debate. Some practitioners preferred "object manipulation" for its precision, while others argued that "flow arts" implied a spiritual or meditative dimension that not all practitioners shared. Despite these objections, "flow arts" became the dominant term by the early 2010s.<ref name="drex-mainstream">{{cite web |url=https://www.youtube.com/watch?v=6D2FBnTU-TA&t=42s |title=Why Didn't The Flow Arts Go Mainstream? |author=DrexFactor Poi |access-date=2026-02-11 |at=0:42}}</ref>
+
 == Props ==
 
 Common flow arts props include:
 
-* '''[[Poi]]''': Weighted objects on flexible cords, swung in circular patterns.
+* '''[[Poi]]''': Weighted objects on flexible cords, swung in circular patterns. The most widely practiced and theoretically developed flow art.<ref name="drex-what-is-poi">{{cite web |url=https://www.youtube.com/watch?v=a966hPArCEk&t=48s |title=What is Poi Spinning? Poi and Flow Arts Explained! |author=DrexFactor Poi |access-date=2026-02-11 |at=0:48}}</ref>
 * '''[[Staff (flow arts)|Staff]]''': Long rod manipulated through spins, rolls, and contact techniques. Can be single or [[double staff]].
 * '''[[Fire fans]]''': Rigid or folding fans, often with fire or LED elements.
 * '''[[Hoops]]''': Circular rings manipulated on and around the body.
-* '''[[Contact juggling]]''': Spheres rolled across the hands and body surface.
-* '''Rope dart''': A weighted end on a rope, combining striking and wrapping movements.
+* '''[[Contact juggling]]''': Spheres rolled across the hands and body surface without tossing.
+* '''[[Rope dart]]''': A weighted end on a rope, combining striking and wrapping movements.
 * '''Levitation wand''': A rod with a concealed balance point creating the illusion of independent movement.
 * '''Clubs''': Juggling clubs adapted for spinning manipulation.
 * '''Buugeng''': S-shaped props creating optical illusions when spun.
+* '''[[Dragon staff]]''': A staff with radiating spokes that create additional visual planes during rotation.
+
+== Relationship to other disciplines ==
+
+Flow arts shares practitioners, techniques, and performance contexts with several adjacent disciplines:
+
+* '''Juggling''': Toss juggling and flow arts overlap in clubs, balls, and rings. Contact juggling sits firmly in both camps. Siteswap notation from juggling has influenced flow arts thinking about pattern structure, though it does not directly apply to most spinning props.
+* '''Circus arts''': Fire performance, acrobatics, and stage presence are shared concerns. Many flow artists perform in circus contexts.
+* '''Dance''': Body movement, musicality, and spatial awareness connect flow arts to contemporary dance. Some practitioners train in both disciplines.
+* '''Martial arts''': Staff, rope dart, and meteor hammer have direct martial arts lineages. Bo staff forms, Chinese rope dart (sheng biao), and wushu weapon routines all inform modern flow arts technique.
+
+The boundaries between these disciplines are porous. A contact juggler may also identify as a juggler. A staff spinner may draw from bo staff kata. Flow arts as a category is defined less by exclusive membership and more by shared community, shared performance contexts, and a shared emphasis on continuous, rhythmic manipulation.
 
 == Theory ==
 
 The flow arts community has developed multiple theoretical frameworks for understanding and classifying movement:
 
-* '''[[Vulcan Tech Gospel]]''' (VTG): Classifies [[timing and direction]] relationships and [[Flower (flow arts)|pattern shapes]].
-* '''[[Continuous Assembly Patterns]]''' (CAPs): Compositional technique for assembling pattern fragments into cycles.
+* '''[[Vulcan Tech Gospel]]''' (VTG): Classifies [[timing and direction]] relationships and [[Flower (flow arts)|pattern shapes]].<ref name="noel-vtg-app">{{cite web |url=https://www.youtube.com/watch?v=VsUKQm8GGUk |title=NOELTECH #69: VTG 1:1 - Necessity of 40 Patterns |author=Noel Yee |access-date=2026-02-11}}</ref>
+* '''[[Continuous Assembly Patterns]]''' (CAPs): Compositional technique for assembling pattern fragments into cycles.<ref name="drex-caps">{{cite web |url=https://www.youtube.com/watch?v=iv7G74O3Zrs&t=61s |title=Poi 1:1 CAPs: A New Spin on Old Tech Poi |author=DrexFactor Poi |access-date=2026-02-11 |at=1:01}}</ref>
 * '''[[Transition Theory]]''': Describes how spinners move between pattern states.
 * '''[[9-Square Theory]]''': Spatial grid for mapping movement and transitions.
 * '''[[The Kinetic Alphabet]]''' (TKA): Letter-based notation system for two-handed manipulation.
 * '''[[Trigonometric model (poi)|Trigonometric model]]''': Parametric equations describing all poi patterns.
-* '''[[Driving style]]''': Taxonomy of eight fundamental movement categories.
+* '''[[Driving style]]''': Taxonomy of eight fundamental movement categories.<ref name="drex-driving">{{cite web |url=https://www.youtube.com/watch?v=igZXsBnyhEU&t=0s |title=Poi Techniques You Should Know: Driving Styles |author=DrexFactor Poi |access-date=2026-02-11 |at=0:00}}</ref>
+
+Most theoretical work has centered on [[poi]] due to the mathematical regularity of paired circular motion. Other props have received less formal analysis, though VTG has been adapted for [[hoops]], fans, and [[double staff]].
+
+== Tech versus dance ==
+
+A persistent tension within the flow arts community exists between two approaches to practice:
+
+* '''Tech''' (or '''technical''') spinners prioritize pattern mastery, theoretical understanding, and the systematic exploration of what a prop can do. Tech-oriented practice tends toward precision, categorization, and measurable progression.
+* '''Dance''' (or '''flow''') spinners prioritize musicality, body movement, and expressive performance. Dance-oriented practice emphasizes how spinning feels and looks as a whole rather than isolating individual patterns.
+
+Most experienced practitioners blend both approaches. The distinction is more of a spectrum than a binary, but it surfaces regularly in community discussions about what flow arts "should" emphasize.<ref name="drex-not-tech">{{cite web |url=https://www.youtube.com/watch?v=2CD6TT8JWlM&t=37s |title=This is Not Tech Poi - A History of Artistic Movements in the Advanced Poi World |author=DrexFactor Poi |access-date=2026-02-11 |at=0:37}}</ref>
 
 == Culture ==
 
-The flow arts community includes fire spinning, LED performance, and non-lit practice. Flow jams (informal gatherings for practicing together) are common. Fire performance requires specific safety protocols including fuel selection, spinning area requirements, and safety personnel.
+The flow arts community includes fire spinning, LED performance, and non-lit practice.<ref name="drex-mainstream-culture">{{cite web |url=https://www.youtube.com/watch?v=6D2FBnTU-TA&t=95s |title=Why Didn't The Flow Arts Go Mainstream? |author=DrexFactor Poi |access-date=2026-02-11 |at=1:35}}</ref> Flow jams (informal gatherings for practicing together) are a cornerstone of community culture, providing open space for skill sharing, collaboration, and socializing. Jams range from small weekly meetups in parks to large organized events with hundreds of attendees.
 
-Major gathering points for the community include festivals, regional burns, and online forums such as [[Home of Poi]].
+Fire performance requires specific safety protocols including fuel selection (white gas or ultra-pure lamp oil), spinning area requirements, and dedicated safety personnel with fire-extinguishing equipment.
+
+Major gathering points for the community include festivals, regional burns (events modeled on Burning Man), and online platforms. YouTube tutorial channels became the primary learning medium in the 2010s, supplementing and largely replacing earlier forum-based instruction.<ref name="drex-not-tech-youtube">{{cite web |url=https://www.youtube.com/watch?v=2CD6TT8JWlM&t=289s |title=This is Not Tech Poi - A History of Artistic Movements in the Advanced Poi World |author=DrexFactor Poi |access-date=2026-02-11 |at=4:49}}</ref> Notable online communities have included [[Home of Poi]] (forums), the Flow Arts subreddit, and various Facebook groups organized by prop type and region.
 
 == See also ==
 
 * [[Poi]]
 * [[Timing and direction]]
 * [[Vulcan Tech Gospel]]
+* [[Staff (flow arts)]]
+* [[Hoops]]
 
 == References ==
 

@@ -1,0 +1,45 @@
+{{Policy}}
+
+== Why primary sources ==
+
+Almost nobody in academia has written about flow arts. There is one clinical study on poi and health. That is roughly the extent of the peer-reviewed literature.
+
+The knowledge exists. It is in YouTube tutorials, workshop recordings, forum threads, podcast conversations, and Facebook group discussions. If this wiki required the same sourcing standards as Wikipedia, it would have almost nothing to cite.
+
+This wiki accepts '''primary sources''' as valid references. If someone said it publicly, we can cite it.
+
+== Valid sources ==
+
+* YouTube videos, tutorials, tech blogs, workshops, podcasts
+* Published websites by practitioners
+* Forum posts on public platforms
+* Instructional DVDs and courses
+* App descriptions and documentation
+* Books
+* Academic research, where it exists
+
+== Not valid ==
+
+* Private conversations or unpublished correspondence
+* Unattributed claims ("many spinners believe..." without saying who)
+* Secondhand accounts when a firsthand source is available
+* Content behind authentication walls that readers cannot verify
+
+== How to cite ==
+
+Every factual claim should be traceable to a source.
+
+* Link to the original video, post, or page
+* Include the creator's name and the title
+* Include a timestamp when quoting a specific statement from video or audio
+* Note when a transcript is auto-generated
+
+== If you are cited here ==
+
+If you are cited on this wiki and believe something is inaccurate, contact us. We will correct it. We cite only content that was published publicly. We always link to the original so readers can see the full context.
+
+== Why this matters ==
+
+Flow arts knowledge is fragile. Forum threads get deleted. Channels go dark. Recordings sit on hard drives that fail. This wiki exists to consolidate what people have said publicly, attribute every claim to its source, and let readers verify the record.
+
+[[Category:Flow Arts Wiki policies]]

@@ -8,6 +8,24 @@ The book is divided into two parts:
 * '''Part 1: Manual to Understand''': Theory covering position/rotation, hand and prop positioning, static spin, [[driving style|driving styles]], and [[timing and direction]].
 * '''Part 2: 64 Patterns in [[Tech Tiles]]''': Visual demonstrations of all 64 patterns in the [[Vulcan Tech Gospel|VTG]] 1:3 ratio set (four-petal [[antispin]] [[Flower (flow arts)|flowers]]), organized in an 8x8 grid and color-coded pink for left hand and cyan for right hand.<ref name="phat" />
 
+=== Manual to Understand ===
+
+The theoretical section covers the following topics:<ref name="phat" />
+
+* '''Position and rotation fundamentals''': How the hand and prop each have independent position and rotation states.
+* '''Grid system''': A circle with a plus sign inscribed, establishing four reference points used to describe where the hand and prop sit at any moment in a pattern.
+* '''Prop indication''': Whether the prop points toward or away from the body at each reference point.
+* '''Four fundamental shapes''': The four basic shapes that a single poi can trace (see [[324 Patterns]] for the named shapes).
+* '''Timing and direction''': The standard [[timing and direction]] parameters that distinguish pattern variants.
+
+=== The 1:3 ratio ===
+
+The patterns in the Book of P.H.A.T. belong to the 1:3 ratio set, meaning the prop completes three full rotations for every one rotation of the hand. This ratio produces four-petal [[antispin]] [[Flower (flow arts)|flowers]]. The 1:1 ratio set (two-petal flowers) was previously documented by [[Noel Yee]] as part of the original [[Vulcan Tech Gospel]]; the Book of P.H.A.T. extends the catalog into the next ratio tier.<ref name="phat" />
+
+=== The 8x8 grid ===
+
+The 64 patterns are arranged in an 8x8 grid. Each row represents one of eight shapes, and each column represents another of the same eight shapes. A cell at the intersection of a row and column represents the [[Hybrid (flow arts)|hybrid]] pattern produced when the left hand performs the row's shape and the right hand performs the column's shape. This grid structure makes it possible to look up any two-hand combination directly.<ref name="phat" />
+
 == Significance ==
 
 The Book of P.H.A.T. extends the [[Vulcan Tech Gospel]]'s pattern catalog from the 1:1 ratio set (40 patterns, documented by [[Noel Yee]]) into the 1:3 ratio set (64 patterns). It uses the [[Tech Tiles]] visualization system to present each pattern, making the full four-petal antispin flower catalog visually accessible.

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "DrexFactor",
+    "url": "https://www.youtube.com/@DrexFactor",
+    "channel_id": "UCLdxKhzTFBH85cjiSfMVeFQ",
+    "priority": 1,
+    "notes": "500+ tech blogs, CAP math, graph theory, VTG explainers"
+  },
+  {
+    "name": "Noel Yee",
+    "url": "https://www.youtube.com/channel/UCxNTT-bLX8l61ozRcrs41VQ",
+    "channel_id": "UCxNTT-bLX8l61ozRcrs41VQ",
+    "priority": 1,
+    "notes": "VTG originator, transition theory"
+  },
+  {
+    "name": "Spin More Poi",
+    "url": "https://www.youtube.com/channel/UC9ttFS8kzStkmXjwrQ2Y12g",
+    "channel_id": "UC9ttFS8kzStkmXjwrQ2Y12g",
+    "priority": 1,
+    "notes": "Charlie 9-Square Theory 10-part series"
+  },
+  {
+    "name": "PlayPoi",
+    "url": "https://www.youtube.com/@PlayPoi",
+    "channel_id": "UC1JgoAfZwzwO7himGUiYPlQ",
+    "priority": 2,
+    "notes": "Nick Woolsey, CAP tutorials, VTG popularization"
+  },
+  {
+    "name": "Sir Lorq",
+    "url": "https://www.youtube.com/channel/UC0pD2gHJQX-YDAZZNrSy67g",
+    "channel_id": "UC0pD2gHJQX-YDAZZNrSy67g",
+    "priority": 2,
+    "notes": "Shape Matrix, Tech Tiles, 324 Patterns, Book of PHAT"
+  },
+  {
+    "name": "Alien Jon",
+    "url": "https://www.youtube.com/channel/UCsU3nT26Emz8INF8ULL5GCQ",
+    "channel_id": "UCsU3nT26Emz8INF8ULL5GCQ",
+    "priority": 2,
+    "notes": "Early CAP promotion, Encyclo-poi-dia"
+  },
+  {
+    "name": "Skylar Garard",
+    "url": "TODO_FIND_CHANNEL",
+    "priority": 3,
+    "notes": "TKA tutorials (~25 videos)"
+  }
+]

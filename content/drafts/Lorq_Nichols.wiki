@@ -3,7 +3,17 @@
 
 == Background ==
 
-Nichols began contact juggling in 2000. He visited the [[Vulcan Lofts]] in Oakland, California in Spring 2010, where he studied under [[Brian Thompson]], [[David Cantor|David "Tankboy" Cantor]], and [[Noel Yee]]. This visit led to his subsequent work extending and visualizing the [[Vulcan Tech Gospel]] framework.<ref name="lorq-about" />
+Nichols began contact juggling in 2000. He visited the [[Vulcan Lofts]] in Oakland, California in Spring 2010, where he studied under [[Brian Thompson]], [[David Cantor|David "Tankboy" Cantor]], and [[Noel Yee]]. At the time of his visit, he had been spinning for approximately two years.<ref name="ocw">{{cite web |url=https://www.youtube.com/watch?v=o53BcosOXCc&t=4s |title=Online Clubspinning Workshop by LORQ |author=Lorq Nichols |access-date=2026-02-11 |at=0:04}}</ref> This visit led to his subsequent work extending and visualizing the [[Vulcan Tech Gospel]] framework.<ref name="lorq-about" />
+
+== Club spinning pedagogy ==
+
+Nichols has contributed to [[club spinning]] education through a distinct teaching methodology. He describes clubs as "a static problem," meaning the spinner can move the club in any direction at any time, unlike [[poi]] which is constrained by its tether.<ref name="ocw" /> This conceptual distinction informs his approach to club technique.
+
+Nichols identifies three fundamental grip types for clubs:<ref name="ocw" />
+
+* '''Ring grip''': The club rests against the base of the fingers, held primarily by a ring formed by the index finger and thumb.
+* '''Claw grip''': The fingers wrap around the club handle in a claw-like position, providing firm control.
+* '''Laser pointer grip''': The club is held as one would hold a laser pointer, with the index finger extended along the handle. Nichols uses this grip as a primary pedagogical tool for teaching beginners, as it encourages precise directional control of the club.
 
 == Contributions ==
 
@@ -29,7 +39,7 @@ The Tech Tiles system provides a visual notation for poi patterns. Nichols also 
 
 {{main|324 Patterns}}
 
-A framework organizing poi patterns as 27 arm paths multiplied by 12 shapes across 3 [[Plane (flow arts)|planes]], producing 324 distinct patterns.<ref name="324">{{cite web |url=http://spinscience.xyz/324-patterns/ |title=324 Patterns |publisher=Spin Science}}</ref>
+A framework organizing poi patterns as 27 arm paths multiplied by 12 shapes across 3 [[Plane (flow arts)|planes]], producing 324 distinct patterns.<ref name="324-patterns">{{cite web |url=http://spinscience.xyz/324-patterns/ |title=324 Patterns |publisher=Spin Science}}</ref>
 
 === 9 Flower Families ===
 
@@ -37,7 +47,7 @@ Nichols organized all [[Flower (flow arts)|flower]] patterns into nine families 
 
 === 144 Atomic Hybrids ===
 
-A catalog of 12 shapes multiplied by 9 arm paths, with the principle that "if you know a quarter of a pattern, you know the whole pattern."<ref name="144">{{cite web |url=https://sirlorq.wordpress.com/144ultimatepattern/ |title=144 Atomic Hybrids |publisher=Sir Lorq}}</ref>
+A catalog of 12 shapes multiplied by 9 arm paths, with the principle that "if you know a quarter of a pattern, you know the whole pattern."<ref name="144-hybrids">{{cite web |url=https://sirlorq.wordpress.com/144ultimatepattern/ |title=144 Atomic Hybrids |publisher=Sir Lorq}}</ref>
 
 === 3 Planes System ===
 
@@ -45,7 +55,7 @@ A classification of all spinning movement by [[Plane (flow arts)|plane]]: Wall (
 
 === Driving styles ===
 
-Nichols documented the [[driving style]] taxonomy (originally by Insignia), classifying poi movement into eight categories: [[Isolation (flow arts)|isolation]], [[antispin]], atomics, pendulums, [[Extension (flow arts)|extension]], cateye, [[Continuous Assembly Patterns|CAP]], and [[Hybrid (flow arts)|hybrid]].<ref name="driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref>
+Nichols documented the [[driving style]] taxonomy (originally by Insignia), classifying poi movement into eight categories: [[Isolation (flow arts)|isolation]], [[antispin]], atomics, pendulums, [[Extension (flow arts)|extension]], cateye, [[Continuous Assembly Patterns|CAP]], and [[Hybrid (flow arts)|hybrid]].<ref name="driving">{{cite web |url=https://sirlorq.wordpress.com/tag/driving-style/ |title=Driving Style |publisher=Sir Lorq}}</ref><ref name="drex-driving-styles">{{cite web |url=https://www.youtube.com/watch?v=igZXsBnyhEU&t=74s |title=Poi Techniques You Should Know: Driving Styles |author=DrexFactor |access-date=2026-02-11 |at=1:14}}</ref>
 
 == Spin Science ==
 

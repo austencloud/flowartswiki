@@ -1,12 +1,66 @@
 {{AI generated}}
 '''Staff''' is a [[flow arts]] prop consisting of a long rod, typically 4 to 6 feet in length, manipulated through spins, rolls, and contact techniques. Staff can be performed as a single prop or in pairs ([[double staff]]).
 
-Variants include fire staff (with kevlar wicks), LED staff, contact staff (emphasizing body rolls and balances), and dragon staff (a staff with radiating spokes that create additional visual planes).
+== Construction and materials ==
+
+A flow staff is a straight cylindrical rod, usually made of aluminum, fiberglass, or wood. The diameter is typically between 3/4 inch and 1 inch, sized to allow comfortable grip and rolling across the body. Weight and balance affect the style of manipulation: heavier staffs favor momentum-based spinning, while lighter staffs allow faster transitions and contact work.
+
+Fire staffs have kevlar wicking wrapped at both ends (and sometimes at the center) for fire performance. LED staffs contain battery-powered light elements along the length of the rod. Some staffs use silicone or rubber grip tape at the center for improved handling.
+
+== Variants ==
+
+* '''Single staff''': One staff manipulated with one or both hands. The most common starting point.
+* '''[[Double staff]]''': Two staffs manipulated simultaneously, one in each hand. Double staff is a paired-prop art and falls within the scope of [[Vulcan Tech Gospel]] and other two-prop theory frameworks.<ref name="noel-double-staff">{{cite web |url=https://www.youtube.com/watch?v=1lX9EOylFc4&t=0s |title=3/4 vs Antispin Double Staff |author=Noel Yee |access-date=2026-02-11 |at=0:00}}</ref>
+* '''Contact staff''': A staff designed for body contact techniques, including rolls across the arms, shoulders, back, and legs. Contact staffs are typically shorter and often coated in silicone or UV-reactive tape for grip. The discipline emphasizes balance, surface manipulation, and the illusion that the staff moves independently of the performer.
+* '''Fire staff''': Any staff equipped with kevlar wicks for fire performance. Can be single or double.
+* '''LED staff''': Staff with embedded LED lights, used for night performance and visual effects.
+* '''[[Dragon staff]]''': A staff with radiating spokes or arms extending from the center. When spun, the spokes create additional visual planes. Dragon staff technique differs significantly from standard staff due to the prop's gyroscopic behavior.
+
+== Technique categories ==
+
+=== Spinning ===
+
+Rotational manipulation around fixed points on the body or in the air. This includes basic horizontal and vertical spins, figure-eights, Steve (a behind-the-back transfer), and helicopter spins (horizontal rotation above the head). Single staff spinning uses one or both hands; the staff may be gripped at the center, at one end, or at various offset positions.
+
+=== Contact rolls ===
+
+Rolls across body surfaces without gripping the staff. Common contact surfaces include the arms, shoulders, back of the neck, chest, and legs. Contact technique requires precise body positioning and angle control to maintain smooth rolling motion. The staff follows the contour of the body, guided by shifts in posture rather than direct hand manipulation.
+
+=== Isolations ===
+
+Techniques where a point on the staff (typically the center or one end) appears to remain fixed in space while the spinner moves around it. Staff isolations are conceptually related to [[Isolation (flow arts)|poi isolations]] but are mechanically different due to the rigid, extended shape of the prop.
+
+=== Throws and aerials ===
+
+The staff is released into the air, rotates, and is caught. Throws range from simple single-rotation tosses to multi-rotation aerials with body turns during the flight. Throws are common in performance contexts and also appear in martial arts staff forms.
+
+== Relationship to martial arts ==
+
+Staff manipulation has a long history in martial arts traditions worldwide. The Japanese bo (six-foot staff), the Chinese gun (wax wood staff), the Filipino arnis/escrima sticks, and the Indian lathi all involve staff-based technique. Modern flow staff borrows movements from these traditions, particularly in the areas of striking patterns, figure-eights, and behind-the-back transfers.
+
+The relationship is not one-directional. Some martial arts practitioners have incorporated flow arts concepts (continuous motion, body movement, musicality) into their staff practice, creating hybrid styles that blend martial precision with flow aesthetics.
+
+== Theory ==
+
+Single staff, as a solo prop, is not directly addressed by most two-prop theory frameworks such as VTG. However, [[double staff]] is a paired-prop art and fits within the VTG framework for analyzing timing, direction, and pattern shapes.
+
+[[Lorq Nichols]] has applied club juggling theory concepts to staff manipulation, examining how siteswap-adjacent thinking can describe toss and catch patterns in staff work.<ref name="lorq-clubspinning">{{cite web |url=https://www.youtube.com/watch?v=o53BcosOXCc&t=0s |title=Online Clubspinning Workshop by LORQ |author=Lorq Nichols |access-date=2026-02-11 |at=0:00}}</ref>
+
+Contact staff technique draws on its own body of pedagogical knowledge, with MCP (Michael Caden Pike) recognized as a significant developer and educator of contact staff technique. Pike has stated that "not many people kind of did staff" when he began, and gravitated toward the prop from a juggling background.<ref name="sticksout-mcp">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8&t=209s |title=STICKSOUT PODCAST S.1 E.4: MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11 |at=3:29}}</ref>
+
+== Notable educators ==
+
+* '''[[MCP (flow arts)|MCP]]''' (Michael Caden Pike): A central figure in contact staff development and instruction.<ref name="sticksout-mcp" />
+* '''[[Lorq Nichols]]''': Applied club theory concepts to staff and contributed to cross-prop theoretical work.
+* '''Benjamin Berry''': Known for instructional content on single staff technique.
 
 == See also ==
 
 * [[Double staff]]
+* [[Dragon staff]]
 * [[Poi]]
+* [[Flow arts]]
+* [[Isolation (flow arts)]]
 
 == References ==
 

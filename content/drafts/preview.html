@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vulcan Tech Gospel - Flow Arts Wiki (Draft Preview)</title>
+<style>
+  :root { color-scheme: dark; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #1a1a2e;
+    color: #e0e0e0;
+    line-height: 1.7;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+  .draft-banner {
+    background: #2a1a3e;
+    border: 1px solid #6c3fa0;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 32px;
+    font-size: 13px;
+    color: #c4a0e8;
+  }
+  h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 12px;
+  }
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid #2a2a3e;
+    padding-bottom: 8px;
+  }
+  h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #d0d0e0;
+    margin-top: 28px;
+    margin-bottom: 12px;
+  }
+  p { margin-bottom: 14px; }
+  a { color: #7eb8da; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .infobox {
+    float: right;
+    background: #22223a;
+    border: 1px solid #3a3a5a;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 0 0 20px 24px;
+    width: 280px;
+    font-size: 14px;
+  }
+  .infobox-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #3a3a5a;
+  }
+  .infobox-row {
+    display: flex;
+    padding: 4px 0;
+    border-bottom: 1px solid #2a2a3e;
+  }
+  .infobox-label {
+    font-weight: 600;
+    color: #a0a0c0;
+    width: 100px;
+    flex-shrink: 0;
+  }
+  .infobox-value { color: #d0d0e0; }
+  table.wikitable {
+    border-collapse: collapse;
+    margin: 16px 0;
+    width: 100%;
+  }
+  table.wikitable th {
+    background: #22223a;
+    color: #c0c0e0;
+    padding: 10px 14px;
+    text-align: left;
+    border: 1px solid #3a3a5a;
+    font-weight: 600;
+  }
+  table.wikitable td {
+    padding: 10px 14px;
+    border: 1px solid #2a2a3e;
+  }
+  table.wikitable tr:nth-child(even) { background: #1e1e32; }
+  ul, ol { margin: 0 0 14px 24px; }
+  li { margin-bottom: 6px; }
+  .ref {
+    color: #7eb8da;
+    font-size: 0.75rem;
+    vertical-align: super;
+    cursor: pointer;
+  }
+  .references {
+    font-size: 13px;
+    margin-top: 32px;
+    padding-top: 16px;
+    border-top: 1px solid #2a2a3e;
+  }
+  .references li {
+    margin-bottom: 8px;
+    color: #a0a0b0;
+  }
+  .references a { color: #6a9ab8; }
+  .see-also {
+    background: #1e1e32;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-top: 32px;
+  }
+  .see-also h2 { margin-top: 0; border: none; padding: 0; margin-bottom: 12px; }
+  .categories {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid #2a2a3e;
+    font-size: 13px;
+    color: #808090;
+  }
+  .categories a { color: #6a9ab8; }
+  blockquote {
+    border-left: 3px solid #6c3fa0;
+    padding-left: 16px;
+    margin: 16px 0;
+    color: #b0b0c0;
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+<div class="draft-banner">
+  DRAFT PREVIEW — This article is pending deployment to flowarts.wiki. Content sourced from 18 primary references.
+</div>
+
+<div class="infobox">
+  <div class="infobox-title">Vulcan Tech Gospel</div>
+  <div class="infobox-row"><span class="infobox-label">Abbreviation</span><span class="infobox-value">VTG</span></div>
+  <div class="infobox-row"><span class="infobox-label">Creators</span><span class="infobox-value"><a href="#">Noel Yee</a>, <a href="#">Jordan Campbell</a>, <a href="#">David Cantor</a>, <a href="#">Brian Thompson</a></span></div>
+  <div class="infobox-row"><span class="infobox-label">Year</span><span class="infobox-value">2010</span></div>
+  <div class="infobox-row"><span class="infobox-label">Location</span><span class="infobox-value"><a href="#">Vulcan Lofts</a>, Oakland, CA</span></div>
+  <div class="infobox-row"><span class="infobox-label">Scope</span><span class="infobox-value">Two-prop spinning (prop-agnostic)</span></div>
+  <div class="infobox-row"><span class="infobox-label">Documents</span><span class="infobox-value">VTG V.1, VTG #2 (Beta), <a href="#">Book of P.H.A.T.</a></span></div>
+  <div class="infobox-row"><span class="infobox-label">App</span><span class="infobox-value">VTG - Flow Arts Resource (iOS/Android)</span></div>
+</div>
+
+<h1>Vulcan Tech Gospel</h1>
+
+<p>The <strong>Vulcan Tech Gospel</strong> (<strong>VTG</strong>) is a theoretical framework for prop spinning that classifies the relationships between two spinning objects using timing, direction, and pattern shape. It was developed collaboratively at the <a href="#">Vulcan Lofts</a> in Oakland, California, primarily by <a href="#">Noel Yee</a> with contributions from <a href="#">Jordan Campbell</a>, <a href="#">David "Tankboy" Cantor</a>, and <a href="#">Brian Thompson</a>.</p>
+
+<p>VTG is one of the foundational frameworks of modern flow arts theory. It applies to any form of two-prop spinning, including poi, double staff, fire fans, hoops, clubs, buugeng, and triads.</p>
+
+<h2>History</h2>
+
+<h3>The Vulcan Lofts</h3>
+
+<p>The Vulcan Lofts was a historic live/work space in Oakland, California, housing over 50 art studios with visual artists, circus performers, and musicians. It became the birthplace of much of modern flow arts theory during the late 2000s and early 2010s.<span class="ref">[1]</span></p>
+
+<p>Key residents and visitors who contributed to VTG included:</p>
+
+<ul>
+  <li><strong><a href="#">Noel Yee</a></strong> — primary compiler and theorist. Background in science education for children, which informed his teaching methodology. Co-founder of the Flow Arts Institute, FireDrums, Kinetic Fire, and the Vulcan Crew.<span class="ref">[2]</span></li>
+  <li><strong><a href="#">Jordan Campbell</a></strong> — co-created Transition Theory with Noel Yee in 2010, which "settled the core dogma of VTG."<span class="ref">[3]</span></li>
+  <li><strong><a href="#">David "Tankboy" Cantor</a></strong> — co-authored VTG Volume 2. Taught tech poi at the Vulcan.</li>
+  <li><strong><a href="#">Brian Thompson</a></strong> — taught club spinning hybrids. Co-developed the 24-Hybrid sequence.</li>
+  <li><strong><a href="#">Lorq Nichols</a></strong> — created the Book of P.H.A.T. and Tech Tiles visualization system after visiting the Vulcan in Spring 2010.<span class="ref">[4]</span></li>
+</ul>
+
+<h3>Development</h3>
+
+<p>The pivotal moment in VTG's development came in 2010 when Noel Yee and Jordan Campbell formalized Transition Theory, which describes how spinners navigate between different pattern states. This framework unified earlier observations about timing and direction into a coherent system.<span class="ref">[3]</span></p>
+
+<p>Lorq Nichols visited the Vulcan in Spring 2010, studying under Thompson, Cantor, and Yee. His subsequent work — including the Book of P.H.A.T., the Shape Matrix, and the Tech Tiles 3D Pattern Player — extended VTG's visual and organizational reach.<span class="ref">[4]</span></p>
+
+<h3>Definitions by practitioners</h3>
+
+<p>Different members of the VTG community define the system in different ways:</p>
+
+<ul>
+  <li><strong>David Cantor</strong>: "VTG is a treatise on technical prop manipulation, that seeks to explain the entirety of sets of technique using a predetermined set of constants and variables."<span class="ref">[5]</span></li>
+  <li><strong>Ryan Williams</strong>: "A map of possibilities and notation for rhythmic patterns with two props."<span class="ref">[5]</span></li>
+  <li><strong>Richard Hartnell</strong>: "VTG is a technical framework for spinning."<span class="ref">[5]</span></li>
+</ul>
+
+<h2>The VTG Trinity</h2>
+
+<p>VTG is built on three interconnected concepts, sometimes called the <strong>VTG Trinity</strong>.<span class="ref">[5]</span></p>
+
+<h3>Timing and Direction</h3>
+
+<p>The foundational layer of VTG. It describes the relative motion of two rotating objects using two variables:</p>
+
+<p><strong>Timing</strong> measures the phase relationship between two props, anchored to the <strong>downbeat</strong> — the lowest point (south) of the circular path.</p>
+
+<ul>
+  <li><strong>Together (tog)</strong>: Both props pass through the downbeat at the same moment.</li>
+  <li><strong>Split</strong>: Props are 180 degrees out of phase — one at the downbeat when the other is at the top.</li>
+</ul>
+
+<p><strong>Direction</strong> describes whether the two props rotate the same way or opposite ways.</p>
+
+<ul>
+  <li><strong>Same</strong>: Both props spinning in the same rotational direction.</li>
+  <li><strong>Opposite</strong>: Props spinning in opposite rotational directions.</li>
+</ul>
+
+<p>These two variables produce four fundamental categories:</p>
+
+<table class="wikitable">
+  <tr><th>Abbreviation</th><th>Full name</th><th>Timing</th><th>Direction</th></tr>
+  <tr><td><strong>SS</strong></td><td>Split-Same</td><td>Split (180° out of phase)</td><td>Same direction</td></tr>
+  <tr><td><strong>TS</strong></td><td>Together-Same</td><td>Together (in sync)</td><td>Same direction</td></tr>
+  <tr><td><strong>SO</strong></td><td>Split-Opposite</td><td>Split (180° out of phase)</td><td>Opposite directions</td></tr>
+  <tr><td><strong>TO</strong></td><td>Together-Opposite</td><td>Together (in sync)</td><td>Opposite directions</td></tr>
+</table>
+
+<p>Timing is always listed first, direction second.<span class="ref">[5]</span><span class="ref">[6]</span></p>
+
+<h3>Snapshots (Prop Facing)</h3>
+
+<p>A <strong>snapshot</strong> captures what a pattern looks like at a specific moment — "the image of a given pattern across the x or y axis." At each cardinal point (up, down, left, right), the prop is described as:</p>
+
+<ul>
+  <li><strong>Pointing in</strong>: The prop faces toward the performer's center/shoulder.</li>
+  <li><strong>Pointing out</strong>: The prop faces away from the performer's center.</li>
+</ul>
+
+<p>Snapshots provide a vocabulary for comparing patterns and identifying transitions between them.<span class="ref">[5]</span></p>
+
+<h3>Pattern (Shape)</h3>
+
+<p>The <strong>pattern</strong> or <strong>shape</strong> is "the image that the props of a given pattern create stretched out over 360 degrees" — the flower shape traced by the prop. VTG organizes patterns by their prop-to-hand rotation ratio:</p>
+
+<ul>
+  <li><strong>1:1</strong> — one prop rotation per one hand rotation (e.g., extensions, isolations)</li>
+  <li><strong>1:3</strong> (or <strong>3:1</strong>) — three prop rotations per one hand rotation (e.g., four-petal flowers)</li>
+  <li><strong>1:5</strong> (or <strong>5:1</strong>) — five prop rotations per one hand rotation</li>
+</ul>
+
+<p>Noel Yee documented <strong>40 patterns</strong> in the 1:1 ratio set.<span class="ref">[7]</span> Lorq Nichols documented <strong>64 patterns</strong> in the 1:3 ratio set in the Book of P.H.A.T.<span class="ref">[8]</span></p>
+
+<h2>Transition Theory</h2>
+
+<p><strong>Transition Theory</strong> was created by Noel Yee and Jordan Campbell in 2010. It describes how spinners move between the four timing-and-direction combinations (SS, TS, SO, TO).<span class="ref">[3]</span></p>
+
+<p>The framework identifies four types of transitions:</p>
+
+<table class="wikitable">
+  <tr><th>Transition type</th><th>Hand behavior</th><th>Prop behavior</th><th>Effect</th></tr>
+  <tr><td><strong>Soft</strong></td><td>Maintains direction</td><td>Maintains direction</td><td>Preserves the character of the current figure</td></tr>
+  <tr><td><strong>Hard</strong></td><td>Reverses direction</td><td>Reverses direction</td><td>Creates a mirror image in opposite direction</td></tr>
+  <tr><td><strong>Mixed</strong> (type 1)</td><td>Reverses direction</td><td>Maintains direction</td><td>Reverses arc/loop character (mechanism behind C-CAPs)</td></tr>
+  <tr><td><strong>Mixed</strong> (type 2)</td><td>Maintains direction</td><td>Reverses direction</td><td>Reverses arc/loop character</td></tr>
+</table>
+
+<p>Transition Theory builds on Alien Jon's earlier concepts of <strong>arcs</strong> and <strong>loops</strong>:</p>
+
+<ul>
+  <li><strong>Loops</strong>: Sections where poi and hand paths intersect (antispin petals, inspin petals, isolations).</li>
+  <li><strong>Arcs</strong>: Sections where hand and poi paths run parallel without intersecting (extensions).</li>
+</ul>
+
+<p>Mixed transitions convert arcs into loops and vice versa. This is the fundamental mechanism that enables <a href="#">Continuous Assembly Patterns</a> (CAPs).<span class="ref">[9]</span></p>
+
+<h2>Reference system</h2>
+
+<p>VTG is <strong>ground-referenced</strong>. The downbeat (south, the lowest point of the circular path) serves as the anchor for all timing and direction classifications. This means VTG categories describe what an observer sees from outside — the spatial relationship of the props at a fixed reference point.</p>
+
+<p>This contrasts with some other systems (such as <a href="#">The Kinetic Alphabet</a>) that use <strong>center-referenced</strong> measurement, where orientations are defined relative to the performer's center point rather than the ground.</p>
+
+<h2>Prop agnosticism</h2>
+
+<p>VTG was designed to apply to all forms of two-prop spinning. Because timing and direction are universal concepts — any two spinning objects have a phase relationship and a relative rotational direction — the framework transfers across prop types:</p>
+
+<ul>
+  <li><strong>Poi</strong> — the original and most common application</li>
+  <li><strong>Double staff</strong> — direct transfer of all VTG concepts</li>
+  <li><strong>Fire fans</strong> — adapted by Mike Smith ("Doodle") as Fan VTG 1:1</li>
+  <li><strong>Hoops</strong> — adapted by Cassie McKenney and Maiki Nope as Hoop VTG 1:1<span class="ref">[10]</span></li>
+  <li><strong>Clubs</strong>, <strong>buugeng</strong>, and <strong>triads</strong> — supported in the VTG app</li>
+</ul>
+
+<h2>Documents</h2>
+
+<h3>VTG V.1</h3>
+
+<p>The first published VTG document, compiled by Noel Yee with cover artwork by Forest Sterns. Contains the foundational theory of timing, direction, snapshots, patterns, and transition theory.<span class="ref">[11]</span></p>
+
+<h3>VTG #2 (Beta)</h3>
+
+<p>Co-authored by Noel Yee and David "Tankboy" Cantor. Includes a four-petal antispin flower index.<span class="ref">[11]</span></p>
+
+<h3>Book of P.H.A.T.</h3>
+
+<p>Created by Lorq Nichols with Brian Thompson, David Cantor, and Noel Yee. <strong>P.H.A.T.</strong> stands for "Patterns, Hybrids, And Transitions."</p>
+
+<ul>
+  <li><strong>Part 1: Manual to Understand</strong> — theory covering position/rotation, hand and prop positioning, static spin, driving styles, timing and direction.</li>
+  <li><strong>Part 2: 64 Patterns in Tech Tiles</strong> — visual demonstrations organized in an 8x8 grid, color-coded (pink for left hand, cyan for right hand).<span class="ref">[8]</span></li>
+</ul>
+
+<h3>VTG Poster</h3>
+
+<p>A visual reference highlighting parts of VTG 1 and 2, functioning as both art and educational tool. Available through the Flow Arts Institute.<span class="ref">[12]</span></p>
+
+<h2>VTG App</h2>
+
+<p>The VTG app is available on both iOS and Android, developed by Michael Pike and Noel Yee.</p>
+
+<ul>
+  <li><strong>VTG Lite</strong> (free, iOS) — animations and descriptions for learning VTG basics.<span class="ref">[13]</span></li>
+  <li><strong>VTG Full</strong> (paid, iOS) — expanded content.</li>
+  <li><strong>VTG - Flow Arts Resource</strong> (Android, by Michael Caden Pike) — includes animations for 1:1 and 1:3 patterns, quiz modes, and support for multiple prop types.<span class="ref">[14]</span></li>
+</ul>
+
+<p>A physical <strong>VTG Pattern Generator</strong> is also available, using 3 rules to create all 40 or 64 VTG patterns.<span class="ref">[15]</span></p>
+
+<h2>Related frameworks</h2>
+
+<p>VTG exists within a broader ecosystem of flow arts theory:</p>
+
+<ul>
+  <li><strong><a href="#">Continuous Assembly Patterns</a></strong> (CAPs) — a compositional technique that uses VTG's transition theory mechanics to assemble pattern fragments into repeating cycles.</li>
+  <li><strong><a href="#">9-Square Theory</a></strong> — Charlie Cushing's spatial grid framework, which quantizes the space around the spinner's body.</li>
+  <li><strong><a href="#">QFT Notation</a></strong> — a written shorthand system for recording poi movements, developed by Charlie Cushing.</li>
+  <li><strong><a href="#">Shape Matrix</a></strong> — Lorq Nichols' multiplication table for combining left-hand and right-hand flower patterns.</li>
+  <li><strong><a href="#">The Kinetic Alphabet</a></strong> — a letter-based notation system for two-handed prop manipulation that encodes timing and direction data per variation.</li>
+</ul>
+
+<div class="see-also">
+  <h2>See also</h2>
+  <ul style="margin-bottom:0">
+    <li><a href="#">Continuous Assembly Patterns</a></li>
+    <li><a href="#">Transition Theory</a></li>
+    <li><a href="#">9-Square Theory</a></li>
+    <li><a href="#">Noel Yee</a></li>
+    <li><a href="#">Lorq Nichols</a></li>
+    <li><a href="#">Flow Arts Institute</a></li>
+  </ul>
+</div>
+
+<div class="references">
+  <h2>References</h2>
+  <ol>
+    <li><a href="https://drexfactor.com/weirdscience/2016/05/15/tech_spinning_flow_arts">Tech Spinning in the Flow Arts</a>. 2016-05-15.</li>
+    <li><a href="https://noelyee.com/about-me/">About Me</a>. Noel Yee.</li>
+    <li><a href="https://noelyee.com/transition-theory-with-noel-yee/">Transition Theory with Noel Yee</a>. Noel Yee.</li>
+    <li><a href="https://sirlorq.wordpress.com/about-2/">About</a>. Sir Lorq.</li>
+    <li><a href="https://drexfactor.com/weirdscience/2015/11/25/vulcan_tech_gospel_vtg_explained">Vulcan Tech Gospel (VTG) Explained</a>. 2015-11-25.</li>
+    <li><a href="https://flowartsinstitute.com/tutsday-timing-direction/">TuTsday: Timing &amp; Direction</a>. Flow Arts Institute.</li>
+    <li><a href="https://noelyee.com/vtg-11-necessity-of-40-patterns/">VTG 1:1 Necessity of 40 Patterns</a>. Noel Yee.</li>
+    <li><a href="https://sirlorq.wordpress.com/tech-tiles/">Vulcan Tech Gospel Book of P.H.A.T. Volume 1</a>. Sir Lorq.</li>
+    <li><a href="https://drexfactor.com/weirdscience/2010/09/29/soft_hard_and_mixed_transition_theory">Soft, Hard, and Mixed Transition Theory</a>. 2010-09-29.</li>
+    <li><a href="https://noelyee.com/hoop-vtg-11-with-cassie-mckenney/">Hoop VTG 1:1 with Cassie McKenney</a>. Noel Yee.</li>
+    <li><a href="https://noelyee.com/instruction/vulcan-tech-gospel/">Vulcan Tech Gospel</a>. Noel Yee.</li>
+    <li><a href="https://flowartsinstitute.com/fai-swag-vtg-poster/">FAI Swag: VTG Poster</a>. Flow Arts Institute.</li>
+    <li><a href="https://apps.apple.com/us/app/vtg-lite-flow-arts-resource/id1473697606">VTG Lite - Flow Arts Resource</a>. App Store.</li>
+    <li><a href="https://play.google.com/store/apps/details?id=net.firestaff.mcp.VTGv3&hl=en">VTG - Flow Arts Resource</a>. Google Play.</li>
+    <li><a href="https://www.etsy.com/listing/247983114/vtg-pattern-generator-1">VTG Pattern Generator</a>. Etsy.</li>
+  </ol>
+</div>
+
+<div class="categories">
+  Categories: <a href="#">Flow arts theory</a> | <a href="#">Notation systems</a> | <a href="#">Vulcan Lofts</a>
+</div>
+
+</body>
+</html>

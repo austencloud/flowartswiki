@@ -1,0 +1,28 @@
+'''Austen Cloud''' is an American [[flow arts]] practitioner and notation developer based in the United States. He created [[The Kinetic Alphabet]] (TKA), a positional notation system for two-handed [[prop manipulation]], and is developing TKA Scribe, a companion web application.
+
+== Background ==
+
+Cloud became interested in cataloguing the positional possibilities of two-handed spinning. Working independently, he developed a system for encoding hand and prop positions into letters, building out the framework that became The Kinetic Alphabet starting around 2022.
+
+His approach was mathematical rather than theoretical in the community sense: he was primarily interested in enumerating every possible way two props could move through space relative to each other, treating it as a combinatorial problem.
+
+== The Kinetic Alphabet ==
+
+{{main|The Kinetic Alphabet}}
+
+Cloud developed TKA as a notation system that encodes prop movement into speakable letters and words. The system applies to paired static props where each hand directly holds a separate implement: [[double staff]], [[fire fans]], [[clubs]], and similar. It does not cover tethered props such as [[poi]].
+
+He has distributed an estimated 300-400 physical TKA reference books and approximately 200 sequence card packs at flow arts festivals. The system has reached practitioners in Japan, Taiwan, Australia, and parts of Europe, though no reliable adoption metrics exist.
+
+As of 2026, Cloud is developing TKA Scribe, a web application for generating, visualizing, and sharing TKA sequences.
+
+== See also ==
+
+* [[The Kinetic Alphabet]]
+* [[Poi notation]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Flow arts practitioners]]

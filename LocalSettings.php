@@ -181,5 +181,5 @@ $wgRightsIcon = "https://licensebuttons.net/l/by-sa/4.0/88x31.png";
 $wgNamespacesWithSubpages[NS_MAIN] = true;
 
 # Debug (disable in production)
-$wgShowExceptionDetails = false;
-$wgShowDBErrorBacktrace = false;
+$wgShowExceptionDetails = true;
+$wgShowDBErrorBacktrace = true;

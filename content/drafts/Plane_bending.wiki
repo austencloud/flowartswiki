@@ -1,9 +1,9 @@
 {{AI generated}}
-'''Plane bending''' is a [[flow arts]] technique where the prop's spinning [[Plane (flow arts)|plane]] transitions smoothly between orientations (e.g., from wall plane to wheel plane) rather than maintaining a single fixed plane. The result is a curved or tilted path that blends multiple planes.
+'''Plane bending''' is a [[flow arts]] technique where the prop's spinning [[Plane (flow arts)|plane]] transitions smoothly between orientations (e.g., from wall plane to wheel plane) rather than maintaining a single fixed plane. The result is a curved or tilted path that blends multiple planes.<ref name="lorq-bends">{{cite web |url=https://www.youtube.com/watch?v=RbH5WcKnfAk&t=5s |title=Plane-Bending Tutorial: 8 Basic Bends |author=Lorq Nichols |date= |access-date=2026-02-11 |at=0:05}}</ref>
 
 == Description ==
 
-In standard spinning, the prop traces a circle in a single plane (wall, wheel, or floor). In plane bending, the performer tilts the plane of the prop's rotation during the spin, so the prop's path curves through three-dimensional space rather than staying flat.
+In standard spinning, the prop traces a circle in a single plane (wall, wheel, or floor). In plane bending, the performer tilts the plane of the prop's rotation during the spin, so the prop's path curves through three-dimensional space rather than staying flat. [[Lorq Nichols]] demonstrates this as "bending around the front-back axis, which is where our hands move when they move in wall plane."<ref name="lorq-bends-axis">{{cite web |url=https://www.youtube.com/watch?v=RbH5WcKnfAk&t=17s |title=Plane-Bending Tutorial: 8 Basic Bends |author=Lorq Nichols |date= |access-date=2026-02-11 |at=0:17}}</ref>
 
 The visual effect is a "bending" of the circular path. Instead of a flat circle, the prop traces an arc on the surface of a sphere or [[toroid]].
 
@@ -13,16 +13,42 @@ The visual effect is a "bending" of the circular path. Instead of a flat circle,
 * '''Staff''': Contact staff plane bending involves rolling the staff through multiple planes
 * '''Hoops''': Hoop plane bending (sometimes called "lasso" when transitioning to overhead) is a fundamental hoop technique
 
+== 8 Basic Bends ==
+
+[[Lorq Nichols]] identifies eight fundamental plane bends, derived from the combination of four timing/direction states and two bending directions.<ref name="lorq-bends" />
+
+=== Derivation ===
+
+Nichols presents "plane bending in different timings and directions" to derive the eight bends.<ref name="lorq-bends-derive">{{cite web |url=https://www.youtube.com/watch?v=RbH5WcKnfAk&t=75s |title=Plane-Bending Tutorial: 8 Basic Bends |author=Lorq Nichols |date= |access-date=2026-02-11 |at=1:15}}</ref> The eight bends arise from:
+
+* '''4 timing/direction combinations''': same time same direction, same time opposite direction, split time same direction, split time opposite direction
+* '''2 bending directions''': bending the plane in the same direction as the poi's travel, or bending in the opposite direction
+
+4 timing/direction states x 2 bending directions = 8 basic bends.
+
+=== Same-direction vs opposite-direction bending ===
+
+The bending direction determines the resulting spatial relationship between the two poi:<ref name="lorq-bends" />
+
+* '''Same-direction bending''': Both poi bend into the same plane family. The two poi remain in a shared plane throughout the bend.
+* '''Opposite-direction bending''': The two poi bend into different planes, producing [[Atomic (flow arts)|atomic]] patterns. One poi occupies one plane while the other occupies a different plane simultaneously.
+
+=== Axis of intersection ===
+
+When the poi occupy two different planes (as in opposite-direction bending), the planes share an '''axis of intersection''' -- the line where the two planes cross. For example, when bending between wall plane and wheel plane, the axis of intersection runs along the front-back axis of the spinner's body. The poi oscillate across this axis, moving front-to-back repeatedly.<ref name="lorq-bends" />
+
 == Relationship to 3D spinning ==
 
-Plane bending is the gateway to three-dimensional spinning, where the performer intentionally uses all three planes and the transitions between them as part of their practice. The [[Trigonometric model (poi)|trigonometric model]] can describe plane-bent paths by adding a third spatial dimension to the standard 2D equations.
+Plane bending is the gateway to three-dimensional spinning, where the performer intentionally uses all three planes and the transitions between them as part of their practice.<ref name="drex-breaking-rules">{{cite web |url=https://www.youtube.com/watch?v=Ivldqe0E2Vg&t=293s |title=Breaking Rules of Poi Spinning |author=DrexFactor |date= |access-date=2026-02-11 |at=4:53}}</ref> The [[Trigonometric model (poi)|trigonometric model]] can describe plane-bent paths by adding a third spatial dimension to the standard 2D equations.
 
 In [[Lorq Nichols|Lorq Nichols']] framework, the three planes (Wall, Horizontal, Floor, abbreviated W/H/F) and their interactions are a core organizational concept.
 
 == See also ==
 
+* [[Lorq Nichols]]
 * [[Plane (flow arts)]]
 * [[Toroid]]
+* [[Atomic (flow arts)]]
 * [[Flow arts]]
 
 == References ==

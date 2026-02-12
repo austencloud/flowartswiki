@@ -2,14 +2,22 @@
 {{Infobox framework
 | name = The Kinetic Alphabet
 | abbreviation = TKA
-| creators = Austen Cloud
-| scope = Two-handed prop manipulation (prop-agnostic)
-| documents = TKA reference materials, TKA Scribe (web app)
+| creators = [[Austen Cloud]]
+| year = c. 2022
+| scope = Two-handed static prop manipulation
+| status = Active development
+| documents = TKA reference materials, TKA Scribe (web app, in development)
 }}
 
-'''The Kinetic Alphabet''' ('''TKA''') is a notation system for [[flow arts]] that encodes two-handed [[prop manipulation]] into letters. Each letter represents one beat of motion, specifying the positions and movements of both hands and props on a spatial grid. Letters combine into words, words into sentences, making TKA the only flow arts notation system that produces speakable, writable language.
+'''The Kinetic Alphabet''' ('''TKA''') is a notation system for [[flow arts]] that encodes two-handed [[prop manipulation]] into letters. Each letter represents one beat of motion, specifying the positions and movements of both hands and props on a spatial grid. Letters combine into words, words into sentences, producing speakable, writable notation for spinning patterns.
 
-TKA is prop-agnostic: the same notation applies to [[poi]], [[double staff]], [[fire fans]], [[clubs]], and any other paired spinning prop.
+TKA applies to static props where the prop is held directly in the hand: [[double staff]], [[fire fans]], [[clubs]], and similar paired static props. It does not apply to tethered props such as [[poi]], where the prop head moves independently of the hand on the end of a string or chain.
+
+== Status and adoption ==
+
+TKA was introduced around 2022 by [[Austen Cloud]]. Physical reference books (an estimated 300-400 copies) and sequence card packs (approximately 200) have been distributed at flow arts festivals in the United States. The system has reached individual practitioners in Japan, Taiwan, Australia, and Europe, though no reliable adoption metrics exist and the extent of active use is unknown.
+
+A companion web application, TKA Scribe, is in development as of 2026.
 
 == Overview ==
 

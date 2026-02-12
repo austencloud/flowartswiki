@@ -1,0 +1,61 @@
+{{AI generated}}
+'''Michael Caden Pike''', known as '''MCP''', is a Scottish [[Staff (flow arts)|staff]] spinner, software developer, and instructional content creator based in Newcastle upon Tyne, England. He is widely credited with popularizing [[contact staff]] within the international flow arts community.<ref name="flowarts-me">{{cite web |url=https://flowarts.me/flow-arts-instruments/contact-staff/ |title=Contact Staff |publisher=flowarts.me}}</ref> He developed the '''VTG - Flow Arts Resource''' app with [[Noel Yee]] and operates tutorials.firestaff.net, a wiki-format tutorial site for staff disciplines.<ref name="tutorials-firestaff">{{cite web |url=https://tutorials.firestaff.net/ |title=tutorials.firestaff.net |publisher=MCP |access-date=2026-02-11}}</ref>
+
+== Background ==
+
+Pike grew up in Edinburgh, Scotland, where he began spinning on the Meadows, a large public park.<ref name="sticksout-s1e4-edinburgh">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8&t=174s |title=STICKSOUT PODCAST S.1 E.4: MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11 |at=2:54}}</ref> He came from a juggling background and gravitated toward staff because few practitioners focused on it at the time: "not many people kind of did staff."<ref name="sticksout-s1e4-staff">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8&t=209s |title=STICKSOUT PODCAST S.1 E.4: MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11 |at=3:29}}</ref> He has been active since approximately 2003 and describes himself as "old school" in the staff community.<ref name="sticksout-s1e4-oldschool">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8&t=41s |title=STICKSOUT PODCAST S.1 E.4: MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11 |at=0:41}}</ref>
+
+Pike is listed alongside other long-tenured staff practitioners who have been active for fifteen or more years.<ref name="sticksout-s1e4-15yrs">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8&t=1252s |title=STICKSOUT PODCAST S.1 E.4: MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11 |at=20:52}}</ref> He later relocated to Newcastle upon Tyne, where he remains based.
+
+== Contact staff ==
+
+Multiple flow arts resources credit Pike with popularizing contact staff. flowarts.me states: "What is currently considered Contact Staff is derived from the ancient Chinese art Fei Cha, and has been popularised by the talented staff spinner MCP."<ref name="flowarts-me" /> Pike has described the appeal of contact staff as "the actual physical contact with lots of different parts of your body" and identifies as "more of like a purist" regarding the discipline.<ref name="sticksout-s1e4-contact">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8&t=281s |title=STICKSOUT PODCAST S.1 E.4: MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11 |at=4:41}}</ref><ref name="sticksout-s1e4-purist">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8&t=545s |title=STICKSOUT PODCAST S.1 E.4: MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11 |at=9:05}}</ref>
+
+== Software ==
+
+Pike develops flow arts applications published under the name "Michael Caden Pike" on Google Play (package namespace <code>net.firestaff.mcp.*</code>).
+
+=== VTG - Flow Arts Resource ===
+
+The flagship application, developed with [[Noel Yee]], provides animations for [[Vulcan Tech Gospel|VTG]] patterns in 1:1 and 1:3 ratios. It includes quiz modes and covers multiple prop types: [[poi]], [[Staff (flow arts)|staff]], club, [[Hoops|hoop]], [[Fans (flow arts)|fan]], [[buugeng]], and triads. Available on iOS and Android.<ref name="vtg-android">{{cite web |url=https://noelyee.com/vulcan-tech-gospel-android-app/ |title=Vulcan Tech Gospel Android App |publisher=Noel Yee}}</ref>
+
+=== Simulator apps ===
+
+* '''Poi LAB''' -- poi spinning simulator with thousands of programmable patterns, slow motion playback, and pattern saving.<ref name="poi-lab">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.poilab |title=Poi LAB |publisher=Google Play |author=Michael Caden Pike |access-date=2026-02-11}}</ref>
+* '''Double Staff LAB''' -- double staff simulator with thousands of moves and pattern sharing.<ref name="ds-lab">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.doublestafflab |title=Double Staff LAB |publisher=Google Play |author=Michael Caden Pike |access-date=2026-02-11}}</ref>
+* '''Hoop Twinz LAB''' -- twin and multi-hoop simulator with 100+ patterns and a fire trails mode.<ref name="hoop-lab">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.hooplab |title=Hoop Twinz LAB |publisher=Google Play |author=Michael Caden Pike |access-date=2026-02-11}}</ref>
+* '''Arm Control / Tutting Lab''' -- tutting arm movement simulator.
+
+== Instructional DVDs ==
+
+* '''Staff [Manipulation]''' -- approximately 150 minutes. Contains 110 minutes of narrated tutorials and 40 minutes of inspiration footage from international staff spinners. Covers single spinning, contact, doubles, and throws.
+* '''Double Staff [Manipulation]''' -- approximately 190 minutes. Contains 160+ minutes of tutorials and 30+ minutes of inspiration footage. Co-produced with Steve Wilson.
+
+== Tutorials site ==
+
+Pike operates '''tutorials.firestaff.net''', a wiki-format tutorial site covering contact staff, double staff, triple staff, dragon staff, and acrostaff.
+
+== Community ==
+
+Pike is a longtime collaborator of [[Noel Yee]], with whom he developed the VTG app and appeared on the [[Noel Yee#STICKSOUT PODCAST|STICKSOUT PODCAST]] (Season 1, Episode 4).<ref name="sticksout-s1e4-staff" /> [[Ben Drexler|DrexFactor]] has referenced Pike as a friend who filmed footage for his projects.<ref name="drex-hiatus">{{cite web |url=https://drexfactor.com |title=Why Profiles in Poi is on Hiatus |author=DrexFactor}}</ref> Brettstar Galactica has cited Pike as a source for learning contact staff: "I learned from MCP."<ref name="sticksout-s2e4-brettstar">{{cite web |url=https://www.youtube.com/watch?v=gNMznOo6MZk&t=323s |title=STICKSOUT PODCAST S2 E4: Brettstar Galactica |author=Noel Yee |access-date=2026-02-11 |at=5:23}}</ref>
+
+Pike bridges the UK fire arts and staff community with the US poi theory world through his work on VTG.<ref name="sticksout-s1e4-staff" />
+
+== See also ==
+
+* [[Contact staff]]
+* [[Staff (flow arts)]]
+* [[Vulcan Tech Gospel]]
+* [[Noel Yee]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://firestaff.net/ firestaff.net]
+* [https://tutorials.firestaff.net/ tutorials.firestaff.net]
+* [https://twitter.com/MCPcontactstaff @MCPcontactstaff on X/Twitter]
+
+[[Category:Flow arts practitioners]]

@@ -1,18 +1,33 @@
 {{AI generated}}
-The '''Encyclo-poi-dia''' is a reference document for [[poi]] techniques, created by [[Alien Jon]] and [[Zan Moore]]. It catalogs a wide range of poi moves and patterns, serving as an early attempt to comprehensively document the poi trick vocabulary.
+The '''Encyclo-poi-dia''' is an instructional DVD series for [[poi]] techniques, created by [[Alien Jon]] and [[Zan Moore]]. It catalogs a wide range of poi moves and patterns, serving as an early effort to systematically document the poi trick vocabulary.
+
+== Volumes ==
+
+The series includes at least two volumes. '''Volume 2''' is a 22-chapter, 95-minute DVD covering advanced poi techniques.<ref name="encyclopoidia-v2">{{cite web |url=https://flamebuoyant.com/product/encylco-poi-dia-volume-2/ |title=Encyclo-poi-dia Volume 2 |publisher=Flamebuoyant}}</ref> The trailer for Volume 2 explicitly identifies it as "Encyclo-poi-dia Volume 2 DVD," confirming that a '''Volume 1''' also exists.<ref name="encyc-v2-trailer">{{cite av media |title=Encyclo-poi-dia Volume 2 Trailer |type=video}}</ref>
+
+== Pedagogical approach ==
+
+The series reflects Alien Jon's teaching philosophy, which emphasizes quality of technique over quantity of tricks. In the trailer, he states: "To be a good poi spinner you don't need a lot of technique, you just need to have good technique. My highest place is when I just completely lose thought."<ref name="encyc-trailer">{{cite av media |title=Encyclo-poi-dia Trailer |type=video}}</ref>
+
+The series also frames poi as a three-dimensional practice. Alien Jon describes the relationship between planes and actual movement: "Those planes are really only the two-dimensional boundaries of what's actually going on in 3D space."<ref name="encyc-v2-trailer" />
+
+He advocates for open sharing of technique knowledge: "The one thing that will keep this art form continually rising is to share as much as you can."<ref name="encyc-trailer" />
 
 == Significance ==
 
 The Encyclo-poi-dia was one of the first efforts to systematically catalog and name poi techniques. It provided a shared vocabulary for the poi community at a time when many moves were known by different names in different regions.
 
-While later theoretical frameworks like the [[Vulcan Tech Gospel]], [[Continuous Assembly Patterns]], and [[The Kinetic Alphabet]] provide more structured systems for describing poi movement, the Encyclo-poi-dia remains a historical reference for the community's trick vocabulary and naming conventions.
+The series taught the constituent mechanics of poi movement, including loops, arcs, and transitions between pattern types. These concepts were later formalized by other practitioners into structured theoretical frameworks such as [[Transition Theory]] and [[Continuous Assembly Patterns]]. While the Encyclo-poi-dia predates those frameworks, the mechanical principles it demonstrates became foundational to later theory work.
+
+Later systems such as the [[Vulcan Tech Gospel]] and [[The Kinetic Alphabet]] provide more structured notation for describing poi movement, but the Encyclo-poi-dia remains a historical reference for the community's trick vocabulary and naming conventions.
 
 == See also ==
 
 * [[Alien Jon]]
 * [[Zan Moore]]
 * [[Poi]]
-* [[Flow arts]]
+* [[Transition Theory]]
+* [[Continuous Assembly Patterns]]
 
 == References ==
 

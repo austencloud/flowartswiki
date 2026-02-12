@@ -1,0 +1,96 @@
+{{AI generated}}
+'''Poi learning progression''' refers to the general sequence in which [[poi]] skills are acquired, from basic swinging through advanced pattern work. While no single curriculum is universal, a broad consensus exists across major educators including [[Nick Woolsey]] ([[PlayPoi]]), [[Ben Drexler]] ([[DrexFactor]]), and [[Alien Jon]]. Drexler notes that "it's still kind of a mystery as to what the progression should look like" because "everybody learns at a different pace."<ref name="drex-first10">{{cite web |url=https://www.youtube.com/watch?v=DTspoRK-LCU&t=89s |title=First 10 Poi Tricks In Order |author=DrexFactor |date= |access-date=2026-02-11 |at=1:29}}</ref><ref name="drex-break-beginner">{{cite web |url=https://www.youtube.com/watch?v=_1pWTbeYKtU&t=74s |title=5 Tips to Finally Break Out of Beginner Poi |author=DrexFactor |date= |access-date=2026-02-11 |at=1:14}}</ref> The progression below synthesizes common elements from their published curricula and workshop materials.
+
+== Phase 1: Foundations ==
+
+The first phase focuses on comfort with the prop and basic movement mechanics.
+
+* '''Single poi swinging''': Forward and reverse circles in the [[wall plane]], establishing rhythm and consistent rotation.
+* '''Plane awareness''': Recognizing and maintaining the [[wall plane]], [[wheel plane]], and [[floor plane]]. [[Nick Woolsey]]'s "Berlin Wall" method uses a physical wall for tactile feedback on plane control.<ref name="playpoi-beginner">{{cite web |url=https://www.youtube.com/playlist?list=PLDWMKCqP8aRGhJNxRPbSFWMbEQx3X05hx |title=Beginner Poi Spinning Lessons |publisher=PlayPoi (YouTube)}}</ref> Clean planes take months of regular practice to develop.
+* '''Free play''': Unstructured spinning to build proprioceptive awareness. Woolsey's "play like a 5-year-old" approach encourages exploration before technique.<ref name="playpoi-about">{{cite web |url=https://playpoi.com/about-playpoi/ |title=About PlayPoi |publisher=PlayPoi}}</ref>
+* '''Desensitization''': Getting hit by the poi repeatedly until flinch responses diminish. This is a normal and expected part of learning.
+* '''Body integration''': Basic footwork, posture, and torso engagement. Woolsey's [[Poi-Fu]] framework treats the body as the primary driver of the prop.<ref name="playpoi-poifu">{{cite web |url=https://playpoi.com/learn/poi-fu/ |title=Poi-Fu |publisher=PlayPoi}}</ref>
+
+== Phase 2: Two-poi basics ==
+
+Adding a second poi introduces timing, direction, and coordination challenges.
+
+* '''Together same time same direction''': Both poi spinning forward in parallel. The simplest two-poi pattern.
+* '''[[Butterfly (poi)|Butterfly]]''': Both poi spinning together in the same time, opposite direction, creating a figure-eight appearance in front of the body.
+* '''2-beat weave''': Crossing and uncrossing the arms while maintaining forward spin. Two crossings per full cycle.
+* '''Basic turns''': Turning the body 180 or 360 degrees while maintaining a pattern.
+
+== Phase 3: Core patterns ==
+
+These patterns form the technical foundation for intermediate and advanced work.
+
+* '''3-beat weave''': Three crossings per cycle, the most commonly taught weave pattern and a standard milestone in poi progression. Drexler calls it "probably the most recognizable poi trick there is."<ref name="drex-first10-weave">{{cite web |url=https://www.youtube.com/watch?v=DTspoRK-LCU&t=470s |title=First 10 Poi Tricks In Order |author=DrexFactor |date= |access-date=2026-02-11 |at=7:50}}</ref><ref name="drex-weave">{{cite web |url=https://drexfactor.com/weirdscience/2009/07/28/drexs_tech_poi_blog_6_three_beat_weave |title=Drex's Tech Poi Blog #6: Three Beat Weave |publisher=DrexFactor |date=2009-07-28}}</ref>
+* '''Reels''': Alternating direction patterns where each poi traces a reel-shaped path. An entry point into [[timing and direction]] variation.
+* '''Stalls''': Momentarily stopping the poi's rotation at a specific point. Stalls are both a technique and a transition tool.
+* '''Split-time exploration''': Moving from same-time spinning to [[split time]], where one poi is half a beat ahead of the other.
+
+== Phase 4: Intermediate ==
+
+Intermediate work introduces complex shapes and compositional thinking.
+
+* '''[[Flower (flow arts)|Flowers]]''': Multi-petal patterns created by the poi rotating at a different rate than the hand orbit. The typical teaching order is:
+*# '''Antispin flowers''' first, often via the "box method" or "diamond method" that treats the antispin petal as a geometric lead-up exercise.<ref name="playpoi-flowers">{{cite web |url=https://playpoi.com/learn/poi-flowers/ |title=Getting Started with Poi Flowers |publisher=PlayPoi}}</ref>
+*# '''Inspin flowers''', which require greater wrist control.
+*# '''Triquetra''' (three-petal antispin), a common milestone. Flowers take weeks of focused practice for most learners.
+* '''Extensions''': Patterns where the hand and poi paths run parallel without crossing, creating elongated shapes.
+* '''Body tracing''': Using flowers and other patterns to trace paths around and across the body. [[Alien Jon]] treats body tracing as an application of the same loop mechanics that generate flowers.<ref name="aj-lakeworth">{{cite av media |title=Intermediate to Advanced Poi Workshop |location=Lake Worth, FL |date=April 2012 |type=workshop}}</ref>
+
+== Phase 5: Advanced ==
+
+Advanced work combines pattern families and explores higher-order movement.
+
+* '''[[Hybrid (flow arts)|Hybrids]]''': Patterns combining different timing and direction relationships between the two poi.
+* '''[[Continuous Assembly Patterns|CAPs]]''': Assembling fragments of different patterns into continuous sequences, moving between inspin, antispin, and extension segments.
+* '''Toroids''': Three-dimensional patterns where the poi traces a toroidal (donut-shaped) path through space.
+* '''Advanced transitions''': Smooth movement between pattern families without resetting to a neutral pattern.
+
+== Pedagogical approaches ==
+
+Different educators emphasize different aspects of the progression.
+
+=== Woolsey: Lead-ups and body mechanics ===
+
+[[Nick Woolsey]]'s [[PlayPoi]] curriculum breaks each target pattern into component lead-up exercises practiced in isolation. His system prioritizes body mechanics ([[Poi-Fu]]) and encourages free play before formal technique. The 50-lesson beginner series follows a strict sequential build where each lesson's lead-ups prepare the next lesson's target pattern.<ref name="playpoi-beginner" />
+
+=== Drexler: Connections over tricks ===
+
+[[Ben Drexler]] has criticized the common approach of teaching poi as a collection of discrete tricks ("trick islands") with no connections between them. He argues that students often "never learn good techniques for transitioning between them" and "have no idea how all these different things connect together, much less how to move or dance with them."<ref name="drex-taught-wrong">{{cite web |url=https://www.youtube.com/watch?v=LSfrjpXJtUY&t=167s |title=We Teach Poi Wrong |author=DrexFactor |date= |access-date=2026-02-11 |at=2:47}}</ref>
+
+=== Alien Jon: Building blocks ===
+
+[[Alien Jon]] teaches loops as universal building blocks that underlie multiple pattern families. His framework treats loops as the shared mechanical basis for flowers, [[Snake (poi)|snakes]], and body tracing, allowing students to transfer skill between pattern types rather than learning each from scratch.<ref name="aj-lakeworth" />
+
+== Realistic timelines ==
+
+Skill acquisition in poi varies widely by individual, but some general observations hold across learners. As Drexler notes, "there's no shame in being at a beginner level for days, weeks, months, or even years at a time. Sometimes the leaps come quickly and sometimes they take a long time."<ref name="drex-break-beginner" />
+
+* '''Comfortable single-poi spinning''': Days to weeks.
+* '''Clean 3-beat weave''': Weeks to a few months.
+* '''Plane control in all three planes''': Months of regular practice.
+* '''First flowers (antispin)''': Several weeks of focused work after the prerequisites are solid.
+* '''Fluid CAPs and hybrids''': Months to years, depending on practice frequency.
+
+These timelines assume regular practice. Students who practice daily progress faster, but plateau periods are normal at every stage.
+
+== See also ==
+
+* [[PlayPoi]]
+* [[Nick Woolsey]]
+* [[Ben Drexler]]
+* [[Alien Jon]]
+* [[Flower (flow arts)]]
+* [[Continuous Assembly Patterns]]
+* [[Timing and direction]]
+* [[Poi-Fu]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:Poi technique]]
+[[Category:Flow arts education]]

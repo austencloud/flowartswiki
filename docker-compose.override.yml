@@ -1,0 +1,17 @@
+# Local development override
+# Exposes MediaWiki directly on port 8080, bypassing Caddy
+# (Caddy needs a real domain for auto-SSL, so we skip it locally)
+#
+# Usage: docker compose up -d
+# Then visit: http://localhost:8080
+
+services:
+  mediawiki:
+    ports:
+      - "8080:80"
+    environment:
+      MEDIAWIKI_SERVER: "http://localhost:8080"
+
+  caddy:
+    profiles:
+      - production

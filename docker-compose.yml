@@ -32,7 +32,7 @@ services:
     volumes:
       - ./LocalSettings.php:/var/www/html/LocalSettings.php:ro
       - wiki-images:/var/www/html/images
-      - citizen-skin:/var/www/html/skins/Citizen
+      - ./citizen-skin-repo:/var/www/html/skins/Citizen:ro
       - ./config/robots.txt:/var/www/html/robots.txt:ro
       - ./config/favicon.svg:/var/www/html/favicon.svg:ro
       - ./extensions/LinkHealth:/var/www/html/extensions/LinkHealth:ro
@@ -86,7 +86,6 @@ volumes:
   wiki-images:
   caddy-data:
   caddy-config:
-  citizen-skin:
 
 networks:
   internal:

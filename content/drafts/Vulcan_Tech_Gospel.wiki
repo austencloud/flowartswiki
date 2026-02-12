@@ -29,7 +29,13 @@ Key residents and visitors who contributed to VTG included:
 
 === Development ===
 
+The initial design of VTG drew from Brian Thompson's "first drawing," which served as the structural starting point. Yee describes the relationship: "Tank and I actually then gospel I designed based off of Brian's first drawing."<ref name="loft-show-1">{{cite web |url=https://www.youtube.com/watch?v=dlQNXqOM4Ns&t=343s |title=Loft Show episode #1: Noel Yee and Cassie McKenny! |author=Noel Yee |access-date=2026-02-11 |at=5:43}}</ref>
+
+VTG V.1 originally focused on '''clubs''', not poi. Noel Yee states: "In Vulcan one, Transition was applied and that's where the 24 Club Hybrid Sequence came out of."<ref name="loft-show-clubs">{{cite web |url=https://www.youtube.com/watch?v=dlQNXqOM4Ns&t=307s |title=Loft Show episode #1: Noel Yee and Cassie McKenny! |author=Noel Yee |access-date=2026-02-11 |at=5:07}}</ref> The framework was later generalized to poi and other props.
+
 The pivotal moment in VTG's development came in 2010 when Noel Yee and Jordan Campbell formalized [[Transition Theory]], which describes how spinners navigate between different pattern states. This framework unified earlier observations about timing and direction into a coherent system.<ref name="transition-theory" />
+
+Yee describes VTG as "sort of an open source project," reflecting its collaborative nature and the contributions of many practitioners over the years.<ref name="loft-show-opensource">{{cite web |url=https://www.youtube.com/watch?v=dlQNXqOM4Ns&t=567s |title=Loft Show episode #1: Noel Yee and Cassie McKenny! |author=Noel Yee |access-date=2026-02-11 |at=9:27}}</ref> On the question of authorship, Yee states: "Who wrote it? I would say we've all written it over the years of spinning, all of us that have put it together."<ref name="loft-show-authorship">{{cite web |url=https://www.youtube.com/watch?v=dlQNXqOM4Ns&t=249s |title=Loft Show episode #1: Noel Yee and Cassie McKenny! |author=Noel Yee |access-date=2026-02-11 |at=4:09}}</ref>
 
 [[Lorq Nichols]] visited the Vulcan in Spring 2010, studying under Thompson, Cantor, and Yee. His subsequent work — including the [[Book of P.H.A.T.]], the [[Shape Matrix]], and the [[Tech Tiles 3D Pattern Player]] — extended VTG's visual and organizational reach.<ref name="lorq-about" />
 
@@ -41,9 +47,9 @@ Different members of the VTG community define the system in different ways:
 * '''Ryan Williams''': "A map of possibilities and notation for rhythmic patterns with two props."<ref name="vtg-explained" />
 * '''Richard Hartnell''': "VTG is a technical framework for spinning."<ref name="vtg-explained" />
 
-== The VTG Trinity ==
+== The VTG Trivium ==
 
-VTG is built on three interconnected concepts, sometimes called the '''VTG Trinity'''.<ref name="vtg-explained" />
+VTG is built on three interconnected concepts. Noel Yee refers to these as the '''Trivium''',<ref name="vtg-snapshots-trivium">{{cite web |url=https://www.youtube.com/watch?v=slotWoJFrdA&t=9s |title=VTG - A Flow Arts Resource app #2: Snapshots |author=Noel Yee |access-date=2026-02-11 |at=0:09}}</ref> while Drex's overview uses the term '''VTG Trinity'''.<ref name="vtg-explained" />
 
 === Timing and Direction ===
 
@@ -83,6 +89,25 @@ A '''snapshot''' captures what a pattern looks like at a specific moment — "th
 * '''Pointing in''': The prop faces toward the performer's center/shoulder.
 * '''Pointing out''': The prop faces away from the performer's center.
 
+VTG names six specific snapshots based on timing and prop facing:<ref name="vtg-snapshots">{{cite web |url=https://www.youtube.com/watch?v=slotWoJFrdA&t=9s |title=VTG - A Flow Arts Resource app #2: Snapshots |author=Noel Yee |access-date=2026-02-11}}</ref>
+
+{| class="wikitable"
+|-
+! Snapshot !! Timing !! Prop facing
+|-
+| '''Tog out''' || Together || Both pointing out
+|-
+| '''Split out''' || Split || Both pointing out
+|-
+| '''Tog in''' || Together || Both pointing in
+|-
+| '''Split in''' || Split || Both pointing in
+|-
+| '''Tog split''' || Together || Hands together, props facing opposite directions
+|-
+| '''Split tog''' || Split || Hands split, props facing the same direction
+|}
+
 Snapshots provide a vocabulary for comparing patterns and identifying transitions between them.<ref name="vtg-explained" />
 
 === Pattern (Shape) ===
@@ -93,7 +118,9 @@ The '''pattern''' or '''shape''' is "the image that the props of a given pattern
 * '''1:3''' (or '''3:1''') — three prop rotations per one hand rotation (e.g., four-petal flowers)
 * '''1:5''' (or '''5:1''') — five prop rotations per one hand rotation
 
-Noel Yee documented '''40 patterns''' in the 1:1 ratio set.<ref name="40-patterns">{{cite web |url=https://noelyee.com/vtg-11-necessity-of-40-patterns/ |title=VTG 1:1 Necessity of 40 Patterns |publisher=Noel Yee}}</ref> [[Lorq Nichols]] documented '''64 patterns''' in the 1:3 ratio set in the [[Book of P.H.A.T.]].<ref name="phat">{{cite web |url=https://sirlorq.wordpress.com/tech-tiles/ |title=Vulcan Tech Gospel Book of P.H.A.T. Volume 1 |publisher=Sir Lorq}}</ref>
+The 1:1 patterns derive from a '''6x6 grid''' (36 squares), where four of the squares each contain two distinct patterns, producing '''40 patterns''' total. The grid uses color coding: green squares represent spin patterns and red squares represent antispin patterns. Noel Yee identifies '''10 minimal beat shapes''' as the foundational set from which all 40 patterns are built.<ref name="40-patterns">{{cite web |url=https://noelyee.com/vtg-11-necessity-of-40-patterns/ |title=VTG 1:1 Necessity of 40 Patterns |publisher=Noel Yee}}</ref><ref name="noeltech-40">{{cite web |url=https://www.youtube.com/watch?v=VsUKQm8GGUk |title=NOELTECH#69: VTG 1:1- Necessity of 40 Patterns |author=Noel Yee |access-date=2026-02-11}}</ref>
+
+[[Lorq Nichols]] documented '''64 patterns''' in the 1:3 ratio set in the [[Book of P.H.A.T.]].<ref name="phat">{{cite web |url=https://sirlorq.wordpress.com/tech-tiles/ |title=Vulcan Tech Gospel Book of P.H.A.T. Volume 1 |publisher=Sir Lorq}}</ref>
 
 == Transition Theory ==
 
@@ -131,7 +158,7 @@ This contrasts with some other systems (such as [[The Kinetic Alphabet]]) that u
 
 VTG was designed to apply to all forms of two-prop spinning. Because timing and direction are universal concepts — any two spinning objects have a phase relationship and a relative rotational direction — the framework transfers across prop types:
 
-* '''Poi''' — the original and most common application
+* '''Poi''' — the most common application (though VTG V.1 originally focused on clubs)<ref name="loft-show-1" />
 * '''Double staff''' — direct transfer of all VTG concepts
 * '''Fire fans''' — adapted by Mike Smith ("Doodle") as Fan VTG 1:1
 * '''Hoops''' — adapted by [[Cassie McKenney]] and Maiki Nope as Hoop VTG 1:1, covering prop facing and grip shifts specific to hoops<ref name="hoop-vtg">{{cite web |url=https://noelyee.com/hoop-vtg-11-with-cassie-mckenney/ |title=Hoop VTG 1:1 with Cassie McKenney |publisher=Noel Yee}}</ref>
@@ -141,7 +168,7 @@ VTG was designed to apply to all forms of two-prop spinning. Because timing and 
 
 === VTG V.1 ===
 
-The first published VTG document, compiled by Noel Yee with cover artwork by Forest Sterns. Contains the foundational theory of timing, direction, snapshots, patterns, and transition theory.<ref name="vtg-main">{{cite web |url=https://noelyee.com/instruction/vulcan-tech-gospel/ |title=Vulcan Tech Gospel |publisher=Noel Yee}}</ref>
+The first published VTG document, compiled by Noel Yee. [[Forest Sterns]] created the VTG logo and cover artwork.<ref name="noeltech69-forest">{{cite web |url=https://www.youtube.com/watch?v=VsUKQm8GGUk&t=31s |title=NOELTECH#69: VTG 1:1- Necessity of 40 Patterns |author=Noel Yee |access-date=2026-02-11 |at=0:31}}</ref> Contains the foundational theory of timing, direction, snapshots, patterns, and transition theory.<ref name="vtg-main">{{cite web |url=https://noelyee.com/instruction/vulcan-tech-gospel/ |title=Vulcan Tech Gospel |publisher=Noel Yee}}</ref>
 
 === VTG #2 (Beta) ===
 
@@ -162,7 +189,9 @@ A visual reference highlighting parts of VTG 1 and 2, functioning as both art an
 
 == VTG App ==
 
-The VTG app is available on both iOS and Android, developed by Michael Pike and Noel Yee.
+The VTG app has gone through multiple versions with different developers.<ref name="loft-show-1" />
+
+The first VTG app was built by '''Kevin (NCK)'''.<ref name="loft-show-kevin">{{cite web |url=https://www.youtube.com/watch?v=dlQNXqOM4Ns&t=525s |title=Loft Show episode #1: Noel Yee and Cassie McKenny! |author=Noel Yee |access-date=2026-02-11 |at=8:45}}</ref> '''[[Alien Jon]]''' created the app animations.<ref name="loft-show-aj-animations">{{cite web |url=https://www.youtube.com/watch?v=dlQNXqOM4Ns&t=559s |title=Loft Show episode #1: Noel Yee and Cassie McKenny! |author=Noel Yee |access-date=2026-02-11 |at=9:19}}</ref> '''[[Zack Buer]]''' designed the VTG2 pattern visuals.<ref name="loft-show-zack">{{cite web |url=https://www.youtube.com/watch?v=dlQNXqOM4Ns&t=519s |title=Loft Show episode #1: Noel Yee and Cassie McKenny! |author=Noel Yee |access-date=2026-02-11 |at=8:39}}</ref> '''Michael Caden Pike''' later built the VTG v3 app currently available on iOS and Android.<ref name="sticksout-mcp">{{cite web |url=https://www.youtube.com/watch?v=tHLaHO8W6i8 |title=STICKSOUT PODCAST S.1 E.4- MCP aka Michael Caden Pike |author=Noel Yee |access-date=2026-02-11}}</ref>
 
 * '''VTG Lite''' (free, iOS) — animations and descriptions for learning VTG basics.<ref name="vtg-ios">{{cite web |url=https://apps.apple.com/us/app/vtg-lite-flow-arts-resource/id1473697606 |title=VTG Lite - Flow Arts Resource |publisher=App Store}}</ref>
 * '''VTG Full''' (paid, iOS) — expanded content.

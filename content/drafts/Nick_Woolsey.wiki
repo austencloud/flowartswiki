@@ -1,23 +1,47 @@
 {{AI generated}}
-'''Nick Woolsey''' is an American [[flow arts]] educator and the founder of [[PlayPoi]], one of the most widely used online platforms for learning [[poi]] spinning.
+'''Nick Woolsey''' is an American [[flow arts]] educator and the founder of [[PlayPoi]], one of the most widely used online platforms for learning [[poi]] spinning. He learned poi in the spring of 2001 and released the fire poi video "Dervishly Yers" in 2003, which circulated widely online and became one of the early viral poi videos.<ref name="playpoi-about">{{cite web |url=https://playpoi.com/about-playpoi/ |title=About PlayPoi |publisher=PlayPoi}}</ref> [[Ben Drexler]] describes "Dervishly Yers" as "perhaps the first viral poi video, in an era before YouTube even existed."<ref name="drex-nick">{{cite web |url=https://www.youtube.com/watch?v=cTOdxZaXGJ0&t=102s |title=How Nick Woolsey Started a Poi Spinning Revolution |author=DrexFactor |date= |access-date=2026-02-11 |at=1:42}}</ref> The PlayPoi YouTube channel accumulated more than 18 million views, making it "the most popular destination" for people looking to learn poi.<ref name="drex-nick-views">{{cite web |url=https://www.youtube.com/watch?v=cTOdxZaXGJ0&t=128s |title=How Nick Woolsey Started a Poi Spinning Revolution |author=DrexFactor |date= |access-date=2026-02-11 |at=2:08}}</ref>
 
-== Contributions ==
+== PlayPoi ==
 
-=== PlayPoi ===
+Woolsey founded [[PlayPoi]] in the fall of 2004.<ref name="playpoi-about" /> The platform hosts a free beginner curriculum of 50 lessons on YouTube, numbered sequentially from 1.1 through 4.50, covering fundamentals through intermediate patterns.<ref name="playpoi-beginner">{{cite web |url=https://www.youtube.com/playlist?list=PLDWMKCqP8aRGhJNxRPbSFWMbEQx3X05hx |title=Beginner Poi Spinning Lessons |publisher=PlayPoi (YouTube)}}</ref> PlayPoi also offers an advanced poi course through Udemy for spinners beyond the beginner series.<ref name="playpoi-advanced">{{cite web |url=https://playpoi.com/advanced-poi/ |title=Advanced Poi |publisher=PlayPoi}}</ref>
 
-Woolsey founded PlayPoi, which hosts structured tutorial progressions covering [[Flower (flow arts)|flowers]], [[Continuous Assembly Patterns|CAPs]], [[antispin]] patterns, and other poi techniques. PlayPoi's curriculum organizes learning from basic spinning through advanced technical concepts.<ref name="playpoi">{{cite web |url=https://playpoi.com/about-playpoi/links/ |title=About PlayPoi |publisher=PlayPoi}}</ref>
+== Teaching methodology ==
 
-=== CAP terminology ===
+Woolsey's teaching system rests on several interconnected principles: a play-first orientation, lead-up exercises that isolate component skills, and emphasis on body mechanics over arm-driven spinning. Drexler notes that while Woolsey "was far from the only poi spinner that was approaching the prop this way," he was "definitely the person who did the most to integrate this approach into educating people on how to spin the prop."<ref name="drex-nick-body">{{cite web |url=https://www.youtube.com/watch?v=cTOdxZaXGJ0&t=324s |title=How Nick Woolsey Started a Poi Spinning Revolution |author=DrexFactor |date= |access-date=2026-02-11 |at=5:24}}</ref>
 
-Woolsey popularized the alternative expansion "'''Capped Antispin Patterns'''" for [[Continuous Assembly Patterns|CAP]], emphasizing the visual result of the technique rather than the compositional theory behind it. His tutorials made CAPs accessible to intermediate spinners and helped establish the C-CAP as a standard milestone in poi progression.<ref name="playpoi-caps">{{cite web |url=https://playpoi.com/learn/learning-caps-capped-antispin-patterns/ |title=Learning CAPs (Capped Antispin Patterns) |publisher=PlayPoi}}</ref>
+=== Play-first philosophy ===
 
-=== Teaching methodology ===
+Woolsey begins instruction by encouraging students to "play like a 5-year-old" -- exploring the prop freely without concern for technique. In his framework, unstructured play builds proprioceptive awareness and comfort with the prop before formal patterns are introduced.<ref name="playpoi-about" />
 
-PlayPoi's approach emphasizes structured progressions: flowers before CAPs, horizontal patterns as entry points for complex techniques, and systematic exploration of [[timing and direction]] combinations.<ref name="playpoi-flowers">{{cite web |url=https://playpoi.com/learn/poi-flowers/ |title=Getting Started with Poi Flowers |publisher=PlayPoi}}</ref>
+=== Lead-up teaching ===
+
+Woolsey uses what he calls "lead-ups" -- simplified exercises that train a specific component of a pattern in isolation before the student attempts the full movement. He draws an analogy to ''The Karate Kid'': Daniel did not know he was learning blocks when Mr. Miyagi had him wax cars and paint fences. Similarly, Woolsey's lead-up drills train the body for patterns the student has not yet attempted. Each lesson in the PlayPoi series builds on prior lead-ups, so that the eventual target pattern feels achievable rather than overwhelming.<ref name="playpoi-beginner" />
+
+=== Poi-Fu ===
+
+'''[[Poi-Fu]]''' is Woolsey's term for the body mechanics underlying poi spinning. Drawing from [[w:Tai chi|tai chi]] and martial arts, Poi-Fu addresses posture, pelvic floor engagement, pivot footwork, and spine alignment. The central principle is that the body drives the poi rather than the arms alone. Woolsey introduced the concept in PlayPoi lesson 3.20, teaching students to stand tall with "the top of your head floating towards the sky and your pelvic floor dropping towards the ground" while keeping the spine long and the core gently engaged.<ref name="playpoi-320">{{cite web |url=https://www.youtube.com/watch?v=T78UYsnZw3w&t=4s |title=3.20 Posture and Poi-Fu for Poi |author=PlayPoi |date= |access-date=2026-02-11 |at=0:04}}</ref><ref name="playpoi-poifu">{{cite web |url=https://playpoi.com/learn/poi-fu/ |title=Poi-Fu |publisher=PlayPoi}}</ref>
+
+=== Poitruvian Arms ===
+
+'''Poitruvian Arms''' is a set of arm-training exercises performed without poi. The drills train the arm paths, positions, and transitions needed for poi patterns, allowing students to develop muscle memory for hand placement before adding the complexity of a spinning prop.<ref name="playpoi-beginner" />
+
+=== Jiggies ===
+
+'''Jiggies''' are body-driven movement exercises that Woolsey credits to a community member known as "Iraqi." The technique involves generating poi momentum from hip and torso movement rather than arm effort, reinforcing the body-first principle central to Woolsey's teaching.<ref name="playpoi-beginner" />
+
+=== Berlin Wall method ===
+
+Woolsey teaches [[Planes (flow arts)|plane]] control through the "Berlin Wall" method: the student spins while standing next to a physical wall, using the wall's surface as tactile feedback for maintaining a clean [[wall plane]]. Contact with the wall signals that the poi has drifted off-plane.<ref name="playpoi-beginner" />
+
+== Leviathan ==
+
+Woolsey operates '''Leviathan''', a retreat property in Costa Rica that hosts immersive flow arts workshops and residencies.<ref name="leviathan">{{cite web |url=https://playpoi.com/leviathan/ |title=Leviathan |publisher=PlayPoi}}</ref>
 
 == See also ==
 
-* [[Continuous Assembly Patterns]]
+* [[PlayPoi]]
+* [[Poi-Fu]]
+* [[Poi learning progression]]
 * [[Flower (flow arts)]]
 
 == References ==
@@ -27,5 +51,6 @@ PlayPoi's approach emphasizes structured progressions: flowers before CAPs, hori
 == External links ==
 
 * [https://playpoi.com/ PlayPoi]
+* [https://www.youtube.com/@playpoi PlayPoi YouTube channel]
 
 [[Category:Flow arts practitioners]]

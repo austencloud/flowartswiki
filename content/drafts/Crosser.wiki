@@ -3,13 +3,17 @@ A '''crosser''' (also '''cross''' or '''crossing''') is a [[poi]] technique wher
 
 == Description ==
 
-In a crosser, one arm passes in front of or behind the other, temporarily reversing the left-right positioning of the hands. The poi continue spinning during the cross. Crossers are a defining feature of the [[weave]] family of patterns: a standard 3-beat weave includes two crossers per cycle.
+In a crosser, one arm passes in front of or behind the other, temporarily reversing the left-right positioning of the hands. The poi continue spinning during the cross.<ref name="drex-crossers">{{cite web |url=https://www.youtube.com/watch?v=TLOJcT6wdSI&t=0s |title=Basic Poi Dancing Tutorial: Crossers (redo) |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref> Crossers are a defining feature of the [[weave]] family of patterns: a standard 3-beat weave includes two crossers per cycle.<ref name="drex-crossers-pt1">{{cite web |url=https://www.youtube.com/watch?v=-a-Qs5g8Sq8&t=0s |title=How to do Poi Crossers Part 1 |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
 
 == Types ==
 
-* '''Front cross''': Arms cross in front of the body (the standard crosser in most weave patterns)
+* '''Front cross''': Arms cross in front of the body (the standard crosser in most weave patterns)<ref name="playpoi-crossers">{{cite web |url=https://www.youtube.com/watch?v=mrY4TwACjcQ&t=0s |title=Poi Dancing Lesson: How to do Crossers (Intermediate) |author=PlayPoi |access-date=2026-02-11 |at=0:00}}</ref>
 * '''Behind-the-back cross''': Arms cross behind the body
 * '''Over-the-head cross''': Arms cross above the head
+
+== Extensions ==
+
+'''Crosser extensions''' involve extending the arms outward from a split-time same-direction crosser position. Rather than keeping both arms close to the body during the cross, the spinner pushes one or both arms into an extended position while maintaining the crossed configuration. [[Alien Jon]] teaches crosser extensions as a technique for expanding the spatial range of crosser patterns.<ref name="aj-crosser-ext">{{cite web |url=https://www.youtube.com/watch?v=C_Mbmq3jFNg&t=12s |title=Poi Tutorial: Crosser Extensions and variations |author=Alien Jon |access-date=2026-02-11 |at=0:12}}</ref>
 
 == Relationship to other concepts ==
 
@@ -21,6 +25,7 @@ In [[Transition Theory]], crossers can function as transitions between spatial p
 * [[Behind the back]]
 * [[Transition (flow arts)]]
 * [[Poi]]
+* [[Alien Jon]]
 
 == References ==
 

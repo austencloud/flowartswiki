@@ -1,28 +1,22 @@
 {{AI generated}}
-'''324 Patterns''' is a classification framework for [[poi]] movement created by [[Lorq Nichols]]. It organizes patterns by multiplying 27 arm paths by 12 shapes across 3 [[Plane (flow arts)|planes]], producing 324 distinct patterns.<ref name="324">{{cite web |url=http://spinscience.xyz/324-patterns/ |title=324 Patterns |publisher=Spin Science}}</ref>
+'''324 Patterns''' is a classification framework for [[poi]] movement created by [[Lorq Nichols]]. It organizes patterns by multiplying 27 arm paths by 12 shapes across 3 [[Plane (flow arts)|planes]], producing 324 distinct patterns.<ref name="324-patterns">{{cite web |url=http://spinscience.xyz/324-patterns/ |title=324 Patterns |publisher=Spin Science}}</ref>
 
 == Structure ==
 
-=== 27 arm paths ===
-
-The 27 arm paths derive from Nichols' arm path theory:
-
-* 3 axes (vertical, horizontal, depth)
-* 3 planes ([[Plane (flow arts)|wall, wheel, floor]])
-* 3 positions per axis
-
-This produces 9 arm positions, which combine into 27 arm path transitions.
-
 === 12 shapes ===
 
-Four minimal-beat shapes, each performed in three planes:
+The framework uses four '''minimal-beat shapes'''. A minimal-beat shape is the simplest possible version of a movement category -- the fewest beats required to complete one full cycle of that shape. These four shapes represent the irreducible building blocks of poi movement:<ref name="324" />
 
-* [[Extension (flow arts)|Extension]]
-* [[Isolation (flow arts)|Isolation]]
-* 2VA (2-beat vertical antispin)
-* 2HA (2-beat horizontal antispin)
+* '''[[Extension (flow arts)|Extension]]''': The poi extends outward from the hand's circular path, tracing a larger circle. The prop and hand rotate in the same direction with the same timing.
+* '''[[Isolation (flow arts)|Isolation]]''': The poi head remains stationary (or nearly so) in space while the hand orbits around it. The prop appears to float in place.
+* '''2VA (2-beat vertical antispin)''': A two-beat [[antispin]] flower with petals oriented vertically. The prop rotates opposite to the hand's direction.
+* '''2HA (2-beat horizontal antispin)''': A two-beat antispin flower with petals oriented horizontally. Same antispin relationship as 2VA, but rotated 90 degrees.
 
-4 shapes x 3 planes = 12 shapes.
+Each shape is performed in three [[Plane (flow arts)|planes]] (wall, wheel, floor), producing 12 total shapes.
+
+=== 27 arm paths ===
+
+The 27 arm paths derive from 9 fundamental arm positions combined in groups of three.<ref name="324" /> Each arm position is defined by a location on a 3x3 grid (3 positions along one axis x 3 positions along a perpendicular axis). An arm ''path'' is a transition between positions. With 9 positions serving as waypoints, there are 27 distinct arm path transitions when accounting for the three planes of movement (9 arm paths per plane x 3 planes, or equivalently, the combinatorial paths through the 9-position grid).
 
 === Total ===
 
@@ -30,7 +24,7 @@ Four minimal-beat shapes, each performed in three planes:
 
 == Related frameworks ==
 
-Nichols also created the [[Shape Matrix|144 Atomic Hybrids]] catalog (12 shapes x 9 arm paths), with the principle that knowing a quarter of a pattern reveals the whole pattern.<ref name="144">{{cite web |url=https://sirlorq.wordpress.com/144ultimatepattern/ |title=144 Atomic Hybrids |publisher=Sir Lorq}}</ref>
+Nichols also created the [[Shape Matrix|144 Atomic Hybrids]] catalog (12 shapes x 9 arm paths), with the principle that knowing a quarter of a pattern reveals the whole pattern.<ref name="144-hybrids">{{cite web |url=https://sirlorq.wordpress.com/144ultimatepattern/ |title=144 Atomic Hybrids |publisher=Sir Lorq}}</ref>
 
 == See also ==
 

@@ -1,7 +1,31 @@
 {{AI generated}}
-'''Alien Jon''' is an American [[poi]] performer and theorist, recognized as a first-generation virtuoso from the tech poi era. He is credited with articulating key concepts in [[Continuous Assembly Patterns|CAP]] theory and co-creating the ''Encyclo-poi-dia'' instructional DVD series with [[Zan Moore]].<ref name="encyclopoidia">{{cite web |url=https://flamebuoyant.com/product/encylco-poi-dia-volume-2/ |title=Encyclo-poi-dia Volume 2 |publisher=Flamebuoyant}}</ref>
+'''Alien Jon''' is an American [[poi]] performer, instructor, and early technical innovator. Active from the late 2000s onward, he developed pedagogical methods for teaching poi mechanics and toured internationally as a workshop instructor. He co-created the ''[[Encyclo-poi-dia]]'' instructional DVD series with [[Zan Moore]].<ref name="encyclopoidia">{{cite web |url=https://flamebuoyant.com/product/encylco-poi-dia-volume-2/ |title=Encyclo-poi-dia Volume 2 |publisher=Flamebuoyant}}</ref>
 
-== Contributions ==
+== Teaching philosophy ==
+
+Alien Jon's teaching centers on visualization, mechanical building blocks, and body integration.
+
+=== Hallway visualization ===
+
+For teaching clean [[Planes (flow arts)|planes]], Alien Jon uses a "hallway" metaphor: students visualize standing in a narrow hallway, where the arms and poi should touch the walls on either side but never cross into the opposite wall's space. He introduced this in his Flow Temple Poi-2 classes in January 2010.<ref name="flowtemple-poi2">{{cite web |url=https://www.youtube.com/watch?v=Ran5bl6dF78&t=0s |title=Class Notes: Flow Temple Class, Poi-2, week #1 - 01-10-2010 |author=Alien Jon |access-date=2026-02-11 |at=0:00}}</ref>
+
+=== Building blocks framework ===
+
+Alien Jon teaches loops as universal building blocks that underlie multiple pattern families. In a 2012 workshop in Lake Worth, Florida, he stated: "These are the basic building blocks of flower patterns like anti-spins or in-spins...and they're also the basic building blocks for snakes."<ref name="lakeworth2012">{{cite web |url=https://www.youtube.com/watch?v=hCwe89eZd7U&t=31s |title=Class Notes: Intermediate to Advanced Poi topics - Part 2 - Lake Worth, FL 04-11-2012 |author=Alien Jon |access-date=2026-02-11 |at=0:31}}</ref> This framework treats loops as the shared mechanical basis for [[Flower (poi)|flowers]], [[Snake (poi)|snakes]], and [[body tracing]].
+
+=== 3D space ===
+
+He emphasizes that two-dimensional plane analysis is a simplification of poi movement. In the ''Encyclo-poi-dia Volume 2'' trailer, he states: "Those planes are really only the two-dimensional boundaries of what's actually going on in 3D space."<ref name="encyc-v2-trailer">{{cite web |url=https://www.youtube.com/watch?v=3ADVOYOgdcg&t=101s |title=Trailer: Encyclo-Poi-dia volume 2 DVD |author=Alien Jon |access-date=2026-02-11 |at=1:41}}</ref>
+
+=== Body integration ===
+
+His workshops consistently stress that the body is an active participant in poi spinning, not merely a pivot point. In a 2010 Boulder workshop, he describes the goal as learning to "create smooth circles with our whole body rather than standing here rigid and just using our shoulder muscles."<ref name="boulder-body">{{cite web |url=https://www.youtube.com/watch?v=QCyFfcSltn8&t=30s |title=Class Notes: Poi Foundation Concepts - Part 1 - Boulder Circus Center FlowShop 11-20-2010 |author=Alien Jon |access-date=2026-02-11 |at=0:30}}</ref> In a 2012 Lake Worth workshop, he stresses that "your body has to move dynamically through this while you're turning and playing with the poi."<ref name="lakeworth-body">{{cite web |url=https://www.youtube.com/watch?v=rqDzykGFHV8&t=280s |title=Class Notes: Intermediate to Advanced Poi topics - Part 1 - Lake Worth, FL 04-11-2012 |author=Alien Jon |access-date=2026-02-11 |at=4:40}}</ref>
+
+=== On technique and sharing ===
+
+In the ''Encyclo-poi-dia Volume 2'' trailer, Alien Jon states: "To be a good poi spinner you don't need a lot of technique, you just need to have good technique. My highest place is when I just completely lose thought."<ref name="encyc-trailer">{{cite web |url=https://www.youtube.com/watch?v=3ADVOYOgdcg&t=74s |title=Trailer: Encyclo-Poi-dia volume 2 DVD |author=Alien Jon |access-date=2026-02-11 |at=1:14}}</ref> He also advocates open knowledge sharing: "The one thing that will keep this art form continually rising is to share as much as you can."<ref name="encyc-sharing">{{cite web |url=https://www.youtube.com/watch?v=3ADVOYOgdcg&t=96s |title=Trailer: Encyclo-Poi-dia volume 2 DVD |author=Alien Jon |access-date=2026-02-11 |at=1:36}}</ref>
+
+== Techniques ==
 
 === Arcs and loops ===
 
@@ -12,18 +36,85 @@ Alien Jon articulated the distinction between '''arcs''' and '''loops''' in poi 
 
 This distinction became foundational to understanding how the [[Continuous Assembly Patterns|C-CAP]] mechanism converts between pattern types.
 
-=== CAP promotion ===
+=== Archer weaves ===
 
-Alien Jon adopted and promoted the [[Continuous Assembly Patterns|Continuous Assembly Pattern]] concept originally coined by Damien (Zaltymbunk) on the [[Home of Poi]] forums. His performance work demonstrated the technique's potential and helped establish CAPs as a core element of technical spinning vocabulary.<ref name="hop-caps">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/891193/What-are-CAP-s |title=What are CAPs? |publisher=Home of Poi Forums}}</ref>
+Alien Jon teaches archer weaves as "essentially just a normal weave with a slight change in stance so that you can keep one arm extended and one arm close to the armpit."<ref name="raleigh2015">{{cite web |url=https://www.youtube.com/watch?v=hRw8RbvNbVk&t=11s |title=Class Notes: Archers, Tracers, & Snakes Oh My! Raleigh, NC 3-7-2015 |author=Alien Jon |access-date=2026-02-11 |at=0:11}}</ref> The asymmetric arm positioning creates a visually distinct variation of the standard [[weave]].
 
-=== Encyclo-poi-dia ===
+=== Snakes ===
 
-Co-created with [[Zan Moore]], the ''Encyclo-poi-dia Volume 2'' is a 22-chapter, 95-minute instructional DVD covering advanced poi techniques including CAPs.<ref name="encyclopoidia" />
+He treats [[Snake (poi)|snakes]] as a distinct movement family with four basic entries. The fundamental motion involves looping behind the shoulder and snaking the poi around to the opposite side. Snakes are a regular topic in his workshops, often taught alongside [[body tracing]] and archer weaves.<ref name="raleigh2015" />
+
+=== Crosser extensions ===
+
+Alien Jon teaches [[Crosser|crosser]] extensions, a technique that involves extending outward from a split-time same-direction crosser position.<ref name="aj-crosser-ext">{{cite web |url=https://www.youtube.com/watch?v=C_Mbmq3jFNg&t=12s |title=Poi Tutorial: Crosser Extensions and variations |author=Alien Jon |access-date=2026-02-11 |at=0:12}}</ref> See [[Crosser#Extensions|Crosser: Extensions]].
+
+=== Body tracing ===
+
+[[Body tracing]] is a primary focus of Alien Jon's teaching. His building blocks framework connects body tracing to the same loop mechanics that generate flowers and snakes.<ref name="lakeworth2012" /> He taught body tracers as a workshop topic at Kinetic Fire 2011<ref name="kineticfire2011">{{cite web |url=https://www.youtube.com/watch?v=pH-CFzJMNNY |title=Kinetic Fire 2011 promo - Alien Jon and Nicky Evers |author=Alien Jon |access-date=2026-02-11}}</ref> and in multiple subsequent workshops.
+
+=== Pulse weaves ===
+
+Pulse weaves were among the topics Alien Jon covered at Kinetic Fire 2011.<ref name="kineticfire2011" />
+
+=== Pinch grip ===
+
+He teaches a specific grip technique: "pinching the end of the poi between my thumb and forefinger," which he describes as giving "a lot more fine-tuned control."<ref name="aj-pinch-grip">{{cite web |url=https://www.youtube.com/watch?v=jqkpHHNCy38&t=21s |title=Poi Tutorial: How Alien Jon grips his poi |author=Alien Jon |access-date=2026-02-11 |at=0:21}}</ref>
+
+== Relationship to CAP theory ==
+
+Alien Jon's teaching focused on the constituent mechanics of what would later be systematized as [[Continuous Assembly Patterns|Continuous Assembly Pattern]] (CAP) theory: loops, arcs, and transitions between pattern types. His workshops demonstrate these mechanics extensively,<ref name="lakeworth2012" /> though the CAP label itself was not central to his vocabulary. The CAP concept was originally coined by Damien (Zaltymbunk) on the [[Home of Poi]] forums.<ref name="hop-caps">{{cite web |url=https://www.homeofpoi.com/en/community/forums/topics/891193/What-are-CAP-s |title=What are CAPs? |publisher=Home of Poi Forums}}</ref>
+
+== Encyclo-poi-dia ==
+
+Co-created with [[Zan Moore]], the ''[[Encyclo-poi-dia]]'' is an instructional DVD series. Volume 2 is a 22-chapter, 95-minute release covering advanced poi techniques.<ref name="encyclopoidia" /> The trailer for Volume 2 explicitly references it as "Encyclo-poi-dia Volume 2 DVD,"<ref name="encyc-v2-trailer" /> confirming that a Volume 1 also exists.
+
+== nano-Tech Blog ==
+
+Alien Jon produced a series of ''nano-Tech Blog'' episodes, with at least 15 numbered installments plus additional special episodes. These are demonstration-focused videos with minimal narration, primarily showcasing technique through visual performance rather than verbal explanation.<ref name="nanotech-1">{{cite web |url=https://www.youtube.com/watch?v=QZQlpk6OZ48 |title=Alien Jon Poi: nano-Tech Blog 1: twisting & untwisting the body between 2 flower planes |author=Alien Jon |access-date=2026-02-11}}</ref> This format contrasts with the spoken tech-blog style used by other poi educators such as [[DrexFactor|Drex]].
+
+== Workshop history ==
+
+Alien Jon has taught workshops across the United States and internationally:
+
+{| class="wikitable"
+|-
+! Date !! Event / Workshop !! Location
+|-
+| January 2010 || Flow Temple Poi-2 Classes (Weeks 1-3) || <ref name="flowtemple-poi2" /><ref name="flowtemple-wk2">{{cite web |url=https://www.youtube.com/watch?v=3tu2jW8u3dA |title=Class Notes: Flow Temple Class, Poi-2, week #2 - 01-17-2010 |author=Alien Jon |access-date=2026-02-11}}</ref><ref name="flowtemple-wk3">{{cite web |url=https://www.youtube.com/watch?v=EHY7NUjyRPc |title=Class Notes: Flow Temple Class, Poi-2, week #3 - 01-31-2010 |author=Alien Jon |access-date=2026-02-11}}</ref>
+|-
+| February 2010 || Poi-Fu Workshop; Partner Poi Workshop || Fire Groove<ref name="poifu">{{cite web |url=https://www.youtube.com/watch?v=MQWNyVzWKHk |title=Class Notes: Poi-Fu Workshop - 02-11-2010 - Hosted by Fire Groove |author=Alien Jon |access-date=2026-02-11}}</ref><ref name="partnerpoi-firegroove">{{cite web |url=https://www.youtube.com/watch?v=WHX1kO0TC10 |title=Class Notes: Partner Poi Workshop - 02-11-2010 - Hosted by Fire Groove |author=Alien Jon |access-date=2026-02-11}}</ref>
+|-
+| July 2010 || Poi Workshops || Santa Fe, NM<ref name="santafe">{{cite web |url=https://www.youtube.com/watch?v=rWgt3xLOGh8 |title=Class Notes: Poi Workshops with Alien Jon - Part 1 - Santa Fe, NM 07-07-2010 |author=Alien Jon |access-date=2026-02-11}}</ref>
+|-
+| November 2010 || Poi Foundation Concepts || Boulder Circus Center FlowShop<ref name="boulder-body" /><ref name="boulder-pt2">{{cite web |url=https://www.youtube.com/watch?v=7D1SDuEC1BA |title=Class Notes: Poi Foundation Concepts - Part 2 - Boulder Circus Center FlowShop 11-20-2010 |author=Alien Jon |access-date=2026-02-11}}</ref>
+|-
+| 2011 || Kinetic Fire (co-teaching with [[Noel Yee]]): Stall Chasers / Stacks / Pendulums; Pulse Weaves / Body Tracers / Poi Snakes ||<ref name="kineticfire2011" />
+|-
+| April 2012 || Intermediate to Advanced Poi || Lake Worth, FL<ref name="lakeworth2012" /><ref name="lakeworth-body" />
+|-
+| May 2014 || Taking it to the Next Level || Toronto<ref name="toronto">{{cite web |url=https://www.youtube.com/watch?v=UB6cP3mSAek |title=Class Notes: Taking it to the Next Level Day 2, Part 1 Toronto 05-24-2014 |author=Alien Jon |access-date=2026-02-11}}</ref>
+|-
+| March 2015 || Archers, Tracers & Snakes; Partner Poi || Raleigh, NC<ref name="raleigh2015" /><ref name="raleigh-partnerpoi">{{cite web |url=https://www.youtube.com/watch?v=kUpwkfFUtK0 |title=Class Notes: Partner Poi Passing & Stealing Raleigh, NC 3-07-2015 |author=Alien Jon |access-date=2026-02-11}}</ref>
+|-
+| Various || Workshops || Singapore<ref name="singapore">{{cite web |url=https://www.youtube.com/watch?v=Ne7QuhjgUto |title=Poitruvian and vertical body tracing - poi workshop in Singapore |author=Alien Jon |access-date=2026-02-11}}</ref>; Kuala Lumpur<ref name="kl">{{cite web |url=https://www.youtube.com/watch?v=yvaXccJLSdM |title=Publika mall staff workshop notes, Kuala Lumpur, MYS |author=Alien Jon |access-date=2026-02-11}}</ref>
+|}
+
+== Collaborators ==
+
+* '''[[Noel Yee]]''': Co-taught at Kinetic Fire 2011<ref name="kineticfire2011" />
+* '''Thom Thumb''': Partner poi and passing<ref name="aj-thomthumb">{{cite web |url=https://www.youtube.com/watch?v=eJiVfAh8txM |title=Alien Jon Poi (w/ Thom Thumb): nano-Tech Blog 13: more Partner Poi Passing (with Hat) |author=Alien Jon |access-date=2026-02-11}}</ref>
+* '''Burning Dan''': Partner poi<ref name="aj-burningdan">{{cite web |url=https://www.youtube.com/watch?v=YtpFjY21ifA |title=Burning dan and Alien Jon - neon partner spirals |author=Alien Jon |access-date=2026-02-11}}</ref>
+* '''Yuta''': nano-Tech collaboration at Flow Space<ref name="aj-yuta">{{cite web |url=https://www.youtube.com/watch?v=_Y9HvBdy2o0 |title=Alien Jon Poi: nano-Tech collab: Yuta & Jon at the Flow Space |author=Alien Jon |access-date=2026-02-11}}</ref>
+* '''Minimal Steve''': Dragon staff work in Singapore<ref name="aj-minimalsteve">{{cite web |url=https://www.youtube.com/watch?v=VEOBKDaEseU |title=Dragon / staff rolling - Minimal Steve - workshop in Singapore |author=Alien Jon |access-date=2026-02-11}}</ref>
+* '''Nicky Evers''': Boulder, CO community<ref name="aj-nickyevers">{{cite web |url=https://www.youtube.com/watch?v=pH-CFzJMNNY |title=Kinetic Fire 2011 promo - Alien Jon and Nicky Evers |author=Alien Jon |access-date=2026-02-11}}</ref>
 
 == See also ==
 
+* [[Encyclo-poi-dia]]
 * [[Continuous Assembly Patterns]]
 * [[Transition Theory]]
+* [[Body tracing]]
+* [[Snake (poi)]]
 
 == References ==
 

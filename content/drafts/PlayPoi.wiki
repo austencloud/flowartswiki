@@ -1,14 +1,36 @@
 {{AI generated}}
-'''PlayPoi''' is an online platform for learning [[poi]] spinning, founded by [[Nick Woolsey]]. It hosts structured tutorial progressions covering [[Flower (flow arts)|flowers]], [[Continuous Assembly Patterns|CAPs]], [[antispin]] patterns, and other poi techniques.<ref name="playpoi">{{cite web |url=https://playpoi.com/about-playpoi/links/ |title=About PlayPoi |publisher=PlayPoi}}</ref>
+'''PlayPoi''' is an online [[poi]] education platform founded by [[Nick Woolsey]] in the fall of 2004.<ref name="playpoi-about">{{cite web |url=https://playpoi.com/about-playpoi/ |title=About PlayPoi |publisher=PlayPoi}}</ref> The site provides a structured curriculum for learning poi spinning, from beginner fundamentals through advanced patterns.
 
-PlayPoi popularized the alternative expansion "Capped Antispin Patterns" for [[Continuous Assembly Patterns|CAP]] and made the technique accessible to intermediate spinners.<ref name="playpoi-caps">{{cite web |url=https://playpoi.com/learn/learning-caps-capped-antispin-patterns/ |title=Learning CAPs (Capped Antispin Patterns) |publisher=PlayPoi}}</ref>
+== Beginner series ==
 
-The site also offers an advanced poi course through Udemy.<ref name="playpoi-advanced">{{cite web |url=https://playpoi.com/advanced-poi/ |title=Advanced Poi |publisher=PlayPoi}}</ref>
+PlayPoi's core offering is a free 50-lesson beginner series hosted on YouTube. The lessons are numbered sequentially from 1.1 through 4.50, organized into four stages that build progressively.<ref name="playpoi-beginner">{{cite web |url=https://www.youtube.com/playlist?list=PLDWMKCqP8aRGhJNxRPbSFWMbEQx3X05hx |title=Beginner Poi Spinning Lessons |publisher=PlayPoi (YouTube)}}</ref> Each lesson introduces a new concept through lead-up exercises before presenting the target pattern. The series covers spinning fundamentals, [[Planes (flow arts)|plane]] awareness, [[timing and direction]], basic [[Flower (flow arts)|flowers]], and intermediate patterns.
+
+== Advanced course ==
+
+Beyond the free beginner series, PlayPoi offers an advanced poi course through Udemy, covering topics such as horizontal flowers, [[Continuous Assembly Patterns|CAPs]], body tracing, and complex transitions.<ref name="playpoi-advanced">{{cite web |url=https://playpoi.com/advanced-poi/ |title=Advanced Poi |publisher=PlayPoi}}</ref>
+
+== Teaching methodology ==
+
+PlayPoi's curriculum reflects Woolsey's pedagogical framework:
+
+* '''Lead-up exercises''': Each pattern is broken into component movements practiced in isolation before being combined. Woolsey compares this to the ''Karate Kid'' training method -- the student practices building-block drills without necessarily knowing which pattern they are preparing for.<ref name="playpoi-beginner" />
+* '''Play-first approach''': Lessons encourage free exploration ("play like a 5-year-old") before structured technique, building comfort and proprioceptive awareness early.<ref name="playpoi-about" />
+* '''Body-first movement''': The curriculum treats poi as body movement first, prop manipulation second. [[Poi-Fu]] drills address posture, pivot footwork, and torso engagement. [[Nick Woolsey#Poitruvian Arms|Poitruvian Arms]] exercises train arm paths without poi in hand.<ref name="playpoi-beginner" />
+* '''Berlin Wall method''': Students practice spinning beside a physical wall for tactile feedback on [[Planes (flow arts)|plane]] control.<ref name="playpoi-beginner" />
+
+== Community engagement ==
+
+PlayPoi runs periodic community challenges, including a 30-day tosses challenge that encourages daily practice of throw-and-catch techniques.<ref name="playpoi-30day-tosses">{{cite web |url=https://www.youtube.com/watch?v=IP3OpjwnhEc&t=0s |title=Join me for a 30-day poi tosses challenge! |author=PlayPoi |access-date=2026-02-11 |at=0:00}}</ref> The platform maintains an active presence on YouTube, Facebook, and Instagram.<ref name="playpoi-about" />
+
+== Leviathan ==
+
+PlayPoi is also associated with '''Leviathan''', a retreat property operated by Woolsey in Costa Rica that hosts immersive flow arts workshops and residencies.<ref name="leviathan">{{cite web |url=https://playpoi.com/leviathan/ |title=Leviathan |publisher=PlayPoi}}</ref>
 
 == See also ==
 
 * [[Nick Woolsey]]
-* [[Continuous Assembly Patterns]]
+* [[Poi-Fu]]
+* [[Poi learning progression]]
 * [[Poi]]
 
 == References ==
@@ -18,5 +40,6 @@ The site also offers an advanced poi course through Udemy.<ref name="playpoi-adv
 == External links ==
 
 * [https://playpoi.com/ PlayPoi]
+* [https://www.youtube.com/@playpoi PlayPoi YouTube channel]
 
 [[Category:Flow arts organizations]]

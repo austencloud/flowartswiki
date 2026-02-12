@@ -3,7 +3,15 @@
 
 == Fire arts at Burning Man ==
 
-[[Fire spinning]] is a prominent feature of Burning Man and its regional events. The event's emphasis on radical self-expression, art, and community aligns with the flow arts ethos. Fire conclave performances at the burning of the Man on Saturday night are a major tradition.
+[[Fire spinning]] is a prominent feature of Burning Man and its regional events. The event's emphasis on radical self-expression, art, and community aligns with the flow arts ethos.
+
+=== Origins of fire performance ===
+
+Crimson Rose performed the first fire dance on the Burning Man playa in 1991, setting The Man ablaze.<ref name="bm-fire-dance">{{cite web |url=https://journal.burningman.org/2022/10/black-rock-city/building-brc/dancing-with-fire/ |title=Dancing With Fire |publisher=Burning Man Journal |date=2022-10}}</ref> Fire performance became a recurring tradition at the event in subsequent years.
+
+=== Fire Conclave ===
+
+The Fire Conclave Council formed around 2000, establishing organized standards for fire performance at Burning Man.<ref name="conclave-history">{{cite web |url=https://burningman.org/event/art-performance/performance-opportunities/fire-conclave/conclave-history/ |title=Fire Conclave History |publisher=Burning Man}}</ref> Fire conclave performances at the burning of the Man on Saturday night are a central tradition. The Conclave coordinates safety protocols, performer registration, and performance logistics for what is one of the largest organized fire spinning events in the world.
 
 == Influence on flow arts ==
 
@@ -11,7 +19,7 @@ Burning Man and the burn network have influenced the flow arts community in seve
 
 * '''Performance venues''': Burns provide large-scale performance opportunities for fire and LED performers
 * '''Community building''': Many flow arts communities trace their connections to burn culture
-* '''Safety standards''': The fire performance community at Burning Man has helped establish safety protocols that are now standard in the wider [[fire spinning]] community
+* '''Safety standards''': The fire performance community at Burning Man, particularly through the Fire Conclave, has helped establish safety protocols that are now standard in the wider [[fire spinning]] community
 * '''Cross-pollination''': Burns bring together performers from different prop disciplines and regions
 
 == Regional burns ==
@@ -23,6 +31,7 @@ Regional burns (officially sanctioned events inspired by Burning Man) take place
 * [[Fire spinning]]
 * [[Flow jam]]
 * [[Flow arts]]
+* [[FireDrums]]
 
 == References ==
 

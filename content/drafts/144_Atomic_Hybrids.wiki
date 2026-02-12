@@ -3,10 +3,25 @@ The '''144 Atomic Hybrids''' is a classification system developed by [[Lorq Nich
 
 == Structure ==
 
-The 144 patterns are derived from combining 12 possible single-poi behaviors with each other:
+=== 12 single-poi behaviors ===
 
-* 12 possibilities for the left poi x 12 possibilities for the right poi = 144 combinations
-* Some combinations are symmetric (same pattern on both sides), while most are asymmetric
+The system begins with the observation that a single poi has exactly 12 possible behaviors, derived from 4 fundamental shapes performed in 3 [[Plane (flow arts)|planes]]:<ref name="144-hybrids">{{cite web |url=https://sirlorq.wordpress.com/144ultimatepattern/ |title=144 Atomic Hybrids |publisher=Sir Lorq}}</ref>
+
+* 4 shapes: [[Extension (flow arts)|Extension]], [[Isolation (flow arts)|Isolation]], 2VA (2-beat vertical [[antispin]]), 2HA (2-beat horizontal antispin)
+* 3 planes: wall, wheel, floor
+
+4 shapes x 3 planes = 12 single-poi behaviors.
+
+=== Combining two poi ===
+
+The 144 patterns result from assigning any of the 12 behaviors to the left poi and any of the 12 behaviors to the right poi:
+
+* 12 left-poi behaviors x 12 right-poi behaviors = 144 combinations
+* Some combinations are symmetric (same behavior on both sides), while most are asymmetric [[Hybrid (flow arts)|hybrids]]
+
+=== The quarter-pattern principle ===
+
+Nichols identifies a structural property of these patterns: knowing one quarter of a pattern is sufficient to reconstruct the entire pattern. This holds because each pattern has rotational symmetry -- the four quadrants of the pattern repeat the same spatial relationships, rotated by 90 degrees. A spinner who can execute one quarter of an atomic hybrid can deduce the remaining three quarters from that fragment.<ref name="144" />
 
 == Relationship to other frameworks ==
 

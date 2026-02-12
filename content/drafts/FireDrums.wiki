@@ -1,16 +1,16 @@
 {{AI generated}}
-'''FireDrums''' is an annual fire arts gathering held in Northern California. It is one of the longest-running dedicated fire performance events in the United States.
+'''FireDrums''' is an annual fire arts gathering held in Northern California. It is one of the longest-running dedicated fire performance events in the United States.<ref name="firedrums">{{cite web |url=https://firedrums.org/ |title=FireDrums |publisher=FireDrums |access-date=2026-02-11}}</ref>
 
 == History ==
 
-FireDrums was co-founded by [[Noel Yee]] and has been held since the early 2000s. The event brings together fire spinners, fire breathers, and fire performers from across North America for workshops, performances, and community gathering.
+FireDrums was first organized by Sky Rockit in 2004 on a San Francisco beach.<ref name="firedrums" /> The event grew into a multi-day gathering and has been held annually since. In recent years, the event has taken place in Wilseyville, California. [[Noel Yee]] has been involved with the organization, though the specific nature and timeline of his role is not fully documented.
 
 == Format ==
 
-The event typically includes:
+FireDrums typically features approximately 100 workshops over a weekend, covering a range of fire and flow arts disciplines.<ref name="firedrums" /> The event includes:
 
 * '''Workshops''': Instruction in fire [[poi]], [[Staff (flow arts)|staff]], [[Fire fans|fans]], [[Rope dart|rope dart]], and other fire props
-* '''Fire circles''': Open spinning areas where performers share the space
+* '''Fire circle''': An open spinning area with live music at night, where performers share the space
 * '''Performances''': Scheduled shows and showcases
 * '''Community discussions''': Panels on safety, teaching, and the future of fire arts
 
@@ -22,10 +22,14 @@ FireDrums has served as an important gathering point for the [[flow arts]] commu
 
 * [[Fire spinning]]
 * [[Flow Arts Institute]]
-* [[Noel Yee]]
+* [[Burning Man]]
 
 == References ==
 
 {{reflist}}
+
+== External links ==
+
+* [https://firedrums.org/ FireDrums official website]
 
 [[Category:Flow arts organizations]]

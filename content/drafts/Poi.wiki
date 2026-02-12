@@ -3,23 +3,61 @@
 
 Poi is the prop for which most flow arts theory was developed. The [[Vulcan Tech Gospel]], [[Continuous Assembly Patterns]], [[9-Square Theory]], [[QFT Notation]], [[The Kinetic Alphabet]], and the [[Trigonometric model (poi)|trigonometric model]] all originated from or primarily address poi spinning.
 
+== History ==
+
+The word "poi" comes from the Maori language, where it refers both to the physical object and to the choreographed performance using it.<ref name="drex-what-is-poi">{{cite web |url=https://www.youtube.com/watch?v=a966hPArCEk&t=189s |title=What is Poi Spinning? Poi and Flow Arts Explained! |author=DrexFactor Poi |access-date=2026-02-11 |at=3:09}}</ref> Maori women used poi in traditional dances to build hand flexibility and coordination, while men used heavier poi for combat training. Performances accompanied waiata (songs) and were central to cultural ceremonies. Maori poi is part of the tradition of ceremonial dances collectively known as kapa haka and is frequently performed with large groups of dancers moving in unison.<ref name="drex-maori-poi">{{cite web |url=https://www.youtube.com/watch?v=FrsCuWQoRz8&t=16s |title=What Flow Artists Should Know About Maori Poi |author=DrexFactor Poi |access-date=2026-02-11 |at=0:16}}</ref>
+
+Modern poi spinning emerged independently from the Maori tradition during the late 1990s, primarily through rave and festival culture.<ref name="drex-mainstream-origins">{{cite web |url=https://www.youtube.com/watch?v=6D2FBnTU-TA&t=67s |title=Why Didn't The Flow Arts Go Mainstream? |author=DrexFactor Poi |access-date=2026-02-11 |at=1:07}}</ref> Fire spinning at Burning Man, Full Moon parties in Thailand, and outdoor raves in the UK and Australia exposed large audiences to poi for the first time.<ref name="drex-mainstream-burning-man">{{cite web |url=https://www.youtube.com/watch?v=6D2FBnTU-TA&t=105s |title=Why Didn't The Flow Arts Go Mainstream? |author=DrexFactor Poi |access-date=2026-02-11 |at=1:45}}</ref> Early adopters adapted the basic swing into more complex patterns, developing technique far beyond the original Maori forms. The website [[Home of Poi]], founded in New Zealand in 1999, became a central resource for technique sharing and community building during this period.<ref name="drex-mainstream-firedrums">{{cite web |url=https://www.youtube.com/watch?v=6D2FBnTU-TA&t=139s |title=Why Didn't The Flow Arts Go Mainstream? |author=DrexFactor Poi |access-date=2026-02-11 |at=2:19}}</ref>
+
+By the mid-2000s, poi had established itself as the dominant prop in the emerging [[flow arts]] scene, attracting practitioners from dance, juggling, martial arts, and circus backgrounds.<ref name="drex-what-is-poi" />
+
+== Construction ==
+
+A poi consists of three components:
+
+* '''Head''' (or weight): The weighted end that generates centrifugal force. Materials range from bean bags and tennis balls (practice) to kevlar wicking (fire) to programmable LED modules (pixel poi).
+* '''Tether''': The flexible connection between head and handle. Common materials include cord, chain, rope, and fabric (in the case of sock poi). Tether length varies by preference but typically spans from the fingertips to the shoulder when the arm is extended.
+* '''Handle''': The grip point. Designs include finger loops, knobs, and simple knots in the cord. Handle choice affects how the spinner controls release and catch movements.
+
 == Variants ==
 
 * '''Practice poi''': Soft, lightweight poi for learning. Often sock poi (a ball in a sock) or beanbag poi.
 * '''LED poi''': Battery-powered poi with light elements for night performance.
 * '''Fire poi''': Poi with kevlar wicks that are lit for fire performance.
-* '''Contact poi''': Shorter poi designed for body contact techniques.
+* '''Contact poi''': Shorter poi designed for body contact techniques, such as rolls and stalls against the arms and body.
 * '''Pixel poi''': Programmable LED poi that display images and patterns when spun (persistence of vision).
+* '''Sock poi''': The simplest construction, consisting of a ball or rice placed inside a long sock. Commonly used by beginners due to low cost and soft impact.
+
+== Basic technique ==
+
+Poi technique is organized around three fundamental variables:
+
+* '''[[Plane (flow arts)|Planes]]''': The spatial orientation of the poi's circular path. The three primary planes are the wall plane (parallel to a wall in front of the spinner), the wheel plane (perpendicular to the spinner's shoulders), and the floor plane (parallel to the ground).
+* '''[[Timing and direction|Timing]]''': The phase relationship between two poi. In ''same time'', both poi reach the same position simultaneously. In ''split time'', they are 180 degrees apart. ''Quarter time'' places them 90 degrees apart.
+* '''[[Timing and direction|Direction]]''': Whether both poi spin the same way (''same direction'') or opposite ways (''opposite direction'').
+
+Common foundational patterns include the [[Butterfly (flow arts)|butterfly]] (same time, opposite direction, wall plane), the [[Weave|3-beat weave]] (alternating crossings in front of the body), and the [[Flower (flow arts)|flower]] (layered petal shapes created by combining arm and poi rotation).
 
 == Theory ==
 
-Poi is the most theoretically developed prop in flow arts. Key frameworks include:
+Poi is the most theoretically developed prop in flow arts. The combination of two identical props spinning in circular paths creates a system that lends itself to mathematical and categorical analysis. Key frameworks include:
 
 * [[Timing and direction]]: The foundational variables for all two-prop spinning.
-* [[Vulcan Tech Gospel]]: Classification of timing, direction, snapshots, and pattern shapes.
-* [[Continuous Assembly Patterns]]: Compositional technique for assembling pattern fragments.
-* [[Trigonometric model (poi)|Trigonometric model]]: Parametric equations describing all poi patterns.
-* [[The Kinetic Alphabet]]: Letter-based notation for two-handed manipulation.
+* [[Vulcan Tech Gospel]]: Classification of timing, direction, snapshots, and pattern shapes. Developed by Noel Yee (VulcanTech), VTG provides a systematic vocabulary for describing and categorizing poi patterns.<ref name="drex-not-tech-vtg">{{cite web |url=https://www.youtube.com/watch?v=2CD6TT8JWlM&t=271s |title=This is Not Tech Poi - A History of Artistic Movements in the Advanced Poi World |author=DrexFactor Poi |access-date=2026-02-11 |at=4:31}}</ref>
+* [[Continuous Assembly Patterns]]: Compositional technique for assembling pattern fragments into continuous cycles. Created by Charlie Cushing (DrexFactor).<ref name="drex-caps-intro">{{cite web |url=https://www.youtube.com/watch?v=iv7G74O3Zrs&t=61s |title=Poi 1:1 CAPs: A New Spin on Old Tech Poi |author=DrexFactor Poi |access-date=2026-02-11 |at=1:01}}</ref>
+* [[Trigonometric model (poi)|Trigonometric model]]: Parametric equations describing all poi patterns as combinations of sine and cosine functions. Demonstrates that every poi pattern can be defined by a small set of numerical parameters.
+* [[The Kinetic Alphabet]]: Letter-based notation system for two-handed manipulation.
+* [[9-Square Theory]]: Spatial grid mapping movement and transition pathways.
+* [[QFT Notation]]: Quaternion-based notation system for describing prop orientation.
+* [[Driving style]]: Taxonomy of eight fundamental movement categories describing how the spinner's body generates motion.<ref name="drex-driving-styles">{{cite web |url=https://www.youtube.com/watch?v=igZXsBnyhEU&t=0s |title=Poi Techniques You Should Know: Driving Styles |author=DrexFactor Poi |access-date=2026-02-11 |at=0:00}}</ref>
+
+The depth of poi theory relative to other props reflects both the mathematical regularity of the system and the large community of practitioners who have contributed analytical work since the early 2000s.<ref name="drex-not-tech-vtg" />
+
+== Cultural significance ==
+
+Poi holds a dual cultural position. Within Maori culture, it remains a traditional art form performed at cultural events and taught as part of Maori heritage education. Within the global flow arts community, poi is the entry point for many practitioners and the prop around which community infrastructure (festivals, forums, tutorial libraries, notation systems) first developed.
+
+The tension between honoring Maori origins and recognizing the independent evolution of modern poi spinning is an ongoing discussion within the community. Most practitioners and organizations acknowledge the Maori roots of the art form while treating modern technical poi as a distinct discipline.<ref name="drex-maori-poi" />
 
 == See also ==
 
@@ -27,6 +65,8 @@ Poi is the most theoretically developed prop in flow arts. Key frameworks includ
 * [[Flower (flow arts)]]
 * [[Driving style]]
 * [[Home of Poi]]
+* [[Weave]]
+* [[Flow arts]]
 
 == References ==
 

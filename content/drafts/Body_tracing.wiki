@@ -3,14 +3,22 @@
 
 == Description ==
 
-In body tracing, the prop follows a path that closely mirrors the shape of the body or a body part. The performer uses arm and body movement to guide the prop along curves, over shoulders, around the waist, and along limbs. The visual effect emphasizes the relationship between the prop's path and the performer's body.
+In body tracing, the prop follows a path that closely mirrors the shape of the body or a body part. The performer uses arm and body movement to guide the prop along curves, over shoulders, around the waist, and along limbs. The visual effect emphasizes the relationship between the prop's path and the performer's body.<ref name="drex-body-tracers">{{cite web |url=https://www.youtube.com/watch?v=H_a79u2oFNY&t=0s |title=Poi Explainer: What Are Body Tracers? (intermediate poi tricks) |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
 
 == Techniques ==
 
-* '''Tracers''': Poi moved in small circles that follow the outline of the arm or body
+* '''Tracers''': Poi moved in small circles that follow the outline of the arm or body<ref name="drex-bt-5levels">{{cite web |url=https://www.youtube.com/watch?v=SmMQJeJKcX8&t=0s |title=Poi Body Tracing: 5 Difficulty Levels |author=DrexFactor |access-date=2026-02-11 |at=0:00}}</ref>
 * '''Isolations with body movement''': Prop stays fixed while the body moves around it, creating a tracing effect
 * '''Contact tracing''': The prop maintains physical contact with the body while traveling along its surface (see [[contact roll]])
 * '''Air tracing''': The prop follows the body's outline at a short distance without contact
+
+== Notable practitioners ==
+
+=== Alien Jon ===
+
+[[Alien Jon]] is a primary practitioner and teacher of body tracing in poi. He treats body tracing as mechanically related to [[Flower (poi)|flowers]] and [[Snake (poi)|snakes]] through his "building blocks" framework, in which loops serve as the shared mechanical basis for all three pattern families.<ref name="aj-lakeworth-pt2">{{cite web |url=https://www.youtube.com/watch?v=hCwe89eZd7U&t=34s |title=Class Notes: Intermediate to Advanced Poi topics - Part 2 - Lake Worth, FL 04-11-2012 |author=Alien Jon |access-date=2026-02-11 |at=0:34}}</ref> In that workshop, he stated: "These are the basic building blocks of flower patterns like anti-spins or in-spins...and they're also the basic building blocks for snakes," with body tracing following from the same loop mechanics applied along the body's contours.<ref name="aj-lakeworth-pt2" />
+
+Body tracing appeared as a workshop topic in Alien Jon's teaching from at least 2011 (Kinetic Fire, co-taught with [[Noel Yee]]) through 2015 (Raleigh, NC).<ref name="aj-raleigh">{{cite web |url=https://www.youtube.com/watch?v=hRw8RbvNbVk&t=0s |title=Class Notes: Archers, Tracers, & Snakes Oh My! Raleigh, NC 3-7-2015 |author=Alien Jon |access-date=2026-02-11 |at=0:00}}</ref> He also taught body tracing in a workshop in Singapore, covering both horizontal and vertical body traces with flowers.<ref name="aj-singapore-bt">{{cite web |url=https://www.youtube.com/watch?v=Ne7QuhjgUto&t=2s |title=Poitruvian and vertical body tracing - poi workshop in Singapore |author=Alien Jon |access-date=2026-02-11 |at=0:02}}</ref>
 
 == Relationship to other concepts ==
 
@@ -19,12 +27,15 @@ Body tracing overlaps with several other flow arts concepts:
 * '''[[Contact roll]]''': Physical contact version of body tracing
 * '''[[Isolation (flow arts)|Isolation]]''': When the prop is held still and the body moves, it can create a tracing visual
 * '''Dance/movement integration''': Body tracing connects prop manipulation with body movement and dance
+* '''[[Flower (poi)|Flowers]] and [[Snake (poi)|snakes]]''': In Alien Jon's building blocks framework, all three pattern families share loop mechanics as their foundation
 
 == See also ==
 
 * [[Flow arts]]
 * [[Contact roll]]
 * [[Isolation (flow arts)]]
+* [[Alien Jon]]
+* [[Snake (poi)]]
 
 == References ==
 

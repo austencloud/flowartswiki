@@ -1,15 +1,39 @@
 {{AI generated}}
-The '''Vulcan Crew''' was a group of [[flow arts]] practitioners based at [[Vulcan Lofts]] in Oakland, California. Members of the Vulcan Crew were instrumental in developing the [[Vulcan Tech Gospel]] (VTG) notation system for [[poi]] technique.
+The '''Vulcan Crew''' was a group of [[flow arts]] practitioners based at [[Vulcan Lofts]] in Oakland, California. Members of the Vulcan Crew were instrumental in developing the [[Vulcan Tech Gospel]] (VTG) framework for two-prop spinning technique. Noel Yee describes VTG as "sort of an open source project," reflecting the collaborative authorship across the group.<ref name="loft-show-1">Noel Yee, "Loft Show Episode 1: Noel Yee and Cassie McKenney" (YouTube)</ref>
 
 == Notable members ==
 
-* [[Noel Yee]] - VTG creator, [[Flow Arts Institute]] co-founder
-* [[David Cantor]] - VTG Vol. 2 co-author
-* [[Brian Thompson]] - Club hybrid researcher
+=== Core theorists ===
+
+* '''[[Noel Yee]]''': Primary VTG compiler, [[Flow Arts Institute]] co-founder.
+* '''[[Jordan Campbell]]''': Co-created [[Transition Theory]] with Noel Yee in 2010.<ref name="transition-theory">{{cite web |url=https://noelyee.com/transition-theory-with-noel-yee/ |title=Transition Theory with Noel Yee |publisher=Noel Yee}}</ref>
+* '''[[David Cantor|David "Tankboy" Cantor]]''': Co-authored VTG Volume 2. Taught tech poi at the Vulcan.
+* '''[[Brian Thompson]]''': Taught club spinning hybrids. Co-developed the 24 Club Hybrid Sequence. His "first drawing" served as the design origin for VTG.<ref name="loft-show-1" />
+
+=== Residents and collaborators ===
+
+* '''[[Cassie McKenney]]''': Vulcan Lofts resident. Co-developed Hoop VTG with Noel Yee and Maiki Nope.<ref name="hoop-vtg">{{cite web |url=https://noelyee.com/hoop-vtg-11-with-cassie-mckenney/ |title=Hoop VTG 1:1 with Cassie McKenney |publisher=Noel Yee}}</ref>
+* '''Maiki Nope''': Co-developed Hoop VTG with Cassie McKenney and Noel Yee.<ref name="hoop-vtg" />
+* '''[[Zack Buer]]''': Vulcan Lofts resident and Noel Yee's roommate. Designed the VTG2 app pattern visuals.<ref name="loft-show-1" />
+
+=== App and media contributors ===
+
+* '''Kevin (NCK)''': Built the first VTG app.<ref name="loft-show-1" />
+* '''[[Alien Jon]]''': Created the VTG app animations.<ref name="loft-show-1" />
+* '''[[Forest Sterns]]''': Created the VTG logo.<ref name="loft-show-1" />
+* '''Michael Caden Pike''': Built the VTG v3 app (current iOS/Android version).<ref name="vtg-android">{{cite web |url=https://play.google.com/store/apps/details?id=net.firestaff.mcp.VTGv3&hl=en |title=VTG - Flow Arts Resource |publisher=Google Play}}</ref>
+
+=== Visitors ===
+
+* '''[[Lorq Nichols]]''': Visited in Spring 2010, studying under Thompson, Cantor, and Yee. Subsequently created the [[Book of P.H.A.T.]] and [[Tech Tiles]] visualization system.<ref name="lorq-about">{{cite web |url=https://sirlorq.wordpress.com/about-2/ |title=About |publisher=Sir Lorq}}</ref>
+
+== Collaborative culture ==
+
+The Vulcan Crew developed VTG through daily practice and discussion in the shared living environment of Vulcan Lofts. On the question of authorship, Yee states: "Who wrote it? I would say we've all written it over the years of spinning, all of us that have put it together."<ref name="loft-show-1" /> This collective approach extended to app development, visual design, and prop-specific adaptations of the framework.
 
 == Legacy ==
 
-The collaborative environment at Vulcan Lofts allowed the crew to develop and refine the VTG system through daily practice and discussion. Their work laid the groundwork for systematic technical analysis of poi movement that influenced later frameworks including [[Continuous Assembly Patterns]] and [[The Kinetic Alphabet]].
+The crew's work laid the groundwork for systematic technical analysis of two-prop spinning that influenced later frameworks including [[Continuous Assembly Patterns]] and [[The Kinetic Alphabet]].
 
 == See also ==
 
