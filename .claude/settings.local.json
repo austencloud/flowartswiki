@@ -39,7 +39,21 @@
       "Bash(do grep -c \"$url\" content/drafts/research-sources.md)",
       "Bash(done)",
       "Bash(set:*)",
-      "Bash(do grep -q '#REDIRECT' \"$f\")"
+      "Bash(do grep -q '#REDIRECT' \"$f\")",
+      "Bash(scoop:*)",
+      "Bash(choco:*)",
+      "Bash(where.exe:*)",
+      "Bash(winget.exe:*)",
+      "Bash(export PATH=\"/c/Program Files/PHP/8.4:$PATH\")",
+      "Read(//c/Program Files/**)",
+      "Bash(cmd.exe:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(PHP_DIR=\"C:/Users/Austen/AppData/Local/Microsoft/WinGet/Packages/PHP.PHP.8.4_Microsoft.Winget.Source_8wekyb3d8bbwe\")",
+      "Bash(export PATH=\"$PHP_DIR:$PATH\")",
+      "Bash(\"C:/Users/Austen/AppData/Local/Microsoft/WinGet/Packages/PHP.PHP.8.4_Microsoft.Winget.Source_8wekyb3d8bbwe/php.exe\" -v)",
+      "Bash(PHP=\"C:/Users/Austen/AppData/Local/Microsoft/WinGet/Packages/PHP.PHP.8.4_Microsoft.Winget.Source_8wekyb3d8bbwe/php.exe\")",
+      "Bash(\"$PHP\" -m)",
+      "Bash(timeout 3 \"$PHP\" -S localhost:8080 -t wiki wiki/router.php)"
     ]
   },
   "enableAllProjectMcpServers": true,
