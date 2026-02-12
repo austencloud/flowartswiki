@@ -164,6 +164,16 @@ VTG was designed to apply to all forms of two-prop spinning. Because timing and 
 * '''Hoops''' — adapted by [[Cassie McKenney]] and Maiki Nope as Hoop VTG 1:1, covering prop facing and grip shifts specific to hoops<ref name="hoop-vtg">{{cite web |url=https://noelyee.com/hoop-vtg-11-with-cassie-mckenney/ |title=Hoop VTG 1:1 with Cassie McKenney |publisher=Noel Yee}}</ref>
 * '''Clubs''', '''buugeng''', and '''triads''' — supported in the VTG app
 
+== Planes ==
+
+VTG recognizes three planes of movement:
+
+* '''Wall plane''' (W): The vertical plane parallel to a wall in front of or behind the performer.
+* '''Wheel plane''' (H): The vertical plane perpendicular to the performer, like a wheel rolling alongside.
+* '''Floor plane''' (F): The horizontal plane, parallel to the ground.
+
+All VTG patterns can be performed in any of these three planes. The 3 Planes System was formalized by [[Lorq Nichols]] as part of his broader framework, and the plane is a standard parameter in the [[VTG App]].<ref name="3planes">{{cite web |url=http://spinscience.xyz/3planes/ |title=3 Planes |publisher=Spin Science}}</ref>
+
 == Documents ==
 
 === VTG V.1 ===

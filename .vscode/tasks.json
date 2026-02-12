@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "wiki-dev-server",
+      "type": "process",
+      "command": "php",
+      "args": ["-S", "localhost:8080", "-t", "wiki", "wiki/router.php"],
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "php-dev-server",
+        "pattern": {
+          "regexp": "^$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "^_never_$",
+          "endsPattern": "started"
+        }
+      },
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated",
+        "clear": true
+      }
+    }
+  ]
+}

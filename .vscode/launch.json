@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flow Arts Wiki",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:8080/wiki/Main_Page",
+      "webRoot": "${workspaceFolder}/wiki",
+      "preLaunchTask": "wiki-dev-server"
+    }
+  ]
+}

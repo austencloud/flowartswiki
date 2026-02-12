@@ -13,6 +13,8 @@ backups/
 .DS_Store
 Thumbs.db
 
+# Local dev (created by scripts/dev-setup.sh)
+wiki/
+
 # Editor
-.vscode/
 .idea/
